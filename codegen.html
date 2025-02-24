@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Code Generator</title>
+</head>
+<body>
+    <h2>Generate 8-Character Codes</h2>
+    
+    <label for="count">Number of codes:</label>
+    <input type="number" id="count" value="100" min="1" max="1000">
+    <button onclick="generateCodes()">Generate</button>
+    <button onclick="downloadCodes()">Download as TXT</button>
+    
+    <textarea id="output" rows="20" cols="20" style="width: 300px; margin-top: 20px;"></textarea>
+
+    <script>
+        function generateCodes() {
+            const characters = 'abcdefghijklmnopqrstuvwxyz0123456789';
+            const count = parseInt(document.getElementById('count').value);
+            const codes = new Set();
+
+            while (codes.size < count) {
+                let code = '';
+                for (let i = 0; i < 8; i++) {
+                    code += characters.charAt(Math.floor(Math.random() * characters.length));
+                }
+                codes.add(code);
+            }
+
+            document.getElementById('output').value = Array.from(codes).join('\n');
+        }
+
+        function downloadCodes() {
+            const text = document.getElementById('output').value;
+            const blob = new Blob([text], { type: 'text/plain' });
+            const url = window.URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'codes.txt';
+            a.click();
+        }
+    </script>
+</body>
+</html>
