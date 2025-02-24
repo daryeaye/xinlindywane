@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Spinning Wheel</title>
+  <style>
+    body {
+      font-family: "Comic Sans MS", cursive, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: transparent;
+    }
+    /* Main container: two columns (spinner on left, controls on right) */
+    #mainContainer {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
+    /* Left column: spinner container with a transparent background */
+    #spinnerContainer {
+      position: relative;
+      width: 500px;
+      height: 500px;
+      background-color: transparent;
+      margin-right: 40px;
+    }
+    #spinnerContainer canvas {
+      width: 500px;
+      height: 500px;
+      display: block;
+    }
+    /* Pointer: positioned above the spinner and centered */
+    #pointer {
+      position: absolute;
+      width: 0;
+      height: 0;
+      top: -30px;
+      left: 50%;
+      transform: translateX(-50%);
+      border-left: 20px solid transparent;
+      border-right: 20px solid transparent;
+      border-top: 30px solid lightcoral;
+    }
+    /* Right column: controls container */
+    #controlsContainer {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    #controlsContainer h1 {
+      margin-bottom: 20px;
+    }
+    /* Input section */
+    #inputContainer {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    #inputContainer input {
+      width: 120px;
+      padding: 5px;
+      margin: 5px;
+      font-size: 1em;
+      font-family: "Comic Sans MS", cursive, sans-serif;
+    }
+    #generateBtn,
+    #spinBtn {
+      padding: 8px 16px;
+      font-size: 1em;
+      font-family: "Comic Sans MS", cursive, sans-serif;
+      margin: 10px;
+      cursor: pointer;
+    }
+    /* Result window: fixed width same as spinner */
+    #resultWindow {
+      width: 500px;
+      margin-top: 20px;
+      padding: 20px;
+      border: 2px solid black;
+      background-color: #fff;
+      display: none;
+      font-size: 1.2em;
+      position: relative;
+      text-align: center;
+    }
+    #closeResult {
+      position: absolute;
+      top: 5px;
+      right: 10px;
+      cursor: pointer;
+      font-size: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div id="mainContainer">
+    <!-- Left: Spinner -->
+    <div id="spinnerContainer">
+      <canvas id="wheelCanvas" width="500" height="500"></canvas>
+      <div id="pointer"></div>
+    </div>
+    <!-- Right: Controls -->
+    <div id="controlsContainer">
+      <h1>Number of Students in Our Class:</h1>
+      <div id="inputContainer">
+        <input type="number" id="maxNumber" placeholder="Max Number" value="30" max="40">
+        <br>
+        <button id="generateBtn">Generate Spinner</button>
+      </div>
+      <button id="spinBtn">Spin the Wheel</button>
+      <div id="resultWindow">
+        <span id="closeResult">&times;</span>
+        <p id="resultText"></p>
+      </div>
+    </div>
+  </div>
+
+  <div style="text-align: center; font-size: 12px; margin-top: 20px;">
+  @Xinlin Dwyane Ye. All Rights Reserved.
+  </div>
+  
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+
+      // Helper: proper modulo (handles negatives)
+      function mod(a, n) {
+        return ((a % n) + n) % n;
+      }
+
+      /***********************
+       * Global Variables
+       ***********************/
+      let segments = [];          // Array holding the spinner numbers
+      let currentRotation = 0;    // In radians
+      let isSpinning = false;
+      let lastWinningIndex = null; // Index of the last winning segment
+
+      const canvas = document.getElementById("wheelCanvas");
+      const ctx = canvas.getContext("2d");
+
+      // Pointer configuration (using "top")
+      const pointerPosition = "top";
+      const pointerAngles = {
+        top: -Math.PI / 2,
+        right: 0,
+        bottom: Math.PI / 2,
+        left: Math.PI
+      };
+      const pointerAngle = pointerAngles[pointerPosition];
+
+      // Palette of light colors for segments.
+      const sectionColors = [
+        "lightyellow",
+        "lightgreen",
+        "lightblue",
+        "lightsalmon",
+        "lightpink",
+        "lightcyan",
+        "lavender",
+        "lightgoldenrodyellow",
+        "honeydew",
+        "aliceblue"
+      ];
+
+      /***********************
+       * DRAW WHEEL
+       ***********************/
+      function drawWheel() {
+        const centerX = canvas.width / 2;
+        const centerY = canvas.height / 2;
+        const radius = Math.min(canvas.width, canvas.height) / 2 - 20;
+        const numSegments = segments.length;
+        const arc = 2 * Math.PI / numSegments;
+        
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        ctx.save();
+        ctx.translate(centerX, centerY);
+        ctx.rotate(currentRotation);
+        
+        for (let i = 0; i < numSegments; i++) {
+          const angle = i * arc;
+          ctx.beginPath();
+          ctx.moveTo(0, 0);
+          ctx.arc(0, 0, radius, angle, angle + arc);
+          ctx.closePath();
+          ctx.fillStyle = sectionColors[(segments[i] - 1) % sectionColors.length];
+          ctx.fill();
+          
+          // Draw the segment number.
+          ctx.save();
+          const textAngle = angle + arc / 2;
+          ctx.translate(Math.cos(textAngle) * radius * 0.65, Math.sin(textAngle) * radius * 0.65);
+          ctx.rotate(textAngle);
+          ctx.fillStyle = "black";
+          ctx.font = "bold 16px Comic Sans MS";
+          ctx.textAlign = "center";
+          ctx.fillText(segments[i], 0, 0);
+          ctx.restore();
+        }
+        
+        // Draw a black circle as the border for the wheel.
+        ctx.beginPath();
+        ctx.arc(0, 0, radius, 0, 2 * Math.PI);
+        ctx.lineWidth = 2;
+        ctx.strokeStyle = "black";
+        ctx.stroke();
+        
+        ctx.restore();
+      }
+      drawWheel();
+
+      /***********************
+       * GET WINNING INDEX
+       ***********************/
+      function getWinningIndex() {
+        const numSegments = segments.length;
+        const arc = 2 * Math.PI / numSegments;
+        let pointerInWheelCoords = mod(pointerAngle - currentRotation, 2 * Math.PI);
+        return Math.floor(pointerInWheelCoords / arc);
+      }
+
+      /***********************
+       * SPIN ANIMATION
+       ***********************/
+      const spinBtn = document.getElementById("spinBtn");
+      function spinWheel() {
+        // If a previous result is visible, remove that segment.
+        const resultWindow = document.getElementById("resultWindow");
+        if (resultWindow.style.display === "block") {
+          closeResultWindow();
+        }
+        if (isSpinning || segments.length === 0) return;
+        isSpinning = true;
+        
+        currentRotation = mod(currentRotation, 2 * Math.PI);
+        const numSegments = segments.length;
+        const arc = 2 * Math.PI / numSegments;
+        // Randomly choose a winning segment.
+        const chosenIndex = Math.floor(Math.random() * numSegments);
+        const extraRotations = 5;
+        const minimalDelta = mod(pointerAngle - (chosenIndex * arc + arc / 2) - currentRotation, 2 * Math.PI);
+        const targetRotation = currentRotation + minimalDelta + extraRotations * 2 * Math.PI;
+        const duration = 5000; // Total spin duration (ms)
+        const start = performance.now();
+        const startRotation = currentRotation;
+        const deltaRotation = targetRotation - startRotation;
+        
+        function animate(timestamp) {
+          const elapsed = timestamp - start;
+          const t = Math.min(elapsed / duration, 1);
+          const ease = 1 - Math.pow(1 - t, 3);
+          currentRotation = startRotation + deltaRotation * ease;
+          drawWheel();
+          if (t < 1) {
+            requestAnimationFrame(animate);
+          } else {
+            currentRotation = mod(targetRotation, 2 * Math.PI);
+            lastWinningIndex = getWinningIndex();
+            const winningNumber = segments[lastWinningIndex];
+            showResultWindow(winningNumber);
+            isSpinning = false;
+          }
+        }
+        requestAnimationFrame(animate);
+      }
+      spinBtn.addEventListener("click", spinWheel);
+
+      /***********************
+       * RESULT WINDOW
+       ***********************/
+      function showResultWindow(winningNumber) {
+        const resultWindow = document.getElementById("resultWindow");
+        const resultText = document.getElementById("resultText");
+        resultText.innerText = "You got: " + winningNumber;
+        resultWindow.style.display = "block";
+      }
+
+      function closeResultWindow() {
+        const resultWindow = document.getElementById("resultWindow");
+        resultWindow.style.display = "none";
+        if (lastWinningIndex !== null && lastWinningIndex >= 0 && lastWinningIndex < segments.length) {
+          segments.splice(lastWinningIndex, 1);
+          lastWinningIndex = null;
+        }
+        drawWheel();
+      }
+      document.getElementById("closeResult").addEventListener("click", closeResultWindow);
+
+      /***********************
+       * GENERATE SPINNER
+       ***********************/
+      const generateBtn = document.getElementById("generateBtn");
+      generateBtn.addEventListener("click", function() {
+        const maxVal = parseInt(document.getElementById("maxNumber").value);
+        if (isNaN(maxVal) || maxVal < 1) {
+          alert("Please enter a valid maximum number (≥ 1).");
+          return;
+        }
+        // Enforce maximum limit of 40.
+        if (maxVal > 40) {
+          alert("Maximum allowed number is 40.");
+          return;
+        }
+        // Generate numbers 1 through maxVal.
+        segments = Array.from({ length: maxVal }, (_, i) => i + 1);
+        currentRotation = 0;
+        isSpinning = false;
+        lastWinningIndex = null;
+        drawWheel();
+      });
+    });
+  </script>
+</body>
+</html>
