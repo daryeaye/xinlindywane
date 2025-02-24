@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Number Line with Screenshot</title>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Kelly+Slab&display=swap"
+    rel="stylesheet"
+  />
+  <style>
+    body {
+      font-family: 'Kelly Slab', Arial, sans-serif;
+      font-size: 24px;
+      margin: 20px;
+    }
+    .container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .range-input {
+      margin-bottom: 20px;
+    }
+    .range-input label {
+      display: block;
+      margin-bottom: 10px;
+      font-weight: bold;
+    }
+    .range-input input {
+      width: 100px;
+      margin-right: 10px;
+      font-size: 24px;
+    }
+    .number-line {
+      position: relative;
+      width: 100%;
+      height: 50px;
+      border-top: 2px solid black;
+      margin-top: 20px;
+    }
+    .number-line .tick {
+      position: absolute;
+      top: 0;
+      height: 10px;
+      width: 1px;
+      background: black;
+    }
+    .number-line .tick-label {
+      position: absolute;
+      top: 15px;
+      font-size: 24px;
+      text-align: center;
+      transform: translateX(-50%);
+    }
+    /* Arrow styles */
+    .arrow {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 0;
+      height: 0;
+      z-index: 10;
+      border-top: 10px solid transparent;
+      border-bottom: 10px solid transparent;
+    }
+    .left-arrow {
+      left: 0;
+      border-right: 10px solid black;
+    }
+    .right-arrow {
+      right: 0;
+      border-left: 10px solid black;
+    }
+  </style>
+  <!-- Include the html2canvas library -->
+  <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
+</head>
+<body>
+  <div class="container">
+    <div class="range-input">
+      <label>Set the range:</label>
+      <input type="number" id="min-range" placeholder="Min" />
+      <input type="number" id="max-range" placeholder="Max" />
+      <button onclick="generateNumberLine()">Update Range</button>
+    </div>
+
+    <div class="number-line" id="number-line">
+      <!-- Ticks, labels, and arrows will be generated here -->
+    </div>
+    
+    <!-- Button to trigger screenshot download -->
+    <button onclick="saveScreenshot()">Save Screenshot</button>
+  </div>
+
+  <script>
+    let minRange = 0;
+    let maxRange = 30;
+
+    // Function to generate the number line
+    function generateNumberLine() {
+      const minInput = parseFloat(document.getElementById('min-range').value);
+      const maxInput = parseFloat(document.getElementById('max-range').value);
+
+      // Validate inputs
+      if (isNaN(minInput) || isNaN(maxInput) || minInput >= maxInput) {
+        alert("Please enter valid minimum and maximum values (Min < Max).");
+        return;
+      }
+
+      // Check if the range is too large
+      if (maxInput - minInput > 40) {
+        alert("The range is too large. Please choose a range with a difference of 40 or less.");
+        return;
+      }
+
+      // Adjust range
+      minRange = minInput - 0.5;
+      maxRange = maxInput + 0.5;
+
+      const numberLine = document.getElementById('number-line');
+      numberLine.innerHTML = '';
+
+      // Add left arrow
+      const leftArrow = document.createElement('div');
+      leftArrow.className = 'arrow left-arrow';
+      numberLine.appendChild(leftArrow);
+
+      // Add right arrow
+      const rightArrow = document.createElement('div');
+      rightArrow.className = 'arrow right-arrow';
+      numberLine.appendChild(rightArrow);
+
+      // Add ticks and labels
+      for (let i = Math.floor(minRange); i <= Math.ceil(maxRange); i++) {
+        if (i >= minRange && i <= maxRange) {
+          const tick = document.createElement('div');
+          tick.className = 'tick';
+          tick.style.left = `${((i - minRange) / (maxRange - minRange)) * 100}%`;
+
+          const label = document.createElement('div');
+          label.className = 'tick-label';
+          label.style.left = `${((i - minRange) / (maxRange - minRange)) * 100}%`;
+          label.textContent = i;
+
+          numberLine.appendChild(tick);
+          numberLine.appendChild(label);
+        }
+      }
+    }
+
+    // Function to save a screenshot of the number line
+    function saveScreenshot() {
+      const element = document.getElementById('number-line');
+      html2canvas(element).then(canvas => {
+        // Convert the canvas to a data URL and create a download link
+        const imgData = canvas.toDataURL('image/png');
+        const link = document.createElement('a');
+        link.href = imgData;
+        link.download = 'number_line.png';
+        // Trigger the download by simulating a click
+        link.click();
+      }).catch(err => {
+        console.error("Screenshot failed: ", err);
+      });
+    }
+
+    // Generate the number line on page load
+    window.onload = generateNumberLine;
+  </script>
+</body>
+</html>
