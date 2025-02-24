@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Box-and-Whisker Plot with Number Line</title>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Kelly+Slab&display=swap"
+    rel="stylesheet"
+  />
+  <style>
+    body {
+      font-family: 'Kelly Slab', Arial, sans-serif;
+      font-size: 24px; /* Twice as big as default */
+      margin: 20px;
+    }
+    h1 {
+      font-family: 'Kelly Slab', Arial, sans-serif;
+      font-size: 48px;
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    .container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .input-section {
+      margin-bottom: 20px;
+    }
+    .input-section label {
+      display: block;
+      margin-bottom: 10px;
+      font-weight: bold;
+    }
+    .input-section input {
+      width: 80px; /* Slightly wider to accommodate larger font */
+      margin-right: 5px;
+      font-size: 24px; /* Twice as big as default */
+    }
+    .range-input {
+      margin-bottom: 20px;
+    }
+    .range-input input {
+      width: 100px; /* Slightly wider to accommodate larger font */
+      margin-right: 10px;
+      font-size: 24px; /* Twice as big as default */
+    }
+    /* Visualization container for both box plot and number line */
+    #visualization {
+      width: 100%;
+      margin-top: 20px;
+    }
+    .number-line {
+      position: relative;
+      width: 100%;
+      height: 50px;
+      border-top: 2px solid black;
+      margin-top: 20px;
+    }
+    .number-line .tick {
+      position: absolute;
+      top: 0;
+      height: 10px;
+      width: 1px;
+      background: black;
+    }
+    .number-line .tick-label {
+      position: absolute;
+      top: 15px;
+      font-size: 24px; /* Twice as big as default */
+      text-align: center;
+      transform: translateX(-50%);
+    }
+    /* Arrow styles */
+    .arrow {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 0;
+      height: 0;
+      z-index: 10;
+      border-top: 10px solid transparent;
+      border-bottom: 10px solid transparent;
+    }
+    .left-arrow {
+      left: 0;
+      border-right: 10px solid black;
+    }
+    .right-arrow {
+      right: 0;
+      border-left: 10px solid black;
+    }
+    .box-plot {
+      position: relative;
+      width: 100%;
+      height: 50px;
+      margin-top: 10px;
+    }
+    .box-plot .whisker {
+      position: absolute;
+      height: 2px;
+      background: black;
+      top: 50%;
+    }
+    .box-plot .box {
+      position: absolute;
+      background: lightblue;
+      height: 20px;
+      top: 40%;
+      border: 1px solid black;
+    }
+    .box-plot .median {
+      position: absolute;
+      height: 20px;
+      width: 2px;
+      background: red;
+      top: 40%;
+    }
+    .box-plot .whisker-end {
+      position: absolute;
+      height: 20px;
+      width: 1px;
+      background: black;
+      top: 40%;
+    }
+    button {
+      font-size: 24px; /* Twice as big as default */
+      font-family: 'Kelly Slab', Arial, sans-serif;
+      margin-top: 10px;
+    }
+  </style>
+  <!-- Include html2canvas library -->
+  <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
+</head>
+<body>
+  <div class="container">
+    <!-- Big title -->
+    <h1>Box Plot Maker</h1>
+
+    <div class="range-input">
+      <label>Set the range:</label>
+      <input type="number" id="min-range" placeholder="Min" />
+      <input type="number" id="max-range" placeholder="Max" />
+      <button onclick="generateNumberLine()">Update Range</button>
+    </div>
+
+    <div class="input-section">
+      <label>Input your data here:</label>
+      <div id="input-boxes">
+        <input type="number" class="data-input" />
+        <input type="number" class="data-input" />
+        <input type="number" class="data-input" />
+        <input type="number" class="data-input" />
+        <input type="number" class="data-input" />
+      </div>
+      <button onclick="addInputBox()">Extra Box</button>
+    </div>
+
+    <!-- Visualization container for both box plot and number line -->
+    <div id="visualization">
+      <div class="box-plot" id="box-plot"></div>
+      <div class="number-line" id="number-line">
+        <!-- Ticks, labels, and arrows will be generated here -->
+      </div>
+    </div>
+    
+    <!-- Button to trigger screenshot download -->
+    <button onclick="saveScreenshot()">Save Screenshot</button>
+  </div>
+
+  <script>
+    let minRange = 0;
+    let maxRange = 30;
+
+    // Function to generate the number line and update the box plot
+    function generateNumberLine() {
+      const minInput = parseFloat(document.getElementById('min-range').value);
+      const maxInput = parseFloat(document.getElementById('max-range').value);
+
+      // Validate inputs
+      if (isNaN(minInput) || isNaN(maxInput) || minInput >= maxInput) {
+        alert("Please enter valid minimum and maximum values (Min < Max).");
+        return;
+      }
+
+      // Check if the range difference is greater than 40
+      if (maxInput - minInput > 40) {
+        alert("The range is too large. Please choose a range with a difference of 40 or less.");
+        return;
+      }
+
+      // Adjust range for display purposes
+      minRange = minInput - 0.5;
+      maxRange = maxInput + 0.5;
+
+      const numberLine = document.getElementById('number-line');
+      numberLine.innerHTML = '';
+
+      // Add left arrow
+      const leftArrow = document.createElement('div');
+      leftArrow.className = 'arrow left-arrow';
+      numberLine.appendChild(leftArrow);
+
+      // Add right arrow
+      const rightArrow = document.createElement('div');
+      rightArrow.className = 'arrow right-arrow';
+      numberLine.appendChild(rightArrow);
+
+      // Add ticks and labels
+      for (let i = Math.floor(minRange); i <= Math.ceil(maxRange); i++) {
+        if (i >= minRange && i <= maxRange) {
+          const tick = document.createElement('div');
+          tick.className = 'tick';
+          tick.style.left = `${((i - minRange) / (maxRange - minRange)) * 100}%`;
+
+          const label = document.createElement('div');
+          label.className = 'tick-label';
+          label.style.left = `${((i - minRange) / (maxRange - minRange)) * 100}%`;
+          label.textContent = i;
+
+          numberLine.appendChild(tick);
+          numberLine.appendChild(label);
+        }
+      }
+
+      updateBoxPlot();
+    }
+
+    // Function to add extra input boxes
+    function addInputBox() {
+      const inputBoxes = document.getElementById('input-boxes');
+      const newInput = document.createElement('input');
+      newInput.type = 'number';
+      newInput.className = 'data-input';
+      newInput.addEventListener('input', updateBoxPlot);
+      inputBoxes.appendChild(newInput);
+    }
+
+    // Function to calculate quartiles
+    function calculateQuartiles(values) {
+      const sortedValues = values.slice().sort((a, b) => a - b);
+      const mid = Math.floor(sortedValues.length / 2);
+      const lowerHalf = sortedValues.slice(0, mid);
+      const upperHalf = sortedValues.slice(mid + (sortedValues.length % 2 === 0 ? 0 : 1));
+
+      const q1 = median(lowerHalf);
+      const medianValue = median(sortedValues);
+      const q3 = median(upperHalf);
+
+      return { q1, median: medianValue, q3 };
+    }
+
+    // Function to calculate median
+    function median(arr) {
+      const mid = Math.floor(arr.length / 2);
+      return arr.length % 2 === 0 ? (arr[mid - 1] + arr[mid]) / 2 : arr[mid];
+    }
+
+    // Function to update the box plot
+    function updateBoxPlot() {
+      const inputs = document.querySelectorAll('.data-input');
+      const values = Array.from(inputs)
+        .map(input => parseFloat(input.value))
+        .filter(value => !isNaN(value))
+        .sort((a, b) => a - b);
+
+      if (values.length < 5) {
+        document.getElementById('box-plot').innerHTML =
+          '<p>Enter at least 5 data points to generate a box plot.</p>';
+        return;
+      }
+
+      const min = values[0];
+      const max = values[values.length - 1];
+      const { q1, median: medianValue, q3 } = calculateQuartiles(values);
+
+      const boxPlot = document.getElementById('box-plot');
+      boxPlot.innerHTML = '';
+
+      // Draw left whisker
+      const whiskerLeft = document.createElement('div');
+      whiskerLeft.className = 'whisker';
+      whiskerLeft.style.left = `${((min - minRange) / (maxRange - minRange)) * 100}%`;
+      whiskerLeft.style.width = `${((q1 - min) / (maxRange - minRange)) * 100}%`;
+      boxPlot.appendChild(whiskerLeft);
+
+      // Draw right whisker
+      const whiskerRight = document.createElement('div');
+      whiskerRight.className = 'whisker';
+      whiskerRight.style.left = `${((q3 - minRange) / (maxRange - minRange)) * 100}%`;
+      whiskerRight.style.width = `${((max - q3) / (maxRange - minRange)) * 100}%`;
+      boxPlot.appendChild(whiskerRight);
+
+      // Draw box
+      const box = document.createElement('div');
+      box.className = 'box';
+      box.style.left = `${((q1 - minRange) / (maxRange - minRange)) * 100}%`;
+      box.style.width = `${((q3 - q1) / (maxRange - minRange)) * 100}%`;
+      boxPlot.appendChild(box);
+
+      // Draw median line
+      const medianLine = document.createElement('div');
+      medianLine.className = 'median';
+      medianLine.style.left = `${((medianValue - minRange) / (maxRange - minRange)) * 100}%`;
+      boxPlot.appendChild(medianLine);
+
+      // Draw whisker end markers
+      const whiskerEndLeft = document.createElement('div');
+      whiskerEndLeft.className = 'whisker-end';
+      whiskerEndLeft.style.left = `${((min - minRange) / (maxRange - minRange)) * 100}%`;
+      boxPlot.appendChild(whiskerEndLeft);
+
+      const whiskerEndRight = document.createElement('div');
+      whiskerEndRight.className = 'whisker-end';
+      whiskerEndRight.style.left = `${((max - minRange) / (maxRange - minRange)) * 100}%`;
+      boxPlot.appendChild(whiskerEndRight);
+    }
+
+    // Function to save a screenshot of the visualization area (box plot + number line)
+    function saveScreenshot() {
+      const element = document.getElementById('visualization');
+      html2canvas(element)
+        .then(canvas => {
+          const imgData = canvas.toDataURL('image/png');
+          const link = document.createElement('a');
+          link.href = imgData;
+          link.download = 'visualization.png';
+          link.click();
+        })
+        .catch(err => {
+          console.error("Screenshot failed: ", err);
+        });
+    }
+
+    // Attach event listeners to initial input boxes
+    document.querySelectorAll('.data-input').forEach(input => {
+      input.addEventListener('input', updateBoxPlot);
+    });
+
+    // Generate the visualization on page load
+    window.onload = generateNumberLine;
+  </script>
+</body>
+</html>
