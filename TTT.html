@@ -24,6 +24,7 @@
             border-radius: 20px;
             text-align: center;
             box-shadow: 0 0 15px rgba(0,0,0,0.5);
+            position: relative;
         }
         .board {
             display: grid;
@@ -80,6 +81,13 @@
             background-color: rgba(255, 0, 0, 0.5); /* Red and semi-transparent */
             color: white;
         }
+        .copyright {
+            font-size: 0.2em;
+            text-align: center;
+            margin-top: 20px;
+            font-family: 'Kelly Slab', cursive;
+            color: rgba(0, 0, 0, 0.6);
+        }
     </style>
 </head>
 <body>
@@ -107,6 +115,9 @@
             <div class="board" id="board"></div>
             <button onclick="resetGame()">Restart</button>
         </div>
+
+        <!-- Copyright -->
+        <div class="copyright">@Xinlin Dwyane Ye. All Rights Reserved.</div>
     </div>
 
     <script>
