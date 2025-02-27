@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Board Game App</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Kelly+Slab&display=swap');
+        body {
+            font-family: 'Kelly Slab', sans-serif;
+            width: 1000px;
+            height: 800px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: url('https://daryeaye.github.io/xinlindywane/sea.jpg') no-repeat center center;
+            background-size: cover;
+            position: relative;
+        }
+        .screen {
+            display: none;
+            width: 100%;
+            height: 100%;
+            text-align: center;
+        }
+        .active {
+            display: block;
+        }
+        input {
+            padding: 10px;
+            margin: 10px;
+            border: none;
+            font-size: 20px;
+            width: 250px;
+            color: white;
+        }
+        #player1 {
+            background: lightblue;
+            color: white;
+        }
+        #player2 {
+            background: rgba(255, 0, 0, 0.5);
+            color: white;
+        }
+        button {
+            font-family: 'Kelly Slab', sans-serif;
+            padding: 10px 20px;
+            font-size: 20px;
+            margin-top: 10px;
+            cursor: pointer;
+        }
+        #board-container {
+            width: 100%;
+            height: auto;
+            position: relative;
+            overflow: hidden;
+        }
+        #board {
+            width: 800px;
+            height: 450px;
+            object-fit: cover;
+        }
+        .pawn {
+            width: 25px;
+            height: 40px;
+            position: absolute;
+            cursor: grab;
+        }
+        #pawn1 {
+            background: url('https://daryeaye.github.io/xinlindywane/Blue.png') no-repeat center center;
+            background-size: cover;
+            top: 10px;
+            left: 10px;
+        }
+        #pawn2 {
+            background: url('https://daryeaye.github.io/xinlindywane/Red.png') no-repeat center center;
+            background-size: cover;
+            top: 10px;
+            left: 60px;
+        }
+        #dice-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-top: 10px;
+        }
+        #dice-container button, #dice-result, #move-message {
+            margin: 10px;
+            font-size: 30px;
+        }
+        #winner-message {
+            display: none;
+            font-size: 100px;
+            font-weight: bold;
+            font-family: "Comic Sans MS", cursive, sans-serif;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+    </style>
+</head>
+<body>
+    <div id="name-screen" class="screen active">
+        <h1 style="font-size: 40px;">Let's Play Board Games</h1>
+        <h2>Enter Your Name</h2>
+        <div style="display: flex; align-items: center; justify-content: center; gap: 20px; width: 100%;">
+            <img src="https://daryeaye.github.io/xinlindywane/Blue.png" width="50" height="80">
+            <input type="text" id="player1" placeholder="Player 1 Name">
+            <input type="text" id="player2" placeholder="Player 2 Name">
+            <img src="https://daryeaye.github.io/xinlindywane/Red.png" width="50" height="80">
+        </div>
+        <button onclick="nextStep('upload-screen')">Next</button>
+    </div>
+
+    <div id="upload-screen" class="screen">
+        <h2>Upload your board game here</h2>
+        <input type="file" id="board-upload" accept="image/*">
+    </div>
+
+    <div id="game-screen" class="screen">
+        <p style="font-size: 16px; font-weight: bold; margin-bottom: 5px;">Place the two pawns at your starting point and roll the dice.</p>
+        <div id="board-container">
+            <img id="board" src="" alt="Board Game">
+            <div id="pawn1" class="pawn"></div>
+            <div id="pawn2" class="pawn"></div>
+        </div>
+        <div id="dice-container">
+            <button onclick="rollDice()">Roll Dice</button>
+            <p id="dice-result">🎲</p>
+            <p id="move-message"></p>
+        </div>
+        <p style="background: gray; color: white; padding: 10px; font-size: 20px;">Refresh this page for another round!</p>
+    </div>
+
+    <div id="winner-message"></div>
+
+    <script>
+        function nextStep(screenId) {
+            document.querySelector('.active').classList.remove('active');
+            document.getElementById(screenId).classList.add('active');
+        }
+
+        document.getElementById('board-upload').addEventListener('change', function(event) {
+            const file = event.target.files[0];
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = function(e) {
+                    document.getElementById('board').src = e.target.result;
+                    nextStep('game-screen');
+                }
+                reader.readAsDataURL(file);
+            }
+        });
+
+        function makePawnDraggable(pawnId) {
+            const pawn = document.getElementById(pawnId);
+            let offsetX, offsetY, isDragging = false;
+            
+            pawn.addEventListener('mousedown', (e) => {
+                isDragging = true;
+                offsetX = e.clientX - pawn.offsetLeft;
+                offsetY = e.clientY - pawn.offsetTop;
+            });
+
+            document.addEventListener('mousemove', (e) => {
+                if (isDragging) {
+                    pawn.style.left = e.clientX - offsetX + 'px';
+                    pawn.style.top = e.clientY - offsetY + 'px';
+                }
+            });
+
+            document.addEventListener('mouseup', () => {
+                isDragging = false;
+            });
+        }
+
+        makePawnDraggable('pawn1');
+        makePawnDraggable('pawn2');
+    
+        function rollDice() {
+            const diceResult = document.getElementById('dice-result');
+            const moveMessage = document.getElementById('move-message');
+            let count = 0;
+            const interval = setInterval(() => {
+                diceResult.textContent = "🎲 " + (Math.floor(Math.random() * 6) + 1);
+                count++;
+                if (count > 20) {
+                    clearInterval(interval);
+                    const finalRoll = Math.floor(Math.random() * 6) + 1;
+                    diceResult.textContent = "🎲 " + finalRoll;
+                    moveMessage.textContent = `Move ${finalRoll} steps forward!`;
+                }
+            }, 100);
+        }
+    </script>
+</body>
+</html>
