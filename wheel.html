@@ -107,7 +107,8 @@
         <br>
         <button id="generateBtn">Generate Spinner</button>
       </div>
-      <button id="spinBtn">Spin the Wheel</button>
+      <!-- Initially hidden spin button -->
+      <button id="spinBtn" style="display: none;">Spin the Wheel</button>
       <div id="resultWindow">
         <span id="closeResult">&times;</span>
         <p id="resultText"></p>
@@ -116,7 +117,7 @@
   </div>
 
   <div style="text-align: center; font-size: 12px; margin-top: 20px;">
-  @Xinlin Dwyane Ye. All Rights Reserved.
+    @Xinlin Dwyane Ye. All Rights Reserved.
   </div>
   
   <script>
@@ -307,6 +308,11 @@
         isSpinning = false;
         lastWinningIndex = null;
         drawWheel();
+        
+        // Hide the input container and generate button
+        document.getElementById("inputContainer").style.display = "none";
+        // Show the spin button
+        document.getElementById("spinBtn").style.display = "block";
       });
     });
   </script>
