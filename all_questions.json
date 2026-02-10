@@ -1,0 +1,5063 @@
+[
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-001",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "Which expression is equivalent to (8x + 5) - (3x - 7)?",
+    "answer": "5x + 12"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-002",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "Which expression is equivalent to (4m + 6) - (2m + 9)?",
+    "answer": "2m - 3"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-003",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "Which expression is equivalent to 7x - 2.5x + 0.75x?",
+    "answer": "5.25x"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-004",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "Which expression is equivalent to (12y - 4) + (5y + 9)?",
+    "answer": "17y + 5"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-005",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "Which expression is equivalent to (3a - 8) - (6a + 2)?",
+    "answer": "-3a - 10"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-006",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "Which expression is equivalent to 0.6p + 1.4p - 0.25p?",
+    "answer": "1.75p"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-007",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "Which expression is equivalent to 5(2x - 3) + x?",
+    "answer": "11x - 15"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-008",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "Which expression is equivalent to 2(7y + 4) - 3y?",
+    "answer": "11y + 8"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-009",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "Which expression is equivalent to (9x - 1) - (4 - 2x)?",
+    "answer": "11x - 5"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-010",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "Which expression is equivalent to (5n + 2) + (n - 11)?",
+    "answer": "6n - 9"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-011",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "Which expression is equivalent to (6k - 3) - (2k - 10)?",
+    "answer": "4k + 7"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-012",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "Which expression is equivalent to 3(4t - 5) - 2t?",
+    "answer": "10t - 15"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-013",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "Which expression is equivalent to (2x + 3y) - (5x - y)?",
+    "answer": "-3x + 4y"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-014",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "Which expression is equivalent to (7 - 3x) + (2x - 11)?",
+    "answer": "-x - 4"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-015",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "Which expression is equivalent to 9.2m - 4.6m + 0.3m?",
+    "answer": "4.9m"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-016",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "Which expression is equivalent to 4(3a + 2) + 5a?",
+    "answer": "17a + 8"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-017",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "Which expression is equivalent to (10p - 6) - (p + 8)?",
+    "answer": "9p - 14"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-018",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "Which expression is equivalent to (x - 9) - (3x + 4)?",
+    "answer": "-2x - 13"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-019",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "Which expression is equivalent to (5r + 12) + (2 - 7r)?",
+    "answer": "-2r + 14"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-020",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "Which expression is equivalent to 6(2y - 1) - (3y - 5)?",
+    "answer": "9y - 1"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-021",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "Which expression is equivalent to 3x + 2x - (4x - 9)?",
+    "answer": "x + 9"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-022",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "Which expression is equivalent to (8b - 3) + (2b - 7)?",
+    "answer": "10b - 10"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-023",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "Which expression is equivalent to 0.4x - (1.1x - 3.6)?",
+    "answer": "-0.7x + 3.6"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-024",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "Which expression is equivalent to (14t + 5) - 2(3t - 4)?",
+    "answer": "8t + 13"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-025",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "Which expression is equivalent to 7 - 2(5x + 3)?",
+    "answer": "-10x + 1"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-026",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "Which expression is equivalent to (4y + 1) - (2y - 8)?",
+    "answer": "2y + 9"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-027",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "Which expression is equivalent to 2(3p - 7) + 4(2 - p)?",
+    "answer": "2p - 6"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-028",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "Which expression is equivalent to (6x + 3) - (2x - 5)?",
+    "answer": "4x + 8"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-029",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "Which expression is equivalent to (9a - 2b) - (3a + 5b)?",
+    "answer": "6a - 7b"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-030",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "Which expression is equivalent to 1.5n + 0.2n - (0.6n - 4)?",
+    "answer": "1.1n + 4"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-031",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "Which expression is equivalent to 2.8x - 1.3x + 0.6x?",
+    "answer": "2.1x"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-032",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "Which expression is equivalent to (11m - 7) - (4m + 13)?",
+    "answer": "7m - 20"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-033",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "Which expression is equivalent to (2x - 9) + (7x + 4)?",
+    "answer": "9x - 5"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-034",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Evaluate the following expression 5a - 3b + 4 when a = -2 and b = 7.",
+    "answer": "-27"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-035",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Evaluate the following expression 4x + 3(2 - x) when x = -5.",
+    "answer": "1"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-036",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Evaluate the following expression (9m - 6) - 2m + 15 when m = 4.",
+    "answer": "37"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-037",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Evaluate the following expression 7(p - 3) + 2p - 5 when p = -2.",
+    "answer": "-44"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-038",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Evaluate the following expression (8y + 5z) - 3z + 6 when y = 3 and z = -4.",
+    "answer": "22"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-039",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Evaluate the following expression 6(t + 2) - t - 11 when t = -6.",
+    "answer": "-29"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-040",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Evaluate the following expression (12 - 5n) + 2(n - 4) when n = 9.",
+    "answer": "-23"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-041",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Evaluate the following expression 3a + 2(4 - a) + 5 when a = -3.",
+    "answer": "10"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-042",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Evaluate the following expression (10k - 7) - 3(k + 1) when k = 2.",
+    "answer": "4"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-043",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Evaluate the following expression 2r + 5(3 - r) - 4 when r = 8.",
+    "answer": "-13"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-044",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Which expression is equivalent to 5(4 - x) - (2x - 1)?",
+    "answer": "21 - 7x"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-045",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Which expression is equivalent to 6(2x - 5) - (4x + 1)?",
+    "answer": "8x - 31"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-046",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Which expression is equivalent to 9(a - 4) + 2a + 7?",
+    "answer": "11a - 29"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-047",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Which expression is equivalent to 5(m + 6) - (2m - 9)?",
+    "answer": "3m + 39"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-048",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Which expression is equivalent to 8(y - 3) + (5 - 2y)?",
+    "answer": "6y - 19"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-049",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Which expression is equivalent to 7(p + 2) - (3p - 4)?",
+    "answer": "4p + 18"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-050",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Which expression is equivalent to (12x - 5) - (4x + 9)?",
+    "answer": "8x - 14"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-051",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Which expression is equivalent to 4(t - 8) + (3t + 6)?",
+    "answer": "7t - 26"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-052",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Which expression is equivalent to 6(a + 1) - (2a + 11)?",
+    "answer": "4a - 5"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-053",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Which expression is equivalent to 3(2n - 7) + (n + 5)?",
+    "answer": "7n - 16"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-054",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Factor this expression with GCF: 15y - 10.",
+    "answer": "5(3y - 2)"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-055",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Factor this expression with GCF: 48k + 32 - 16a.",
+    "answer": "16(3k + 2 - a)"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-056",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Factor this expression with GCF: 18x - 24.",
+    "answer": "6(3x - 4)"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-057",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Factor this expression with GCF: 20a + 35b.",
+    "answer": "5(4a + 7b)"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-058",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Factor this expression with GCF: 27m - 18n.",
+    "answer": "9(3m - 2n)"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-059",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Factor this expression with GCF: 14x + 21.",
+    "answer": "7(2x + 3)"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-060",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Factor this expression with GCF: 36p + 24q - 12.",
+    "answer": "12(3p + 2q - 1)"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-061",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "A triangle has side lengths of (3m + 2n) cm, (5m - n) cm, and (m + 4n) cm. Which expression represents the perimeter, in cm, of the triangle?",
+    "answer": "9m + 5n"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-062",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "A triangle has side lengths of (8y - 6) cm, (2y + 13) cm, and (5y - 9) cm. Which expression represents the perimeter, in cm, of the triangle?",
+    "answer": "15y - 2"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-063",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "A rectangle has side lengths of (4x + 7) units and (3x - 2) units. Which expression represents the perimeter, in units, of the rectangle?",
+    "answer": "14x + 10"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-064",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "A triangle has side lengths of (6a - 4b) cm, (5a - 6c) cm, and (3c + 5b) cm. Which expression represents the perimeter, in cm, of the triangle?",
+    "answer": "11a + b - 3c"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-065",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "A triangle has side lengths of (4x + 9) m, (7x - 5) m, and (2x + 11) m. Which expression represents the perimeter, in meters, of the triangle?",
+    "answer": "13x + 15"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-066",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "A triangle has side lengths of (10p - 3) units, (4p + 8) units, and (6p - 7) units. Which expression represents the perimeter, in units, of the triangle?",
+    "answer": "20p - 2"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-067",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "The expression 18x + 30 represents the perimeter, in inches, of a square. Which expression represents the length, in inches, of each side of the square?",
+    "answer": "4.5x + 7.5"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-068",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "The expression 32m - 16 represents the perimeter, in meters, of a square. Which expression represents the length, in meters, of each side of the square?",
+    "answer": "8m - 4"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-069",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "The expression 12a + 44 represents the perimeter, in feet, of a square. Which expression represents the length, in feet, of each side of the square?",
+    "answer": "3a + 11"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-070",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "The expression 40p + 12 represents the perimeter, in centimeters, of a square. Which expression represents the length, in centimeters, of each side of the square?",
+    "answer": "10p + 3"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-071",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "The expression 28y - 20 represents the perimeter, in yards, of a square. Which expression represents the length, in yards, of each side of the square?",
+    "answer": "7y - 5"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-072",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "The expression 16n + 52 represents the perimeter, in feet, of a square. Which expression represents the length, in feet, of each side of the square?",
+    "answer": "4n + 13"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-073",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "Which expression is equivalent to 7(x - 5) - 3(2x + 4) + 9?",
+    "answer": "x - 38"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-074",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "Which expression is equivalent to 5(3m - 2) - 4(m - 7) - 6?",
+    "answer": "11m + 12"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-075",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "Which expression is equivalent to 8(a + 6) - 2(4a - 9) + 11?",
+    "answer": "77"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-076",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "Which expression is equivalent to 6(p - 3) + 5(2p + 1) - 4?",
+    "answer": "16p - 17"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-077",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "Which expression is equivalent to 9(y + 2) - 6(3y - 5) + 8?",
+    "answer": "-9y + 56"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-078",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "Which expression is equivalent to 4(t - 9) - 2(5t - 6) + 13?",
+    "answer": "-6t - 11"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-079",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "Which expression is equivalent to 10 - 3(y - 4) + 8y + 6?",
+    "answer": "5y + 28"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-080",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "Which expression is equivalent to 12 - 5(2x - 7) + 3x - 4?",
+    "answer": "-7x + 43"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-081",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "Which expression is equivalent to 6(4m + 1) - 3(2m - 5) - 8?",
+    "answer": "18m + 13"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-082",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "Which expression is equivalent to 7 - 2(3a - 9) + 4a + 5?",
+    "answer": "-2a + 30"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-083",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "Simplify 14 - 2(x - 6) + 5x - 9.",
+    "answer": "3x + 17"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-084",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "Simplify 9 - 4(2y + 3) + 7y + 12.",
+    "answer": "-y + 9"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-085",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "Simplify 25 - 6(m - 2) - 3m + 5.",
+    "answer": "-9m + 42"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-086",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "Simplify 18 - 5(a + 4) + 2a + 11.",
+    "answer": "-3a + 9"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-087",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "Simplify 6 - 3(4p - 1) + 9p - 8.",
+    "answer": "-3p + 1"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-088",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "Simplify 30 - 2(5t - 7) + 3t + 4.",
+    "answer": "-7t + 48"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-089",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "Factor the expression with GCF: 48x + 36y - 60z + 24.",
+    "answer": "12(4x + 3y - 5z + 2)"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-090",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "Factor the expression with GCF: 54a - 81b + 27c - 63.",
+    "answer": "9(6a - 9b + 3c - 7)"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-091",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "Factor the expression with GCF: 42m + 70n - 56p + 98.",
+    "answer": "14(3m + 5n - 4p + 7)"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-092",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "Factor the expression with GCF: 36x + 24y - 66z + 88.",
+    "answer": "2(18x + 12y - 33z + 44)"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-093",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "Factor the expression with GCF: 75p - 45q + 60r - 30.",
+    "answer": "15(5p - 3q + 4r - 2)"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-094",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "Factor the expression with GCF: 64a + 48b - 80c + 32.",
+    "answer": "16(4a + 3b - 5c + 2)"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-095",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "A triangle has three sides: (5.6a - 4.2), (8.3a + 7.5b), and (3.1a - 6b). What is the perimeter?",
+    "answer": "17a + 1.5b - 4.2"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-096",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "A triangle has three sides: (4.7x + 2.9y), (6.2x - 5.1y), and (3.9x + 1.6y). What is the perimeter?",
+    "answer": "14.8x - 0.6y"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-097",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "A triangle has three sides: (9.5m - 3n), (2.4m + 8.6n), and (7.1m - 5.2n). What is the perimeter?",
+    "answer": "19m + 0.4n"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-098",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "A triangle has three sides: (6.8p + 4.5), (3.2p - 7.6q), and (5.1p + 2.4q). What is the perimeter?",
+    "answer": "15.1p - 5.2q + 4.5"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-099",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "A triangle has three sides: (2.9a - 4.4b), (7.6a + 1.2b), and (5.5a - 9.3b). What is the perimeter?",
+    "answer": "16a - 12.5b"
+  },
+  {
+    "id": "EQUATIONS-001",
+    "topic": "Equations",
+    "difficultyBand": "easy",
+    "question": "2x+7=19",
+    "answer": "6"
+  },
+  {
+    "id": "EQUATIONS-002",
+    "topic": "Equations",
+    "difficultyBand": "easy",
+    "question": "-3x+8=2",
+    "answer": "2"
+  },
+  {
+    "id": "EQUATIONS-003",
+    "topic": "Equations",
+    "difficultyBand": "easy",
+    "question": "4x-9=27",
+    "answer": "9"
+  },
+  {
+    "id": "EQUATIONS-004",
+    "topic": "Equations",
+    "difficultyBand": "easy",
+    "question": "-5x+12=-28",
+    "answer": "8"
+  },
+  {
+    "id": "EQUATIONS-005",
+    "topic": "Equations",
+    "difficultyBand": "easy",
+    "question": "-2x-6=14",
+    "answer": "-10"
+  },
+  {
+    "id": "EQUATIONS-006",
+    "topic": "Equations",
+    "difficultyBand": "easy",
+    "question": "7-2x=-9",
+    "answer": "8"
+  },
+  {
+    "id": "EQUATIONS-007",
+    "topic": "Equations",
+    "difficultyBand": "easy",
+    "question": "9+3x=1.5",
+    "answer": "-2.5"
+  },
+  {
+    "id": "EQUATIONS-008",
+    "topic": "Equations",
+    "difficultyBand": "easy",
+    "question": "-4+2x=13",
+    "answer": "8.5"
+  },
+  {
+    "id": "EQUATIONS-009",
+    "topic": "Equations",
+    "difficultyBand": "easy",
+    "question": "3(x+4)=21",
+    "answer": "3"
+  },
+  {
+    "id": "EQUATIONS-010",
+    "topic": "Equations",
+    "difficultyBand": "easy",
+    "question": "-2(x-6)=10",
+    "answer": "1"
+  },
+  {
+    "id": "EQUATIONS-011",
+    "topic": "Equations",
+    "difficultyBand": "easy",
+    "question": "5(x-3)=17",
+    "answer": "6.4"
+  },
+  {
+    "id": "EQUATIONS-012",
+    "topic": "Equations",
+    "difficultyBand": "easy",
+    "question": "-3(x+2)=-24",
+    "answer": "6"
+  },
+  {
+    "id": "EQUATIONS-013",
+    "topic": "Equations",
+    "difficultyBand": "easy",
+    "question": "2(x-7)=-9",
+    "answer": "2.5"
+  },
+  {
+    "id": "EQUATIONS-014",
+    "topic": "Equations",
+    "difficultyBand": "easy",
+    "question": "-6(x+1)=30",
+    "answer": "-6"
+  },
+  {
+    "id": "EQUATIONS-015",
+    "topic": "Equations",
+    "difficultyBand": "easy",
+    "question": "4(x+2.5)=18",
+    "answer": "2"
+  },
+  {
+    "id": "EQUATIONS-016",
+    "topic": "Equations",
+    "difficultyBand": "easy",
+    "question": "-2(x-1.5)=7",
+    "answer": "-2"
+  },
+  {
+    "id": "EQUATIONS-017",
+    "topic": "Equations",
+    "difficultyBand": "easy",
+    "question": "0.5x+3=9",
+    "answer": "12"
+  },
+  {
+    "id": "EQUATIONS-018",
+    "topic": "Equations",
+    "difficultyBand": "easy",
+    "question": "1.2x-4=8.8",
+    "answer": "10.67"
+  },
+  {
+    "id": "EQUATIONS-019",
+    "topic": "Equations",
+    "difficultyBand": "easy",
+    "question": "-0.8x+6=2.4",
+    "answer": "4.5"
+  },
+  {
+    "id": "EQUATIONS-020",
+    "topic": "Equations",
+    "difficultyBand": "easy",
+    "question": "2.5x+1.5=9",
+    "answer": "3"
+  },
+  {
+    "id": "EQUATIONS-021",
+    "topic": "Equations",
+    "difficultyBand": "easy",
+    "question": "-3.5x+7=0",
+    "answer": "2"
+  },
+  {
+    "id": "EQUATIONS-022",
+    "topic": "Equations",
+    "difficultyBand": "easy",
+    "question": "6-1.5x=0",
+    "answer": "4"
+  },
+  {
+    "id": "EQUATIONS-023",
+    "topic": "Equations",
+    "difficultyBand": "easy",
+    "question": "8+0.4x=10.8",
+    "answer": "7"
+  },
+  {
+    "id": "EQUATIONS-024",
+    "topic": "Equations",
+    "difficultyBand": "easy",
+    "question": "-5+0.25x=-3.5",
+    "answer": "6"
+  },
+  {
+    "id": "EQUATIONS-025",
+    "topic": "Equations",
+    "difficultyBand": "easy",
+    "question": "3x-2.4=9.6",
+    "answer": "4"
+  },
+  {
+    "id": "EQUATIONS-026",
+    "topic": "Equations",
+    "difficultyBand": "easy",
+    "question": "-2x+1.2=-6.8",
+    "answer": "4"
+  },
+  {
+    "id": "EQUATIONS-027",
+    "topic": "Equations",
+    "difficultyBand": "easy",
+    "question": "4.5x+2=20",
+    "answer": "4"
+  },
+  {
+    "id": "EQUATIONS-028",
+    "topic": "Equations",
+    "difficultyBand": "easy",
+    "question": "-1.25x-3=7",
+    "answer": "-8"
+  },
+  {
+    "id": "EQUATIONS-029",
+    "topic": "Equations",
+    "difficultyBand": "easy",
+    "question": "7-0.6x=1.6",
+    "answer": "9"
+  },
+  {
+    "id": "EQUATIONS-030",
+    "topic": "Equations",
+    "difficultyBand": "easy",
+    "question": "2(3x-4)=10",
+    "answer": "3"
+  },
+  {
+    "id": "EQUATIONS-031",
+    "topic": "Equations",
+    "difficultyBand": "easy",
+    "question": "-3(2x+1)=-15",
+    "answer": "2"
+  },
+  {
+    "id": "EQUATIONS-032",
+    "topic": "Equations",
+    "difficultyBand": "easy",
+    "question": "5-2(1.5x-3)=11",
+    "answer": "0"
+  },
+  {
+    "id": "EQUATIONS-033",
+    "topic": "Equations",
+    "difficultyBand": "easy",
+    "question": "-4(x+1.2)+6=-10",
+    "answer": "2.8"
+  },
+  {
+    "id": "EQUATIONS-034",
+    "topic": "Equations",
+    "difficultyBand": "medium",
+    "question": "A trailer will be used to transport several 40-kilogram crates to a store. The weight limit for the trailer is 1000 kilograms. A 160-kilogram crate has already been loaded onto the trailer. How many 40-kilogram crates can also be loaded?",
+    "answer": "21"
+  },
+  {
+    "id": "EQUATIONS-035",
+    "topic": "Equations",
+    "difficultyBand": "medium",
+    "question": "Mr. Ye needs a total of 314 forks for his restaurant. He currently has 266 forks. If each set has 12 forks, what is the number of sets of forks he should buy?",
+    "answer": "4"
+  },
+  {
+    "id": "EQUATIONS-036",
+    "topic": "Equations",
+    "difficultyBand": "medium",
+    "question": "Jennifer has 166.5 yards of fabric to make curtains. She makes 16 identical curtains and has 6.5 yards of fabric remaining. How many yards of fabric does Jennifer use per curtain?",
+    "answer": "10"
+  },
+  {
+    "id": "EQUATIONS-037",
+    "topic": "Equations",
+    "difficultyBand": "medium",
+    "question": "Bing Chilling bought $60 ice cream and some packs of biscuits. Each pack costs $3. He paid $195 in total. How many packs of biscuits did he buy?",
+    "answer": "45"
+  },
+  {
+    "id": "EQUATIONS-038",
+    "topic": "Equations",
+    "difficultyBand": "medium",
+    "question": "Jimmy buys a new laptop for $335. He makes the first payment of $50 and pays the rest in 6 equal monthly payments, p. What equation represents the relationship between the cost of the laptop and Jimmy’s payments? Solve for p.",
+    "answer": "47.5"
+  },
+  {
+    "id": "EQUATIONS-039",
+    "topic": "Equations",
+    "difficultyBand": "medium",
+    "question": "A school needs 480 pencils for testing. They already have 156 pencils. Pencils are sold in boxes of 18. How many boxes should the school buy?",
+    "answer": "18"
+  },
+  {
+    "id": "EQUATIONS-040",
+    "topic": "Equations",
+    "difficultyBand": "medium",
+    "question": "A water tank can hold 750 liters. It already contains 190 liters. Water is added using 35-liter jugs. How many full jugs are needed to fill the tank exactly?",
+    "answer": "16"
+  },
+  {
+    "id": "EQUATIONS-041",
+    "topic": "Equations",
+    "difficultyBand": "medium",
+    "question": "Joey needs 420 napkins for the week. He currently has 276 napkins. If napkins come in packs of 24, how many packs should he buy?",
+    "answer": "6"
+  },
+  {
+    "id": "EQUATIONS-042",
+    "topic": "Equations",
+    "difficultyBand": "medium",
+    "question": "A group buys concert tickets that cost $18 each plus a one-time $4 processing fee. The total cost is $220. How many tickets did the group buy?",
+    "answer": "12"
+  },
+  {
+    "id": "EQUATIONS-043",
+    "topic": "Equations",
+    "difficultyBand": "medium",
+    "question": "A taxi charges a $3.50 start fee plus $2.25 per mile. The total fare was $28.25. How many miles did the taxi travel?",
+    "answer": "11"
+  },
+  {
+    "id": "EQUATIONS-044",
+    "topic": "Equations",
+    "difficultyBand": "medium",
+    "question": "A phone plan charges a $15 base fee plus $6.50 per gigabyte of data. The bill was $54.00. How many gigabytes of data were used?",
+    "answer": "6"
+  },
+  {
+    "id": "EQUATIONS-045",
+    "topic": "Equations",
+    "difficultyBand": "medium",
+    "question": "A bakery made 96 cupcakes. The baker keeps 16 cupcakes for display and packs the rest into boxes of 8. How many full boxes can be sold?",
+    "answer": "10"
+  },
+  {
+    "id": "EQUATIONS-046",
+    "topic": "Equations",
+    "difficultyBand": "medium",
+    "question": "A 18.60-meter roll of wire is cut into 12 equal pieces, with 0.60 meters left over. How long is each piece?",
+    "answer": "1.5"
+  },
+  {
+    "id": "EQUATIONS-047",
+    "topic": "Equations",
+    "difficultyBand": "medium",
+    "question": "A recycling center gives $0.05 per bottle plus a $2 bonus coupon. The total refund was $5.00. How many bottles were returned?",
+    "answer": "60"
+  },
+  {
+    "id": "EQUATIONS-048",
+    "topic": "Equations",
+    "difficultyBand": "medium",
+    "question": "A classroom needs 27 liters of paint. Paint is sold in 3.5-liter cans and you must buy whole cans. What is the least number of cans needed?",
+    "answer": "8"
+  },
+  {
+    "id": "EQUATIONS-049",
+    "topic": "Equations",
+    "difficultyBand": "medium",
+    "question": "A club starts with $125, spends $48, and then earns $7 for each bracelet it sells. The club ends with $210. How many bracelets did it sell?",
+    "answer": "19"
+  },
+  {
+    "id": "EQUATIONS-050",
+    "topic": "Equations",
+    "difficultyBand": "medium",
+    "question": "A cyclist rides at 18 km per hour for t hours and travels 99 km. What is t?",
+    "answer": "5.5"
+  },
+  {
+    "id": "EQUATIONS-051",
+    "topic": "Equations",
+    "difficultyBand": "medium",
+    "question": "A jar contains 2.40 kilograms of nuts. The nuts are packed into 0.15-kilogram bags. How many bags can be filled?",
+    "answer": "16"
+  },
+  {
+    "id": "EQUATIONS-052",
+    "topic": "Equations",
+    "difficultyBand": "medium",
+    "question": "A book costs $13.50. Sam has $92.00. He buys a backpack for $38.00 and spends the rest on books. How many books can he buy?",
+    "answer": "4"
+  },
+  {
+    "id": "EQUATIONS-053",
+    "topic": "Equations",
+    "difficultyBand": "medium",
+    "question": "A gym membership charges a $45 sign-up fee plus $20 per month. The total cost was $205. How many months did the membership last?",
+    "answer": "8"
+  },
+  {
+    "id": "EQUATIONS-054",
+    "topic": "Equations",
+    "difficultyBand": "medium",
+    "question": "Joey needs to print 1,690 pages. He already printed 130 pages. Each ink cartridge prints 260 pages. How many cartridges should he buy?",
+    "answer": "6"
+  },
+  {
+    "id": "EQUATIONS-055",
+    "topic": "Equations",
+    "difficultyBand": "medium",
+    "question": "A coach has 14.40 liters of sports drink and pours it equally into 9 bottles. How many liters are in each bottle?",
+    "answer": "1.6"
+  },
+  {
+    "id": "EQUATIONS-056",
+    "topic": "Equations",
+    "difficultyBand": "medium",
+    "question": "A test has 20 questions. Each correct answer is worth 4 points and each incorrect answer is worth -1 point. A student’s score was 75. How many questions did the student answer correctly?",
+    "answer": "19"
+  },
+  {
+    "id": "EQUATIONS-057",
+    "topic": "Equations",
+    "difficultyBand": "medium",
+    "question": "A box contains x stickers. After giving away 18 stickers, there are 47 stickers left. Write an equation and solve for x.",
+    "answer": "65"
+  },
+  {
+    "id": "EQUATIONS-058",
+    "topic": "Equations",
+    "difficultyBand": "medium",
+    "question": "An online order total is $96 including $8 shipping. Each item costs $22. How many items were ordered?",
+    "answer": "4"
+  },
+  {
+    "id": "EQUATIONS-059",
+    "topic": "Equations",
+    "difficultyBand": "medium",
+    "question": "A train travels 360 miles at 60 miles per hour. How many hours does the trip take?",
+    "answer": "6"
+  },
+  {
+    "id": "EQUATIONS-060",
+    "topic": "Equations",
+    "difficultyBand": "medium",
+    "question": "The perimeter of a rectangle is 2(3x + 5) + 2(2x - 1) and the perimeter equals 94. Solve for x.",
+    "answer": "8.6"
+  },
+  {
+    "id": "EQUATIONS-061",
+    "topic": "Equations",
+    "difficultyBand": "medium",
+    "question": "A plumber charges $65 for the visit plus $35 per hour. The total bill was $240. How many hours did the plumber work?",
+    "answer": "5"
+  },
+  {
+    "id": "EQUATIONS-062",
+    "topic": "Equations",
+    "difficultyBand": "medium",
+    "question": "Apples cost $2.40 per pound. Joey paid $18.00 for apples. How many pounds of apples did he buy?",
+    "answer": "7.5"
+  },
+  {
+    "id": "EQUATIONS-063",
+    "topic": "Equations",
+    "difficultyBand": "medium",
+    "question": "A scientist has 98 mL of solution and pours it into tubes that each hold 7 mL. How many full tubes can be filled?",
+    "answer": "14"
+  },
+  {
+    "id": "EQUATIONS-064",
+    "topic": "Equations",
+    "difficultyBand": "medium",
+    "question": "A metro card had $50.00 on it. Each ride costs $2.50. After some rides, $7.50 remained. How many rides were taken?",
+    "answer": "17"
+  },
+  {
+    "id": "EQUATIONS-065",
+    "topic": "Equations",
+    "difficultyBand": "medium",
+    "question": "A recipe uses 2.25 cups of flour per batch. Joey has 18.00 cups of flour. How many batches can he make?",
+    "answer": "8"
+  },
+  {
+    "id": "EQUATIONS-066",
+    "topic": "Equations",
+    "difficultyBand": "medium",
+    "question": "A company has 1,260 flyers, but 90 flyers are damaged. The rest are packed into bundles of 45. How many full bundles can be made?",
+    "answer": "26"
+  },
+  {
+    "id": "EQUATIONS-067",
+    "topic": "Equations",
+    "difficultyBand": "hard",
+    "question": "A farmer packs 12 crates of oranges. Each crate has the same number of oranges plus 4 extra oranges for inspection. There are 300 oranges in total. How many oranges were originally in each crate?",
+    "answer": "21"
+  },
+  {
+    "id": "EQUATIONS-068",
+    "topic": "Equations",
+    "difficultyBand": "hard",
+    "question": "A bakery fills 9 boxes of donuts. Each box has the same number of donuts plus 3 bonus donuts. There are 198 donuts in total. How many donuts were originally in each box?",
+    "answer": "19"
+  },
+  {
+    "id": "EQUATIONS-069",
+    "topic": "Equations",
+    "difficultyBand": "hard",
+    "question": "A school orders 15 bundles of pencils. Each bundle has the same number of pencils plus 2 extra pencils. There are no more than 245 pencils in total. What is the maximum number of pencils that could have been originally in each bundle before the extras?",
+    "answer": "14"
+  },
+  {
+    "id": "EQUATIONS-070",
+    "topic": "Equations",
+    "difficultyBand": "hard",
+    "question": "A coach makes 8 identical team snack bags. Each bag has the same number of pretzels plus 5 extra pretzels. There are no more than 180 pretzels in total. What is the maximum number of pretzels that could have been originally in each bag before the extras?",
+    "answer": "17"
+  },
+  {
+    "id": "EQUATIONS-071",
+    "topic": "Equations",
+    "difficultyBand": "hard",
+    "question": "A librarian packs 6 boxes of bookmarks. Each box has the same number of bookmarks plus 7 bonus bookmarks. There are 174 bookmarks in total. How many bookmarks were originally in each box?",
+    "answer": "22"
+  },
+  {
+    "id": "EQUATIONS-072",
+    "topic": "Equations",
+    "difficultyBand": "hard",
+    "question": "A factory ships 14 cartons of bottles. Each carton has the same number of bottles plus 6 extra bottles. There are 420 bottles in total. How many bottles were originally in each carton?",
+    "answer": "24"
+  },
+  {
+    "id": "EQUATIONS-073",
+    "topic": "Equations",
+    "difficultyBand": "hard",
+    "question": "A gardener plants 16 rows of tulips. Each row has the same number of tulips plus 3 extra bulbs. There are no more than 307 tulips in total. What is the maximum number of tulips that could have been originally in each row before the extras?",
+    "answer": "16"
+  },
+  {
+    "id": "EQUATIONS-074",
+    "topic": "Equations",
+    "difficultyBand": "hard",
+    "question": "A store stacks 11 trays of cupcakes. Each tray has the same number of cupcakes plus 2 extra cupcakes. There are 154 cupcakes in total. How many cupcakes were originally in each tray?",
+    "answer": "12"
+  },
+  {
+    "id": "EQUATIONS-075",
+    "topic": "Equations",
+    "difficultyBand": "hard",
+    "question": "A teacher prepares 10 identical prize bags. Each bag has the same number of stickers plus 9 bonus stickers. There are 690 stickers in total. How many stickers were originally in each bag?",
+    "answer": "60"
+  },
+  {
+    "id": "EQUATIONS-076",
+    "topic": "Equations",
+    "difficultyBand": "hard",
+    "question": "A camp packs 7 boxes of granola bars. Each box has the same number of bars plus 8 extra bars. There are 259 bars in total. How many bars were originally in each box?",
+    "answer": "29"
+  },
+  {
+    "id": "EQUATIONS-077",
+    "topic": "Equations",
+    "difficultyBand": "hard",
+    "question": "A movie theater sells 5 ticket bundles. Each bundle costs x dollars plus a $2 service fee per bundle. The total cost is $90. Write an equation and find x.",
+    "answer": "16"
+  },
+  {
+    "id": "EQUATIONS-078",
+    "topic": "Equations",
+    "difficultyBand": "hard",
+    "question": "A gym bills for 6 months. Each month costs x dollars plus a $15 materials fee each month. The total cost is $270. Write an equation and find x.",
+    "answer": "30"
+  },
+  {
+    "id": "EQUATIONS-079",
+    "topic": "Equations",
+    "difficultyBand": "hard",
+    "question": "A museum sells 9 souvenir packs. Each pack costs x dollars plus a $3 packaging fee per pack. The total cost is $126. Write an equation and find x.",
+    "answer": "11"
+  },
+  {
+    "id": "EQUATIONS-080",
+    "topic": "Equations",
+    "difficultyBand": "hard",
+    "question": "A delivery company charges for 8 trips. Each trip costs x dollars plus a $5 toll per trip. The total bill is $216. Write an equation and find x.",
+    "answer": "22"
+  },
+  {
+    "id": "EQUATIONS-081",
+    "topic": "Equations",
+    "difficultyBand": "hard",
+    "question": "A streaming service bills for 12 months. Each month costs x dollars plus a $2 tax per month. The total paid is $168. Write an equation and find x.",
+    "answer": "12"
+  },
+  {
+    "id": "EQUATIONS-082",
+    "topic": "Equations",
+    "difficultyBand": "hard",
+    "question": "A concert group buys 7 tickets. Each ticket costs x dollars plus a $4 processing fee per ticket. The total cost is $203. Write an equation and find x.",
+    "answer": "25"
+  },
+  {
+    "id": "EQUATIONS-083",
+    "topic": "Equations",
+    "difficultyBand": "hard",
+    "question": "A store sells notebooks for $6 each. A deal says: buy 3 notebooks and get 1 notebook free. A customer pays $72 and only buys complete deal groups. How many notebooks did the customer receive?",
+    "answer": "16"
+  },
+  {
+    "id": "EQUATIONS-084",
+    "topic": "Equations",
+    "difficultyBand": "hard",
+    "question": "A class orders pizzas. Each pizza costs $14 and there is a $6 delivery fee for the whole order. The class pays $146 total. How many pizzas were ordered?",
+    "answer": "10"
+  },
+  {
+    "id": "EQUATIONS-085",
+    "topic": "Equations",
+    "difficultyBand": "hard",
+    "question": "A taxi charges a $4 start fee plus $2 per mile. The fare was $30. How many miles did the taxi travel?",
+    "answer": "13"
+  },
+  {
+    "id": "EQUATIONS-086",
+    "topic": "Equations",
+    "difficultyBand": "hard",
+    "question": "A plumber charges $55 for the visit plus $38 per hour. The total bill was $291. If the plumber bills only whole hours, what is the maximum number of hours the plumber could have worked?",
+    "answer": "6"
+  },
+  {
+    "id": "EQUATIONS-087",
+    "topic": "Equations",
+    "difficultyBand": "hard",
+    "question": "A phone plan charges $25 per month plus $0.10 per text. The bill was $46. How many texts were sent?",
+    "answer": "210"
+  },
+  {
+    "id": "EQUATIONS-088",
+    "topic": "Equations",
+    "difficultyBand": "hard",
+    "question": "A ride-share charges $3.50 plus $0.80 per minute. The total cost was $19.10. If the app charges only whole minutes, what is the maximum number of minutes the ride could have lasted?",
+    "answer": "19"
+  },
+  {
+    "id": "EQUATIONS-089",
+    "topic": "Equations",
+    "difficultyBand": "hard",
+    "question": "A bookstore sells 4 packs of pens. Each pack has x pens plus 2 extra pens. There are 88 pens in total. How many pens were originally in each pack before the extras?",
+    "answer": "20"
+  },
+  {
+    "id": "EQUATIONS-090",
+    "topic": "Equations",
+    "difficultyBand": "hard",
+    "question": "A sneaker is on sale for $68. The regular price is $15 less than 2 times the sale price. What is the difference between the total cost of 2 regular-price sneakers and 2 sale-price sneakers?",
+    "answer": "106"
+  },
+  {
+    "id": "EQUATIONS-091",
+    "topic": "Equations",
+    "difficultyBand": "hard",
+    "question": "A jacket is on sale for $54. The regular price is $12 more than 3 times the sale price. What is the difference between the total cost of 4 regular-price jackets and 4 sale-price jackets?",
+    "answer": "480"
+  },
+  {
+    "id": "EQUATIONS-092",
+    "topic": "Equations",
+    "difficultyBand": "hard",
+    "question": "A game console is on sale for $249. The regular price is $30 less than 2 times the sale price. What is the difference between the total cost of 3 regular-price consoles and 3 sale-price consoles?",
+    "answer": "657"
+  },
+  {
+    "id": "EQUATIONS-093",
+    "topic": "Equations",
+    "difficultyBand": "hard",
+    "question": "A backpack is on sale for $39. The regular price is $8 more than 5 times the sale price. What is the difference between the total cost of 5 regular-price backpacks and 5 sale-price backpacks?",
+    "answer": "820"
+  },
+  {
+    "id": "EQUATIONS-094",
+    "topic": "Equations",
+    "difficultyBand": "hard",
+    "question": "A bicycle is on sale for $315. The regular price is $45 less than 4 times the sale price. What is the difference between the total cost of 2 regular-price bicycles and 2 sale-price bicycles?",
+    "answer": "1800"
+  },
+  {
+    "id": "EQUATIONS-095",
+    "topic": "Equations",
+    "difficultyBand": "hard",
+    "question": "Shannon has $620 in her bank account. Each week, she withdraws $45. What is the maximum number of weeks she can withdraw the same amount and keep at least $200 in the account?",
+    "answer": "9"
+  },
+  {
+    "id": "EQUATIONS-096",
+    "topic": "Equations",
+    "difficultyBand": "hard",
+    "question": "Miguel has $410 in his bank account. Each week, he withdraws $28. What is the maximum number of weeks he can withdraw the same amount and keep at least $130 in the account?",
+    "answer": "10"
+  },
+  {
+    "id": "EQUATIONS-097",
+    "topic": "Equations",
+    "difficultyBand": "hard",
+    "question": "Tina has $950 in her bank account. Each week, she withdraws $72. What is the maximum number of weeks she can withdraw the same amount and keep at least $400 in the account?",
+    "answer": "7"
+  },
+  {
+    "id": "EQUATIONS-098",
+    "topic": "Equations",
+    "difficultyBand": "hard",
+    "question": "Audrey is planning a party for 26 people. She wants each person to have exactly 3 servings of juice. Each bottle has 6 servings and costs $5. What is the total cost to buy enough bottles with no juice left over?",
+    "answer": "65"
+  },
+  {
+    "id": "EQUATIONS-099",
+    "topic": "Equations",
+    "difficultyBand": "hard",
+    "question": "A club is planning a picnic for 48 people. Each person gets exactly 2 servings of lemonade. Each bottle has 8 servings and costs $4. What is the total cost to buy enough bottles with no lemonade left over?",
+    "answer": "48"
+  },
+  {
+    "id": "EXTRA_CREDIT-001",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "15−3(___−2)+6=9",
+    "answer": "6"
+  },
+  {
+    "id": "EXTRA_CREDIT-002",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "8+4(___−1)−5=15",
+    "answer": "4"
+  },
+  {
+    "id": "EXTRA_CREDIT-003",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "25−5(___−4)+10=20",
+    "answer": "7"
+  },
+  {
+    "id": "EXTRA_CREDIT-004",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "18+2(___−6)−4=10",
+    "answer": "4"
+  },
+  {
+    "id": "EXTRA_CREDIT-005",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "30−6(___−2)+12=18",
+    "answer": "6"
+  },
+  {
+    "id": "EXTRA_CREDIT-006",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "7+3(___−4)−2=23",
+    "answer": "10"
+  },
+  {
+    "id": "EXTRA_CREDIT-007",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "16−2(___−5)+8=12",
+    "answer": "11"
+  },
+  {
+    "id": "EXTRA_CREDIT-008",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "9−3(___−2)+5=8",
+    "answer": "4"
+  },
+  {
+    "id": "EXTRA_CREDIT-009",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "14+2(___−3)−6=10",
+    "answer": "4"
+  },
+  {
+    "id": "EXTRA_CREDIT-010",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "20−4(___−5)+12=16",
+    "answer": "9"
+  },
+  {
+    "id": "EXTRA_CREDIT-011",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "6+3(___−1)−4=11",
+    "answer": "4"
+  },
+  {
+    "id": "EXTRA_CREDIT-012",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "18−2(___−4)+6=14",
+    "answer": "9"
+  },
+  {
+    "id": "EXTRA_CREDIT-013",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "10+5(___−2)−8=17",
+    "answer": "5"
+  },
+  {
+    "id": "EXTRA_CREDIT-014",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "25−5(___−3)+10=20",
+    "answer": "6"
+  },
+  {
+    "id": "EXTRA_CREDIT-015",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "12+4(___−2)−6=18",
+    "answer": "5"
+  },
+  {
+    "id": "EXTRA_CREDIT-016",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "16−3(___−4)+8=15",
+    "answer": "7"
+  },
+  {
+    "id": "EXTRA_CREDIT-017",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "7+2(___−3)−5=6",
+    "answer": "5"
+  },
+  {
+    "id": "EXTRA_CREDIT-018",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "30−6(___−2)+12=24",
+    "answer": "5"
+  },
+  {
+    "id": "EXTRA_CREDIT-019",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "29-6(___-1)+2=13",
+    "answer": "4"
+  },
+  {
+    "id": "EXTRA_CREDIT-020",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "7(___+1)-2(5-3)=10",
+    "answer": "1"
+  },
+  {
+    "id": "EXTRA_CREDIT-021",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "15−3(___−2)+4=22",
+    "answer": "1"
+  },
+  {
+    "id": "EXTRA_CREDIT-022",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "12+4(___−3)−5=19",
+    "answer": "6"
+  },
+  {
+    "id": "EXTRA_CREDIT-023",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "20−5(___+2)+6=11",
+    "answer": "1"
+  },
+  {
+    "id": "EXTRA_CREDIT-024",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "18−4(___−2)+3=15",
+    "answer": "3.5"
+  },
+  {
+    "id": "EXTRA_CREDIT-025",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "25−5(___+3)+7=12",
+    "answer": "1"
+  },
+  {
+    "id": "EXTRA_CREDIT-026",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "14+3(___−4)−6=20",
+    "answer": "8"
+  },
+  {
+    "id": "EXTRA_CREDIT-027",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "30−6(___+2)+4=10",
+    "answer": "2"
+  },
+  {
+    "id": "EXTRA_CREDIT-028",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "22−3(___−5)+7=38",
+    "answer": "2"
+  },
+  {
+    "id": "EXTRA_CREDIT-029",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "16+2(___−3)−5=19",
+    "answer": "7"
+  },
+  {
+    "id": "EXTRA_CREDIT-030",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "24−4(___+2)+6=14",
+    "answer": "2"
+  },
+  {
+    "id": "INEQUALITIES-001",
+    "topic": "Inequalities",
+    "difficultyBand": "easy",
+    "question": "2x+7<21",
+    "answer": "x < 7"
+  },
+  {
+    "id": "INEQUALITIES-002",
+    "topic": "Inequalities",
+    "difficultyBand": "easy",
+    "question": "3x+5>29",
+    "answer": "x > 8"
+  },
+  {
+    "id": "INEQUALITIES-003",
+    "topic": "Inequalities",
+    "difficultyBand": "easy",
+    "question": "4x+9<37",
+    "answer": "x < 7"
+  },
+  {
+    "id": "INEQUALITIES-004",
+    "topic": "Inequalities",
+    "difficultyBand": "easy",
+    "question": "5x+6>41",
+    "answer": "x > 7"
+  },
+  {
+    "id": "INEQUALITIES-005",
+    "topic": "Inequalities",
+    "difficultyBand": "easy",
+    "question": "6x+4<34",
+    "answer": "x < 5"
+  },
+  {
+    "id": "INEQUALITIES-006",
+    "topic": "Inequalities",
+    "difficultyBand": "easy",
+    "question": "7x+3>45",
+    "answer": "x > 6"
+  },
+  {
+    "id": "INEQUALITIES-007",
+    "topic": "Inequalities",
+    "difficultyBand": "easy",
+    "question": "8x+2<50",
+    "answer": "x < 6"
+  },
+  {
+    "id": "INEQUALITIES-008",
+    "topic": "Inequalities",
+    "difficultyBand": "easy",
+    "question": "9x+1>55",
+    "answer": "x > 6"
+  },
+  {
+    "id": "INEQUALITIES-009",
+    "topic": "Inequalities",
+    "difficultyBand": "easy",
+    "question": "10x+8<68",
+    "answer": "x < 6"
+  },
+  {
+    "id": "INEQUALITIES-010",
+    "topic": "Inequalities",
+    "difficultyBand": "easy",
+    "question": "11x+7>73",
+    "answer": "x > 6"
+  },
+  {
+    "id": "INEQUALITIES-011",
+    "topic": "Inequalities",
+    "difficultyBand": "easy",
+    "question": "12x+5<101",
+    "answer": "x < 8"
+  },
+  {
+    "id": "INEQUALITIES-012",
+    "topic": "Inequalities",
+    "difficultyBand": "easy",
+    "question": "13x+4>95",
+    "answer": "x > 7"
+  },
+  {
+    "id": "INEQUALITIES-013",
+    "topic": "Inequalities",
+    "difficultyBand": "easy",
+    "question": "14x+3<129",
+    "answer": "x < 9"
+  },
+  {
+    "id": "INEQUALITIES-014",
+    "topic": "Inequalities",
+    "difficultyBand": "easy",
+    "question": "15x+2>92",
+    "answer": "x > 6"
+  },
+  {
+    "id": "INEQUALITIES-015",
+    "topic": "Inequalities",
+    "difficultyBand": "easy",
+    "question": "16x+9<137",
+    "answer": "x < 8"
+  },
+  {
+    "id": "INEQUALITIES-016",
+    "topic": "Inequalities",
+    "difficultyBand": "easy",
+    "question": "17x+6>91",
+    "answer": "x > 5"
+  },
+  {
+    "id": "INEQUALITIES-017",
+    "topic": "Inequalities",
+    "difficultyBand": "easy",
+    "question": "18x+5<167",
+    "answer": "x < 9"
+  },
+  {
+    "id": "INEQUALITIES-018",
+    "topic": "Inequalities",
+    "difficultyBand": "easy",
+    "question": "19x+4>118",
+    "answer": "x > 6"
+  },
+  {
+    "id": "INEQUALITIES-019",
+    "topic": "Inequalities",
+    "difficultyBand": "easy",
+    "question": "20x+3<203",
+    "answer": "x < 10"
+  },
+  {
+    "id": "INEQUALITIES-020",
+    "topic": "Inequalities",
+    "difficultyBand": "easy",
+    "question": "21x+2>149",
+    "answer": "x > 7"
+  },
+  {
+    "id": "INEQUALITIES-021",
+    "topic": "Inequalities",
+    "difficultyBand": "easy",
+    "question": "22x+1<221",
+    "answer": "x < 10"
+  },
+  {
+    "id": "INEQUALITIES-022",
+    "topic": "Inequalities",
+    "difficultyBand": "easy",
+    "question": "23x+8>192",
+    "answer": "x > 8"
+  },
+  {
+    "id": "INEQUALITIES-023",
+    "topic": "Inequalities",
+    "difficultyBand": "easy",
+    "question": "24x+7<271",
+    "answer": "x < 11"
+  },
+  {
+    "id": "INEQUALITIES-024",
+    "topic": "Inequalities",
+    "difficultyBand": "easy",
+    "question": "25x+6>206",
+    "answer": "x > 8"
+  },
+  {
+    "id": "INEQUALITIES-025",
+    "topic": "Inequalities",
+    "difficultyBand": "easy",
+    "question": "26x+5<291",
+    "answer": "x < 11"
+  },
+  {
+    "id": "INEQUALITIES-026",
+    "topic": "Inequalities",
+    "difficultyBand": "easy",
+    "question": "27x+4>220",
+    "answer": "x > 8"
+  },
+  {
+    "id": "INEQUALITIES-027",
+    "topic": "Inequalities",
+    "difficultyBand": "easy",
+    "question": "28x+3<339",
+    "answer": "x < 12"
+  },
+  {
+    "id": "INEQUALITIES-028",
+    "topic": "Inequalities",
+    "difficultyBand": "easy",
+    "question": "29x+2>60",
+    "answer": "x > 2"
+  },
+  {
+    "id": "INEQUALITIES-029",
+    "topic": "Inequalities",
+    "difficultyBand": "easy",
+    "question": "30x+1<391",
+    "answer": "x < 13"
+  },
+  {
+    "id": "INEQUALITIES-030",
+    "topic": "Inequalities",
+    "difficultyBand": "easy",
+    "question": "31x+9>71",
+    "answer": "x > 2"
+  },
+  {
+    "id": "INEQUALITIES-031",
+    "topic": "Inequalities",
+    "difficultyBand": "easy",
+    "question": "32x+8<456",
+    "answer": "x < 14"
+  },
+  {
+    "id": "INEQUALITIES-032",
+    "topic": "Inequalities",
+    "difficultyBand": "easy",
+    "question": "33x+7>271",
+    "answer": "x > 8"
+  },
+  {
+    "id": "INEQUALITIES-033",
+    "topic": "Inequalities",
+    "difficultyBand": "easy",
+    "question": "34x+6<40",
+    "answer": "x < 1"
+  },
+  {
+    "id": "INEQUALITIES-034",
+    "topic": "Inequalities",
+    "difficultyBand": "medium",
+    "question": "-3x + 12 < 0",
+    "answer": "x>4"
+  },
+  {
+    "id": "INEQUALITIES-035",
+    "topic": "Inequalities",
+    "difficultyBand": "medium",
+    "question": "x/5 + 7 > 9",
+    "answer": "x>10"
+  },
+  {
+    "id": "INEQUALITIES-036",
+    "topic": "Inequalities",
+    "difficultyBand": "medium",
+    "question": "-4(x + 2) + 3 < 11",
+    "answer": "x>-4"
+  },
+  {
+    "id": "INEQUALITIES-037",
+    "topic": "Inequalities",
+    "difficultyBand": "medium",
+    "question": "2(x - 3) + 5 > 17",
+    "answer": "x>9"
+  },
+  {
+    "id": "INEQUALITIES-038",
+    "topic": "Inequalities",
+    "difficultyBand": "medium",
+    "question": "x/4 - 6 < -2",
+    "answer": "x<16"
+  },
+  {
+    "id": "INEQUALITIES-039",
+    "topic": "Inequalities",
+    "difficultyBand": "medium",
+    "question": "-5(x - 1) + 20 > 0",
+    "answer": "x<5"
+  },
+  {
+    "id": "INEQUALITIES-040",
+    "topic": "Inequalities",
+    "difficultyBand": "medium",
+    "question": "7 - x/3 > 5",
+    "answer": "x<6"
+  },
+  {
+    "id": "INEQUALITIES-041",
+    "topic": "Inequalities",
+    "difficultyBand": "medium",
+    "question": "3(x + 4) - 2 < 28",
+    "answer": "x<6"
+  },
+  {
+    "id": "INEQUALITIES-042",
+    "topic": "Inequalities",
+    "difficultyBand": "medium",
+    "question": "-2(x - 7) + 1 > 15",
+    "answer": "x<0"
+  },
+  {
+    "id": "INEQUALITIES-043",
+    "topic": "Inequalities",
+    "difficultyBand": "medium",
+    "question": "x/2 + 9 < 14",
+    "answer": "x<10"
+  },
+  {
+    "id": "INEQUALITIES-044",
+    "topic": "Inequalities",
+    "difficultyBand": "medium",
+    "question": "-6x - 3 < 9",
+    "answer": "x>-2"
+  },
+  {
+    "id": "INEQUALITIES-045",
+    "topic": "Inequalities",
+    "difficultyBand": "medium",
+    "question": "4x + 1 > 25",
+    "answer": "x>6"
+  },
+  {
+    "id": "INEQUALITIES-046",
+    "topic": "Inequalities",
+    "difficultyBand": "medium",
+    "question": "-3(x + 5) + 4 < -11",
+    "answer": "x>0"
+  },
+  {
+    "id": "INEQUALITIES-047",
+    "topic": "Inequalities",
+    "difficultyBand": "medium",
+    "question": "2 - x/5 < -3",
+    "answer": "x>25"
+  },
+  {
+    "id": "INEQUALITIES-048",
+    "topic": "Inequalities",
+    "difficultyBand": "medium",
+    "question": "-8 + x/4 > -5",
+    "answer": "x>12"
+  },
+  {
+    "id": "INEQUALITIES-049",
+    "topic": "Inequalities",
+    "difficultyBand": "medium",
+    "question": "5(x - 2) + 10 < 35",
+    "answer": "x<7"
+  },
+  {
+    "id": "INEQUALITIES-050",
+    "topic": "Inequalities",
+    "difficultyBand": "medium",
+    "question": "-2x + 7 > -9",
+    "answer": "x<8"
+  },
+  {
+    "id": "INEQUALITIES-051",
+    "topic": "Inequalities",
+    "difficultyBand": "medium",
+    "question": "-4x + 2 < -18",
+    "answer": "x>5"
+  },
+  {
+    "id": "INEQUALITIES-052",
+    "topic": "Inequalities",
+    "difficultyBand": "medium",
+    "question": "6(x + 1) - 3 > 33",
+    "answer": "x>5"
+  },
+  {
+    "id": "INEQUALITIES-053",
+    "topic": "Inequalities",
+    "difficultyBand": "medium",
+    "question": "-7(x - 3) + 14 < 0",
+    "answer": "x>5"
+  },
+  {
+    "id": "INEQUALITIES-054",
+    "topic": "Inequalities",
+    "difficultyBand": "medium",
+    "question": "x/6 - 4 > 1",
+    "answer": "x>30"
+  },
+  {
+    "id": "INEQUALITIES-055",
+    "topic": "Inequalities",
+    "difficultyBand": "medium",
+    "question": "9 + 3x < 0",
+    "answer": "x<-3"
+  },
+  {
+    "id": "INEQUALITIES-056",
+    "topic": "Inequalities",
+    "difficultyBand": "medium",
+    "question": "-5 - x/2 < -9",
+    "answer": "x>8"
+  },
+  {
+    "id": "INEQUALITIES-057",
+    "topic": "Inequalities",
+    "difficultyBand": "medium",
+    "question": "3 - 2(x + 1) > -7",
+    "answer": "x<4"
+  },
+  {
+    "id": "INEQUALITIES-058",
+    "topic": "Inequalities",
+    "difficultyBand": "medium",
+    "question": "x/3 + 2 < -1",
+    "answer": "x<-9"
+  },
+  {
+    "id": "INEQUALITIES-059",
+    "topic": "Inequalities",
+    "difficultyBand": "medium",
+    "question": "-3(x - 2) - 6 > 12",
+    "answer": "x<-4"
+  },
+  {
+    "id": "INEQUALITIES-060",
+    "topic": "Inequalities",
+    "difficultyBand": "medium",
+    "question": "8 - 4x < -12",
+    "answer": "x>5"
+  },
+  {
+    "id": "INEQUALITIES-061",
+    "topic": "Inequalities",
+    "difficultyBand": "medium",
+    "question": "2x/5 + 1 > 7",
+    "answer": "x>15"
+  },
+  {
+    "id": "INEQUALITIES-062",
+    "topic": "Inequalities",
+    "difficultyBand": "medium",
+    "question": "-x/4 + 5 < 1",
+    "answer": "x>16"
+  },
+  {
+    "id": "INEQUALITIES-063",
+    "topic": "Inequalities",
+    "difficultyBand": "medium",
+    "question": "-9 + 3(x + 2) > 12",
+    "answer": "x>5"
+  },
+  {
+    "id": "INEQUALITIES-064",
+    "topic": "Inequalities",
+    "difficultyBand": "medium",
+    "question": "-2(x + 6) + 4 < -10",
+    "answer": "x>1"
+  },
+  {
+    "id": "INEQUALITIES-065",
+    "topic": "Inequalities",
+    "difficultyBand": "medium",
+    "question": "x/8 + 1 > 0",
+    "answer": "x>-8"
+  },
+  {
+    "id": "INEQUALITIES-066",
+    "topic": "Inequalities",
+    "difficultyBand": "medium",
+    "question": "5 - x/2 > 11",
+    "answer": "x<-12"
+  },
+  {
+    "id": "INEQUALITIES-067",
+    "topic": "Inequalities",
+    "difficultyBand": "hard",
+    "question": "Jenny goes bowling. She can spend at most $34. She spends $9.25 to rent shoes. She spends $7.50 for each game she bowls. What is the maximum number of games she can bowl?",
+    "answer": "3"
+  },
+  {
+    "id": "INEQUALITIES-068",
+    "topic": "Inequalities",
+    "difficultyBand": "hard",
+    "question": "A student buys notebooks. The student can spend at most $28. The student pays $4.50 for a folder. Each notebook costs $3.25. What is the maximum number of notebooks the student can buy?",
+    "answer": "7"
+  },
+  {
+    "id": "INEQUALITIES-069",
+    "topic": "Inequalities",
+    "difficultyBand": "hard",
+    "question": "A family orders pizza. The family can spend at most $60. There is a delivery fee of $6. Each pizza costs $14. What is the maximum number of pizzas the family can order?",
+    "answer": "3"
+  },
+  {
+    "id": "INEQUALITIES-070",
+    "topic": "Inequalities",
+    "difficultyBand": "hard",
+    "question": "A gamer buys credits. The gamer can spend at most $25. The gamer pays a $2.00 activation fee. Each credit pack costs $4.50. What is the maximum number of credit packs the gamer can buy?",
+    "answer": "5"
+  },
+  {
+    "id": "INEQUALITIES-071",
+    "topic": "Inequalities",
+    "difficultyBand": "hard",
+    "question": "A class buys snacks. The class can spend at most $45. The class buys cups for $5. Each snack bag costs $3.50. What is the maximum number of snack bags the class can buy?",
+    "answer": "11"
+  },
+  {
+    "id": "INEQUALITIES-072",
+    "topic": "Inequalities",
+    "difficultyBand": "hard",
+    "question": "A coach is ordering hats for players. The coach must spend at least $180. There is a shipping charge of $12 for the whole order. Each hat costs $20. What is the minimum number of hats the coach must order?",
+    "answer": "9"
+  },
+  {
+    "id": "INEQUALITIES-073",
+    "topic": "Inequalities",
+    "difficultyBand": "hard",
+    "question": "A school is ordering calculators. The school must spend at least $250. There is a shipping charge of $25 for the whole order. Each calculator costs $18. What is the minimum number of calculators the school must order?",
+    "answer": "13"
+  },
+  {
+    "id": "INEQUALITIES-074",
+    "topic": "Inequalities",
+    "difficultyBand": "hard",
+    "question": "A club is ordering T-shirts. The club must spend at least $300. There is a shipping charge of $30 for the whole order. Each T-shirt costs $15. What is the minimum number of T-shirts the club must order?",
+    "answer": "18"
+  },
+  {
+    "id": "INEQUALITIES-075",
+    "topic": "Inequalities",
+    "difficultyBand": "hard",
+    "question": "A library is ordering books. The library must spend at least $420. There is a shipping charge of $20 for the whole order. Each book costs $14. What is the minimum number of books the library must order?",
+    "answer": "29"
+  },
+  {
+    "id": "INEQUALITIES-076",
+    "topic": "Inequalities",
+    "difficultyBand": "hard",
+    "question": "A camp is ordering flashlights. The camp must spend at least $160. There is a shipping charge of $10 for the whole order. Each flashlight costs $8. What is the minimum number of flashlights the camp must order?",
+    "answer": "19"
+  },
+  {
+    "id": "INEQUALITIES-077",
+    "topic": "Inequalities",
+    "difficultyBand": "hard",
+    "question": "Mary has no more than $60 to spend at a store. She wants to purchase 6 earbuds that cost $x each and the same number of phone cases that cost $7 each. What is the maximum value of x?",
+    "answer": "3"
+  },
+  {
+    "id": "INEQUALITIES-078",
+    "topic": "Inequalities",
+    "difficultyBand": "hard",
+    "question": "Ben has no more than $90 to spend at a sports shop. He wants to purchase 5 water bottles that cost $x each and the same number of towels that cost $9 each. What is the maximum value of x?",
+    "answer": "9"
+  },
+  {
+    "id": "INEQUALITIES-079",
+    "topic": "Inequalities",
+    "difficultyBand": "hard",
+    "question": "Nina has no more than $72 to spend at a bookstore. She wants to purchase 4 novels that cost $x each and the same number of notebooks that cost $6 each. What is the maximum value of x?",
+    "answer": "12"
+  },
+  {
+    "id": "INEQUALITIES-080",
+    "topic": "Inequalities",
+    "difficultyBand": "hard",
+    "question": "Omar has no more than $150 to spend online. He wants to purchase 3 video games that cost $x each and the same number of controllers that cost $18 each. What is the maximum value of x?",
+    "answer": "32"
+  },
+  {
+    "id": "INEQUALITIES-081",
+    "topic": "Inequalities",
+    "difficultyBand": "hard",
+    "question": "Tia has no more than $48 to spend at a craft store. She wants to purchase 8 markers that cost $x each and the same number of glue sticks that cost $2 each. What is the maximum value of x?",
+    "answer": "4"
+  },
+  {
+    "id": "INEQUALITIES-082",
+    "topic": "Inequalities",
+    "difficultyBand": "hard",
+    "question": "A student is collecting donation cards. The student needs no less than 120 cards. The student already has 35 cards. Each friend donates 5 cards. What is the minimum number of friends the student needs?",
+    "answer": "17"
+  },
+  {
+    "id": "INEQUALITIES-083",
+    "topic": "Inequalities",
+    "difficultyBand": "hard",
+    "question": "A runner is training for a race. The runner needs no less than 50 miles of running. The runner has already run 18 miles. The runner runs 4 miles each day. What is the minimum number of days the runner needs?",
+    "answer": "8"
+  },
+  {
+    "id": "INEQUALITIES-084",
+    "topic": "Inequalities",
+    "difficultyBand": "hard",
+    "question": "A teacher is preparing a prize box. The teacher needs no less than 200 stickers. The teacher already has 68 stickers. Each pack has 12 stickers. What is the minimum number of packs the teacher needs?",
+    "answer": "11"
+  },
+  {
+    "id": "INEQUALITIES-085",
+    "topic": "Inequalities",
+    "difficultyBand": "hard",
+    "question": "A baker is filling orders. The baker needs no less than 90 cupcakes. The baker already has 26 cupcakes. Each batch makes 8 cupcakes. What is the minimum number of batches the baker needs?",
+    "answer": "8"
+  },
+  {
+    "id": "INEQUALITIES-086",
+    "topic": "Inequalities",
+    "difficultyBand": "hard",
+    "question": "A gamer wants enough points. The gamer needs no less than 1,500 points. The gamer already has 540 points. Each level gives 120 points. What is the minimum number of levels the gamer must complete?",
+    "answer": "8"
+  },
+  {
+    "id": "INEQUALITIES-087",
+    "topic": "Inequalities",
+    "difficultyBand": "hard",
+    "question": "A movie theater sells tickets. The total cost is less than $200. There is a $10 booking fee for the whole order. Each ticket costs $15. What is the maximum number of tickets that can be bought?",
+    "answer": "12"
+  },
+  {
+    "id": "INEQUALITIES-088",
+    "topic": "Inequalities",
+    "difficultyBand": "hard",
+    "question": "A bookstore order costs less than $95. There is a $5 shipping fee for the whole order. Each book costs $12. What is the maximum number of books that can be ordered?",
+    "answer": "7"
+  },
+  {
+    "id": "INEQUALITIES-089",
+    "topic": "Inequalities",
+    "difficultyBand": "hard",
+    "question": "A team order costs less than $260. There is a $20 shipping fee for the whole order. Each jersey costs $18. What is the maximum number of jerseys that can be ordered?",
+    "answer": "13"
+  },
+  {
+    "id": "INEQUALITIES-090",
+    "topic": "Inequalities",
+    "difficultyBand": "hard",
+    "question": "A museum gift shop order costs less than $80. There is a $8 handling fee for the whole order. Each souvenir costs $6. What is the maximum number of souvenirs that can be bought?",
+    "answer": "11"
+  },
+  {
+    "id": "INEQUALITIES-091",
+    "topic": "Inequalities",
+    "difficultyBand": "hard",
+    "question": "A school supply order costs less than $150. There is a $12 shipping fee for the whole order. Each pack of pencils costs $9. What is the maximum number of packs that can be ordered?",
+    "answer": "15"
+  },
+  {
+    "id": "INEQUALITIES-092",
+    "topic": "Inequalities",
+    "difficultyBand": "hard",
+    "question": "A student wants to save money. The student needs more than $300 in savings. The student already has $175. The student saves $25 each week. What is the minimum number of weeks needed?",
+    "answer": "6"
+  },
+  {
+    "id": "INEQUALITIES-093",
+    "topic": "Inequalities",
+    "difficultyBand": "hard",
+    "question": "A hiker is collecting points for a badge. The hiker needs more than 500 points. The hiker already has 185 points. Each hike earns 35 points. What is the minimum number of hikes needed?",
+    "answer": "10"
+  },
+  {
+    "id": "INEQUALITIES-094",
+    "topic": "Inequalities",
+    "difficultyBand": "hard",
+    "question": "A class is raising money. The class needs more than $240 for a trip. The class already raised $96. Each fundraiser ticket sold earns $12. What is the minimum number of tickets that must be sold?",
+    "answer": "13"
+  },
+  {
+    "id": "INEQUALITIES-095",
+    "topic": "Inequalities",
+    "difficultyBand": "hard",
+    "question": "A musician needs more than 40 practice hours. The musician already practiced 14 hours. The musician practices 3 hours each week. What is the minimum number of weeks needed?",
+    "answer": "9"
+  },
+  {
+    "id": "INEQUALITIES-096",
+    "topic": "Inequalities",
+    "difficultyBand": "hard",
+    "question": "A library wants more than 1,000 new pages printed. The printer has already printed 360 pages. The printer prints 85 pages per hour. What is the minimum number of hours needed?",
+    "answer": "8"
+  },
+  {
+    "id": "INEQUALITIES-097",
+    "topic": "Inequalities",
+    "difficultyBand": "hard",
+    "question": "A student is buying ride tickets. The student can spend up to $50. The student pays a $4 entry fee. Each ride ticket costs $2. What is the maximum number of ride tickets the student can buy?",
+    "answer": "23"
+  },
+  {
+    "id": "INEQUALITIES-098",
+    "topic": "Inequalities",
+    "difficultyBand": "hard",
+    "question": "A family is buying museum passes. The family can spend up to $120. The family pays a $15 parking fee. Each pass costs $18. What is the maximum number of passes the family can buy?",
+    "answer": "5"
+  },
+  {
+    "id": "INEQUALITIES-099",
+    "topic": "Inequalities",
+    "difficultyBand": "hard",
+    "question": "A coach is buying practice balls. The coach can spend up to $90. The coach pays $10 for shipping. Each ball costs $8. What is the maximum number of balls the coach can buy?",
+    "answer": "10"
+  },
+  {
+    "id": "PERCENT_CHANGE-001",
+    "topic": "Percent Change",
+    "difficultyBand": "easy",
+    "question": "In a school fundraiser, 35% of the 260 students donated money. About how many students donated?",
+    "answer": "91"
+  },
+  {
+    "id": "PERCENT_CHANGE-002",
+    "topic": "Percent Change",
+    "difficultyBand": "easy",
+    "question": "In a theater, 18% of the 450 seats were empty. About how many seats were empty?",
+    "answer": "81"
+  },
+  {
+    "id": "PERCENT_CHANGE-003",
+    "topic": "Percent Change",
+    "difficultyBand": "easy",
+    "question": "A store sold 24% of its 750 water bottles in one day. About how many bottles were sold?",
+    "answer": "180"
+  },
+  {
+    "id": "PERCENT_CHANGE-004",
+    "topic": "Percent Change",
+    "difficultyBand": "easy",
+    "question": "A library reported that 12% of the 980 books checked out were overdue. About how many books were overdue?",
+    "answer": "118"
+  },
+  {
+    "id": "PERCENT_CHANGE-005",
+    "topic": "Percent Change",
+    "difficultyBand": "easy",
+    "question": "A team won 65% of its 40 games. About how many games did the team win?",
+    "answer": "26"
+  },
+  {
+    "id": "PERCENT_CHANGE-006",
+    "topic": "Percent Change",
+    "difficultyBand": "easy",
+    "question": "A class of 28 students had 75% turn in the homework. About how many students turned it in?",
+    "answer": "21"
+  },
+  {
+    "id": "PERCENT_CHANGE-007",
+    "topic": "Percent Change",
+    "difficultyBand": "easy",
+    "question": "A factory found that 4% of 3,250 light bulbs were defective. About how many bulbs were defective?",
+    "answer": "130"
+  },
+  {
+    "id": "PERCENT_CHANGE-008",
+    "topic": "Percent Change",
+    "difficultyBand": "easy",
+    "question": "A city recycled 52% of its 18,000 tons of waste. About how many tons were recycled?",
+    "answer": "9360"
+  },
+  {
+    "id": "PERCENT_CHANGE-009",
+    "topic": "Percent Change",
+    "difficultyBand": "easy",
+    "question": "A phone company said 7% of its 12,500 customers upgraded this month. About how many customers upgraded?",
+    "answer": "875"
+  },
+  {
+    "id": "PERCENT_CHANGE-010",
+    "topic": "Percent Change",
+    "difficultyBand": "easy",
+    "question": "A website said 30% of its 2,400 visitors clicked an ad. About how many visitors clicked?",
+    "answer": "720"
+  },
+  {
+    "id": "PERCENT_CHANGE-011",
+    "topic": "Percent Change",
+    "difficultyBand": "easy",
+    "question": "A jar contains 160 jellybeans. 22.5% are red. About how many red jellybeans are there?",
+    "answer": "36"
+  },
+  {
+    "id": "PERCENT_CHANGE-012",
+    "topic": "Percent Change",
+    "difficultyBand": "easy",
+    "question": "A poll found that 360 people support a proposal. This is 15% of the people surveyed. How many people were surveyed?",
+    "answer": "2400"
+  },
+  {
+    "id": "PERCENT_CHANGE-013",
+    "topic": "Percent Change",
+    "difficultyBand": "easy",
+    "question": "A gym had 84 members attend a class, which is 28% of all members. How many members does the gym have?",
+    "answer": "300"
+  },
+  {
+    "id": "PERCENT_CHANGE-014",
+    "topic": "Percent Change",
+    "difficultyBand": "easy",
+    "question": "A store sold 126 items, which is 9% of its total inventory. How many items are in the inventory?",
+    "answer": "1400"
+  },
+  {
+    "id": "PERCENT_CHANGE-015",
+    "topic": "Percent Change",
+    "difficultyBand": "easy",
+    "question": "A charity raised $2,700, which is 12% of its fundraising goal. What is the goal amount?",
+    "answer": "22500"
+  },
+  {
+    "id": "PERCENT_CHANGE-016",
+    "topic": "Percent Change",
+    "difficultyBand": "easy",
+    "question": "A school reported 96 students absent, which is 8% of the student body. How many students are in the school?",
+    "answer": "1200"
+  },
+  {
+    "id": "PERCENT_CHANGE-017",
+    "topic": "Percent Change",
+    "difficultyBand": "easy",
+    "question": "A game app had 1,050 users log in today, which is 35% of its users. How many total users does the app have?",
+    "answer": "3000"
+  },
+  {
+    "id": "PERCENT_CHANGE-018",
+    "topic": "Percent Change",
+    "difficultyBand": "easy",
+    "question": "A company had 450 orders shipped late, which is 6% of all orders. How many orders were placed?",
+    "answer": "7500"
+  },
+  {
+    "id": "PERCENT_CHANGE-019",
+    "topic": "Percent Change",
+    "difficultyBand": "easy",
+    "question": "A factory produced 1,260 faulty parts, which is 3.5% of all parts. How many parts were produced in total?",
+    "answer": "36000"
+  },
+  {
+    "id": "PERCENT_CHANGE-020",
+    "topic": "Percent Change",
+    "difficultyBand": "easy",
+    "question": "A museum sold 2,240 tickets, which is 70% of its ticket supply. How many tickets were available?",
+    "answer": "3200"
+  },
+  {
+    "id": "PERCENT_CHANGE-021",
+    "topic": "Percent Change",
+    "difficultyBand": "easy",
+    "question": "A neighborhood had 1,080 homes with solar panels, which is 18% of the homes. How many homes are in the neighborhood?",
+    "answer": "6000"
+  },
+  {
+    "id": "PERCENT_CHANGE-022",
+    "topic": "Percent Change",
+    "difficultyBand": "easy",
+    "question": "A store gave out 525 coupons, which is 21% of the coupons printed. How many coupons were printed?",
+    "answer": "2500"
+  },
+  {
+    "id": "PERCENT_CHANGE-023",
+    "topic": "Percent Change",
+    "difficultyBand": "easy",
+    "question": "A jacket costs $84 after a 30% discount. What was the original price?",
+    "answer": "120"
+  },
+  {
+    "id": "PERCENT_CHANGE-024",
+    "topic": "Percent Change",
+    "difficultyBand": "easy",
+    "question": "A video game costs $42 after a 25% discount. What was the original price?",
+    "answer": "56"
+  },
+  {
+    "id": "PERCENT_CHANGE-025",
+    "topic": "Percent Change",
+    "difficultyBand": "easy",
+    "question": "A phone is on sale for $510 after a 15% discount. What was the original price?",
+    "answer": "600"
+  },
+  {
+    "id": "PERCENT_CHANGE-026",
+    "topic": "Percent Change",
+    "difficultyBand": "easy",
+    "question": "A bike costs $306 after a 10% discount. What was the original price?",
+    "answer": "340"
+  },
+  {
+    "id": "PERCENT_CHANGE-027",
+    "topic": "Percent Change",
+    "difficultyBand": "easy",
+    "question": "A backpack costs $48 after a 20% discount. What was the original price?",
+    "answer": "60"
+  },
+  {
+    "id": "PERCENT_CHANGE-028",
+    "topic": "Percent Change",
+    "difficultyBand": "easy",
+    "question": "A tablet costs $255 after a 40% discount. What was the original price?",
+    "answer": "425"
+  },
+  {
+    "id": "PERCENT_CHANGE-029",
+    "topic": "Percent Change",
+    "difficultyBand": "easy",
+    "question": "A store increased the price of an item from $60 to $75. What was the percent increase?",
+    "answer": "0.25"
+  },
+  {
+    "id": "PERCENT_CHANGE-030",
+    "topic": "Percent Change",
+    "difficultyBand": "easy",
+    "question": "A bill decreased from $96 to $72. What was the percent decrease?",
+    "answer": "0.25"
+  },
+  {
+    "id": "PERCENT_CHANGE-031",
+    "topic": "Percent Change",
+    "difficultyBand": "easy",
+    "question": "Sarah pays $5.60 in sales tax on a $140 restaurant bill. The sales tax is what percent of the bill?",
+    "answer": "0.04"
+  },
+  {
+    "id": "PERCENT_CHANGE-032",
+    "topic": "Percent Change",
+    "difficultyBand": "easy",
+    "question": "A service fee is $9.45 on a $189 purchase. The fee is what percent of the purchase?",
+    "answer": "0.05"
+  },
+  {
+    "id": "PERCENT_CHANGE-033",
+    "topic": "Percent Change",
+    "difficultyBand": "easy",
+    "question": "A class had 18 students out of 24 pass a test. What percent of the class passed?",
+    "answer": "0.75"
+  },
+  {
+    "id": "PERCENT_CHANGE-034",
+    "topic": "Percent Change",
+    "difficultyBand": "medium",
+    "question": "Maya and Luis each opened a savings account with a deposit of $250. Maya earned 4% simple interest per year. Luis earned 3.2% simple interest per year. Neither of them made additional deposits or withdrawals. How much more did Maya receive in interest than Luis after 5 years?",
+    "answer": "10"
+  },
+  {
+    "id": "PERCENT_CHANGE-035",
+    "topic": "Percent Change",
+    "difficultyBand": "medium",
+    "question": "Noah and Priya each opened a savings account with a deposit of $600. Noah earned 2.8% simple interest per year. Priya earned 2.1% simple interest per year. Neither of them made additional deposits or withdrawals. How much more did Noah receive in interest than Priya after 6 years?",
+    "answer": "25.2"
+  },
+  {
+    "id": "PERCENT_CHANGE-036",
+    "topic": "Percent Change",
+    "difficultyBand": "medium",
+    "question": "Ava and Marco each opened a savings account with a deposit of $180. Ava earned 3.5% simple interest per year. Marco earned 2.75% simple interest per year. Neither of them made additional deposits or withdrawals. How much more did Ava receive in interest than Marco after 8 years?",
+    "answer": "10.8"
+  },
+  {
+    "id": "PERCENT_CHANGE-037",
+    "topic": "Percent Change",
+    "difficultyBand": "medium",
+    "question": "Tina and Omar each opened a savings account with a deposit of $1,000. Tina earned 5% simple interest per year. Omar earned 4.6% simple interest per year. Neither of them made additional deposits or withdrawals. How much more did Tina receive in interest than Omar after 3 years?",
+    "answer": "12"
+  },
+  {
+    "id": "PERCENT_CHANGE-038",
+    "topic": "Percent Change",
+    "difficultyBand": "medium",
+    "question": "Jaden and Sophia each opened a savings account with a deposit of $420. Jaden earned 3.9% simple interest per year. Sophia earned 3.4% simple interest per year. Neither of them made additional deposits or withdrawals. How much more did Jaden receive in interest than Sophia after 7 years?",
+    "answer": "14.7"
+  },
+  {
+    "id": "PERCENT_CHANGE-039",
+    "topic": "Percent Change",
+    "difficultyBand": "medium",
+    "question": "A customer buys a tablet for $625. The sales tax rate is 7.5%. What is the total cost of the tablet, including the tax?",
+    "answer": "671.88"
+  },
+  {
+    "id": "PERCENT_CHANGE-040",
+    "topic": "Percent Change",
+    "difficultyBand": "medium",
+    "question": "A customer buys a refrigerator for $1,240. The sales tax rate is 8.25%. What is the total cost of the refrigerator, including the tax?",
+    "answer": "1342.3"
+  },
+  {
+    "id": "PERCENT_CHANGE-041",
+    "topic": "Percent Change",
+    "difficultyBand": "medium",
+    "question": "A customer buys a gaming console for $499. The sales tax rate is 6%. What is the total cost of the console, including the tax?",
+    "answer": "528.94"
+  },
+  {
+    "id": "PERCENT_CHANGE-042",
+    "topic": "Percent Change",
+    "difficultyBand": "medium",
+    "question": "A customer buys a winter coat for $165. The sales tax rate is 9%. What is the total cost of the coat, including the tax?",
+    "answer": "179.85"
+  },
+  {
+    "id": "PERCENT_CHANGE-043",
+    "topic": "Percent Change",
+    "difficultyBand": "medium",
+    "question": "A customer buys a smartphone for $760. The sales tax rate is 8.875%. What is the total cost of the smartphone, including the tax?",
+    "answer": "827.45"
+  },
+  {
+    "id": "PERCENT_CHANGE-044",
+    "topic": "Percent Change",
+    "difficultyBand": "medium",
+    "question": "A customer buys a bicycle for $310. The sales tax rate is 7%. What is the total cost of the bicycle, including the tax?",
+    "answer": "331.7"
+  },
+  {
+    "id": "PERCENT_CHANGE-045",
+    "topic": "Percent Change",
+    "difficultyBand": "medium",
+    "question": "A local bakery sold 640 loaves of bread last month. This month, they sold 880 loaves. What was the percent increase in the number of loaves sold from last month to this month?",
+    "answer": "0.375"
+  },
+  {
+    "id": "PERCENT_CHANGE-046",
+    "topic": "Percent Change",
+    "difficultyBand": "medium",
+    "question": "A music store sold 1,200 CDs last month. This month, they sold 1,530 CDs. What was the percent increase in the number of CDs sold from last month to this month?",
+    "answer": "0.275"
+  },
+  {
+    "id": "PERCENT_CHANGE-047",
+    "topic": "Percent Change",
+    "difficultyBand": "medium",
+    "question": "A coffee shop served 2,400 cups of coffee last week. This week, it served 3,000 cups. What was the percent increase in the number of cups served from last week to this week?",
+    "answer": "0.25"
+  },
+  {
+    "id": "PERCENT_CHANGE-048",
+    "topic": "Percent Change",
+    "difficultyBand": "medium",
+    "question": "A bookstore sold 350 novels in April. In May, it sold 455 novels. What was the percent increase in the number of novels sold from April to May?",
+    "answer": "0.3"
+  },
+  {
+    "id": "PERCENT_CHANGE-049",
+    "topic": "Percent Change",
+    "difficultyBand": "medium",
+    "question": "A gym had 800 check-ins last month. This month, it had 920 check-ins. What was the percent increase in check-ins from last month to this month?",
+    "answer": "0.15"
+  },
+  {
+    "id": "PERCENT_CHANGE-050",
+    "topic": "Percent Change",
+    "difficultyBand": "medium",
+    "question": "A movie theater sold 4,500 tickets last weekend. This weekend, it sold 5,400 tickets. What was the percent increase in tickets sold from last weekend to this weekend?",
+    "answer": "0.2"
+  },
+  {
+    "id": "PERCENT_CHANGE-051",
+    "topic": "Percent Change",
+    "difficultyBand": "medium",
+    "question": "A farmer harvested 2,750 apples last season. This season, the farmer harvested 3,300 apples. What was the percent increase in apples harvested from last season to this season?",
+    "answer": "0.2"
+  },
+  {
+    "id": "PERCENT_CHANGE-052",
+    "topic": "Percent Change",
+    "difficultyBand": "medium",
+    "question": "A small town's library had 1,350 registered members last year. This year, the number of registered members increased to 1,620. What was the percent increase in registered members from last year to this year?",
+    "answer": "0.2"
+  },
+  {
+    "id": "PERCENT_CHANGE-053",
+    "topic": "Percent Change",
+    "difficultyBand": "medium",
+    "question": "A school club had 84 members last semester. This semester, membership increased to 105. What was the percent increase in membership from last semester to this semester?",
+    "answer": "0.25"
+  },
+  {
+    "id": "PERCENT_CHANGE-054",
+    "topic": "Percent Change",
+    "difficultyBand": "medium",
+    "question": "A community center had 560 participants last month. This month, it increased to 700 participants. What was the percent increase in participants from last month to this month?",
+    "answer": "0.25"
+  },
+  {
+    "id": "PERCENT_CHANGE-055",
+    "topic": "Percent Change",
+    "difficultyBand": "medium",
+    "question": "A sports league had 48 teams last year. This year, it increased to 60 teams. What was the percent increase in the number of teams from last year to this year?",
+    "answer": "0.25"
+  },
+  {
+    "id": "PERCENT_CHANGE-056",
+    "topic": "Percent Change",
+    "difficultyBand": "medium",
+    "question": "A streaming channel had 12,500 subscribers last year. This year, it increased to 15,000 subscribers. What was the percent increase in subscribers from last year to this year?",
+    "answer": "0.2"
+  },
+  {
+    "id": "PERCENT_CHANGE-057",
+    "topic": "Percent Change",
+    "difficultyBand": "medium",
+    "question": "A clothing store is offering a 15% discount on all items. A customer buys a jacket originally priced at $a. What is the final price of the jacket after the discount?",
+    "answer": "0.85a"
+  },
+  {
+    "id": "PERCENT_CHANGE-058",
+    "topic": "Percent Change",
+    "difficultyBand": "medium",
+    "question": "A clothing store is offering a 30% discount on all items. A customer buys shoes originally priced at $a. What is the final price of the shoes after the discount?",
+    "answer": "0.70a"
+  },
+  {
+    "id": "PERCENT_CHANGE-059",
+    "topic": "Percent Change",
+    "difficultyBand": "medium",
+    "question": "A clothing store is charging 8% on all items. A customer buys a sweater originally priced at $a. What is the final price of the sweater after the discount?",
+    "answer": "1.08a"
+  },
+  {
+    "id": "PERCENT_CHANGE-060",
+    "topic": "Percent Change",
+    "difficultyBand": "medium",
+    "question": "A clothing store is charging 10% on all items. A customer buys jeans originally priced at $a. What is the final price of the jeans after the discount?",
+    "answer": "1.1a"
+  },
+  {
+    "id": "PERCENT_CHANGE-061",
+    "topic": "Percent Change",
+    "difficultyBand": "medium",
+    "question": "A clothing store is offering a 40% discount on all items. A customer buys a backpack originally priced at $a. What is the final price of the backpack after the discount?",
+    "answer": "0.60a"
+  },
+  {
+    "id": "PERCENT_CHANGE-062",
+    "topic": "Percent Change",
+    "difficultyBand": "medium",
+    "question": "A full set of adult teeth is 150% of a full set of baby teeth. There are 20 teeth in a baby’s mouth. How many teeth are there in a full set of adult teeth?",
+    "answer": "30"
+  },
+  {
+    "id": "PERCENT_CHANGE-063",
+    "topic": "Percent Change",
+    "difficultyBand": "medium",
+    "question": "A full-size bottle of sports drink is 175% of the size of a small bottle. A small bottle holds 20 ounces. How many ounces are in a full-size bottle?",
+    "answer": "35"
+  },
+  {
+    "id": "PERCENT_CHANGE-064",
+    "topic": "Percent Change",
+    "difficultyBand": "medium",
+    "question": "A large storage box holds 170% of the amount a small box can hold. A small box holds 20 liters. How many liters can the large box hold?",
+    "answer": "34"
+  },
+  {
+    "id": "PERCENT_CHANGE-065",
+    "topic": "Percent Change",
+    "difficultyBand": "medium",
+    "question": "An employee's salary after a promotion is 125% of their original salary. If their original salary was $48,000, what is their salary after the promotion?",
+    "answer": "60000"
+  },
+  {
+    "id": "PERCENT_CHANGE-066",
+    "topic": "Percent Change",
+    "difficultyBand": "medium",
+    "question": "An employee's salary after a promotion is 160% of their original salary. If their original salary was $52,500, what is their salary after the promotion?",
+    "answer": "84000"
+  },
+  {
+    "id": "PERCENT_CHANGE-067",
+    "topic": "Percent Change",
+    "difficultyBand": "hard",
+    "question": "A bakery sells a pie for $18 each. A customer signed up for a free loyalty card and received a 12% discount off the price. Sales tax of 8% was applied after the discount. What was the final price of the pie?",
+    "answer": "17.11"
+  },
+  {
+    "id": "PERCENT_CHANGE-068",
+    "topic": "Percent Change",
+    "difficultyBand": "hard",
+    "question": "A shoe store sells sneakers for $95 each. A customer signed up for a free membership card and received a 25% discount off the price. Sales tax of 7% was applied after the discount. What was the final price of the sneakers?",
+    "answer": "76.24"
+  },
+  {
+    "id": "PERCENT_CHANGE-069",
+    "topic": "Percent Change",
+    "difficultyBand": "hard",
+    "question": "A music shop sells a guitar strap for $28 each. A customer signed up for a free loyalty card and received a 15% discount off the price. Sales tax of 6% was applied after the discount. What was the final price of the strap?",
+    "answer": "25.23"
+  },
+  {
+    "id": "PERCENT_CHANGE-070",
+    "topic": "Percent Change",
+    "difficultyBand": "hard",
+    "question": "A pet store sells a dog bed for $60 each. A customer signed up for a free membership card and received a 10% discount off the price. Sales tax of 9% was applied after the discount. What was the final price of the dog bed?",
+    "answer": "58.86"
+  },
+  {
+    "id": "PERCENT_CHANGE-071",
+    "topic": "Percent Change",
+    "difficultyBand": "hard",
+    "question": "A clothing store sells a hoodie for $42 each. A customer signed up for a free loyalty card and received a 5% discount off the price. Sales tax of 8% was applied after the discount. What was the final price of the hoodie?",
+    "answer": "43.09"
+  },
+  {
+    "id": "PERCENT_CHANGE-072",
+    "topic": "Percent Change",
+    "difficultyBand": "hard",
+    "question": "A toy store sells a board game for $35 each. A customer signed up for a free membership card and received a 20% discount off the price. Sales tax of 6.5% was applied after the discount. What was the final price of the board game?",
+    "answer": "29.82"
+  },
+  {
+    "id": "PERCENT_CHANGE-073",
+    "topic": "Percent Change",
+    "difficultyBand": "hard",
+    "question": "A sporting goods store sells a basketball for $26 each. A customer signed up for a free loyalty card and received a 10% discount off the price. Sales tax of 7.5% was applied after the discount. What was the final price of the basketball?",
+    "answer": "25.16"
+  },
+  {
+    "id": "PERCENT_CHANGE-074",
+    "topic": "Percent Change",
+    "difficultyBand": "hard",
+    "question": "A hardware store sells a drill bit set for $50 each. A customer signed up for a free membership card and received a 18% discount off the price. Sales tax of 8% was applied after the discount. What was the final price of the drill bit set?",
+    "answer": "44.28"
+  },
+  {
+    "id": "PERCENT_CHANGE-075",
+    "topic": "Percent Change",
+    "difficultyBand": "hard",
+    "question": "A stationery shop sells a planner for $24 each. A customer signed up for a free loyalty card and received a 8% discount off the price. Sales tax of 6% was applied after the discount. What was the final price of the planner?",
+    "answer": "23.4"
+  },
+  {
+    "id": "PERCENT_CHANGE-076",
+    "topic": "Percent Change",
+    "difficultyBand": "hard",
+    "question": "A game store sells a controller for $70 each. A customer signed up for a free membership card and received a 15% discount off the price. Sales tax of 8.25% was applied after the discount. What was the final price of the controller?",
+    "answer": "64.41"
+  },
+  {
+    "id": "PERCENT_CHANGE-077",
+    "topic": "Percent Change",
+    "difficultyBand": "hard",
+    "question": "A kitchen store sells a blender for $120 each. A customer signed up for a free loyalty card and received a 20% discount off the price. Sales tax of 7% was applied after the discount. What was the final price of the blender?",
+    "answer": "102.72"
+  },
+  {
+    "id": "PERCENT_CHANGE-078",
+    "topic": "Percent Change",
+    "difficultyBand": "hard",
+    "question": "A bookstore sells a textbook for $86 each. A customer signed up for a free membership card and received a 12% discount off the price. Sales tax of 8.875% was applied after the discount. What was the final price of the textbook?",
+    "answer": "82.4"
+  },
+  {
+    "id": "PERCENT_CHANGE-079",
+    "topic": "Percent Change",
+    "difficultyBand": "hard",
+    "question": "A jewelry store sells a bracelet for $55 each. A customer signed up for a free loyalty card and received a 30% discount off the price. Sales tax of 6% was applied after the discount. What was the final price of the bracelet?",
+    "answer": "40.81"
+  },
+  {
+    "id": "PERCENT_CHANGE-080",
+    "topic": "Percent Change",
+    "difficultyBand": "hard",
+    "question": "A garden center sells a plant pot for $32 each. A customer signed up for a free membership card and received a 10% discount off the price. Sales tax of 5% was applied after the discount. What was the final price of the plant pot?",
+    "answer": "30.24"
+  },
+  {
+    "id": "PERCENT_CHANGE-081",
+    "topic": "Percent Change",
+    "difficultyBand": "hard",
+    "question": "A movie theater sells a popcorn bucket for $9 each. A customer signed up for a free loyalty card and received a 5% discount off the price. Sales tax of 8% was applied after the discount. What was the final price of the popcorn bucket?",
+    "answer": "9.23"
+  },
+  {
+    "id": "PERCENT_CHANGE-082",
+    "topic": "Percent Change",
+    "difficultyBand": "hard",
+    "question": "A craft store sells paint sets for $40 each. A customer signed up for a free membership card and received a 22% discount off the price. Sales tax of 7% was applied after the discount. What was the final price of the paint set?",
+    "answer": "33.38"
+  },
+  {
+    "id": "PERCENT_CHANGE-083",
+    "topic": "Percent Change",
+    "difficultyBand": "hard",
+    "question": "A phone shop sells a charger for $18 each. A customer signed up for a free loyalty card and received a 10% discount off the price. Sales tax of 8.5% was applied after the discount. What was the final price of the charger?",
+    "answer": "17.58"
+  },
+  {
+    "id": "PERCENT_CHANGE-084",
+    "topic": "Percent Change",
+    "difficultyBand": "hard",
+    "question": "A furniture store sells a lamp for $65 each. A customer signed up for a free membership card and received a 15% discount off the price. Sales tax of 9% was applied after the discount. What was the final price of the lamp?",
+    "answer": "60.22"
+  },
+  {
+    "id": "PERCENT_CHANGE-085",
+    "topic": "Percent Change",
+    "difficultyBand": "hard",
+    "question": "Jordan purchased a museum ticket on a website. The original price of the ticket was $100. Jordan used a coupon code to receive a 20% discount. The website applied a 10% service fee to the discounted price. Jordan’s ticket was less than the original price by what percent?",
+    "answer": "0.12"
+  },
+  {
+    "id": "PERCENT_CHANGE-086",
+    "topic": "Percent Change",
+    "difficultyBand": "hard",
+    "question": "Mina purchased a concert ticket on a website. The original price of the ticket was $80. Mina used a coupon code to receive a 25% discount. The website applied a 12% service fee to the discounted price. Mina’s ticket was less than the original price by what percent?",
+    "answer": "0.16"
+  },
+  {
+    "id": "PERCENT_CHANGE-087",
+    "topic": "Percent Change",
+    "difficultyBand": "hard",
+    "question": "Diego purchased a bus pass online. The original price of the pass was $60. Diego used a coupon code to receive a 15% discount. The website applied a 5% service fee to the discounted price. Diego’s pass was less than the original price by what percent?",
+    "answer": "0.1075"
+  },
+  {
+    "id": "PERCENT_CHANGE-088",
+    "topic": "Percent Change",
+    "difficultyBand": "hard",
+    "question": "Alyssa purchased a festival ticket on a website. The original price of the ticket was $120. Alyssa used a coupon code to receive a 30% discount. The website applied a 8% service fee to the discounted price. Alyssa’s ticket was less than the original price by what percent?",
+    "answer": "0.244"
+  },
+  {
+    "id": "PERCENT_CHANGE-089",
+    "topic": "Percent Change",
+    "difficultyBand": "hard",
+    "question": "Ken purchased a theater ticket on a website. The original price of the ticket was $50. Ken used a coupon code to receive a 10% discount. The website applied a 6% service fee to the discounted price. Ken’s ticket was less than the original price by what percent?",
+    "answer": "0.046"
+  },
+  {
+    "id": "PERCENT_CHANGE-090",
+    "topic": "Percent Change",
+    "difficultyBand": "hard",
+    "question": "Rita purchased a train ticket online. The original price of the ticket was $90. Rita used a coupon code to receive a 20% discount. The website applied a 15% service fee to the discounted price. Rita’s ticket was less than the original price by what percent?",
+    "answer": "0.08"
+  },
+  {
+    "id": "PERCENT_CHANGE-091",
+    "topic": "Percent Change",
+    "difficultyBand": "hard",
+    "question": "Two stores each advertise a discount on the same type of backpack. At both stores, the original price of the backpack was $48.00. --Store A discounts the price of the backpack by 35%. --Store B discounts the price of the backpack by 20%. How much less is the discounted price of the backpack at Store A than the discounted price of the backpack at Store B?",
+    "answer": "7.2"
+  },
+  {
+    "id": "PERCENT_CHANGE-092",
+    "topic": "Percent Change",
+    "difficultyBand": "hard",
+    "question": "Two stores each advertise a discount on the same type of headphones. At both stores, the original price of the headphones was $120.00. --Store A discounts the price of the headphones by 15%. --Store B discounts the price of the headphones by 10%. How much less is the discounted price of the headphones at Store A than the discounted price of the headphones at Store B?",
+    "answer": "6"
+  },
+  {
+    "id": "PERCENT_CHANGE-093",
+    "topic": "Percent Change",
+    "difficultyBand": "hard",
+    "question": "Two stores each advertise a discount on the same type of jacket. At both stores, the original price of the jacket was $90.00. --Store A discounts the price of the jacket by 40%. --Store B discounts the price of the jacket by 25%. How much less is the discounted price of the jacket at Store A than the discounted price of the jacket at Store B?",
+    "answer": "13.5"
+  },
+  {
+    "id": "PERCENT_CHANGE-094",
+    "topic": "Percent Change",
+    "difficultyBand": "hard",
+    "question": "Two stores each advertise a discount on the same type of tablet case. At both stores, the original price of the case was $28.00. --Store A discounts the price of the case by 18%. --Store B discounts the price of the case by 12%. How much less is the discounted price of the case at Store A than the discounted price of the case at Store B?",
+    "answer": "1.68"
+  },
+  {
+    "id": "PERCENT_CHANGE-095",
+    "topic": "Percent Change",
+    "difficultyBand": "hard",
+    "question": "Two stores each advertise a discount on the same type of basketball. At both stores, the original price of the basketball was $36.00. --Store A discounts the price of the basketball by 30%. --Store B discounts the price of the basketball by 22%. How much less is the discounted price of the basketball at Store A than the discounted price of the basketball at Store B?",
+    "answer": "2.88"
+  },
+  {
+    "id": "PERCENT_CHANGE-096",
+    "topic": "Percent Change",
+    "difficultyBand": "hard",
+    "question": "Olivia has read 52 pages of a 95-page book, 41 pages of a 70-page book, and 60 pages of an 85-page book. If 250 represents the total pages of all three books, what percent represents the number of pages that Olivia has not read?",
+    "answer": "0.388"
+  },
+  {
+    "id": "PERCENT_CHANGE-097",
+    "topic": "Percent Change",
+    "difficultyBand": "hard",
+    "question": "Marcus has read 30 pages of a 60-page book, 55 pages of a 100-page book, and 18 pages of a 40-page book. If 200 represents the total pages of all three books, what percent represents the number of pages that Marcus has not read?",
+    "answer": "0.485"
+  },
+  {
+    "id": "PERCENT_CHANGE-098",
+    "topic": "Percent Change",
+    "difficultyBand": "hard",
+    "question": "Jasmine has read 72 pages of a 120-page book, 38 pages of a 80-page book, and 25 pages of a 50-page book. If 250 represents the total pages of all three books, what percent represents the number of pages that Jasmine has not read?",
+    "answer": "0.46"
+  },
+  {
+    "id": "PERCENT_CHANGE-099",
+    "topic": "Percent Change",
+    "difficultyBand": "hard",
+    "question": "Ethan has read 64 pages of a 90-page book, 20 pages of a 60-page book, and 45 pages of a 75-page book. If 225 represents the total pages of all three books, what percent represents the number of pages that Ethan has not read?",
+    "answer": "0.4267"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-001",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "easy",
+    "question": "Sophie runs 0.5 mile in 10 minutes. Assuming she runs at a constant speed, what is her speed in miles per hour?",
+    "answer": "3"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-002",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "easy",
+    "question": "Allen jogs 2.3 miles in 40 minutes. Assuming he jogs at a constant rate, what is his speed in miles per hour?",
+    "answer": "3.45"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-003",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "easy",
+    "question": "A cyclist rides 7.5 miles in 30 minutes. Assuming constant speed, what is the cyclist’s speed in miles per hour?",
+    "answer": "15"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-004",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "easy",
+    "question": "A car travels 45.0 miles in 0.75 hours. Assuming constant speed, what is the car’s speed in miles per hour?",
+    "answer": "60"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-005",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "easy",
+    "question": "A swimmer completes 1.2 miles in 48 minutes. Assuming constant pace, what is the swimmer’s speed in miles per hour?",
+    "answer": "1.5"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-006",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "easy",
+    "question": "A hiker walks 3.6 miles in 1.5 hours. Assuming constant speed, what is the hiker’s speed in miles per hour?",
+    "answer": "2.4"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-007",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "easy",
+    "question": "A train travels 126.0 miles in 2.8 hours. Assuming constant speed, what is the train’s speed in miles per hour?",
+    "answer": "45"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-008",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "easy",
+    "question": "A scooter travels 4.2 miles in 18 minutes. Assuming constant speed, what is the scooter’s speed in miles per hour?",
+    "answer": "14"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-009",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "easy",
+    "question": "A runner covers 104.52 miles in 52 minutes. Assuming constant pace, what is the runner’s speed in miles per hour?",
+    "answer": "2.01"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-010",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "easy",
+    "question": "A boat travels 15.0 miles in 1.25 hours. Assuming constant speed, what is the boat’s speed in miles per hour?",
+    "answer": "12"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-011",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "easy",
+    "question": "A delivery van drives 62.5 miles in 1.25 hours. Assuming constant speed, what is the van’s speed in miles per hour?",
+    "answer": "50"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-012",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "easy",
+    "question": "Last month James spent $25.00 to buy 5 movie tickets. This month he spent $40.00 to buy 8 tickets. If the cost per ticket remains the same, what is the constant of proportionality between money spent and tickets bought?",
+    "answer": "5"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-013",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "easy",
+    "question": "Mikaela spent $20.00 to bowl 4 games. This week she spent $25.00 to bowl 5 games. If each game costs the same, what is the constant of proportionality between money spent and games played?",
+    "answer": "5"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-014",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "easy",
+    "question": "A student pays $18.00 for 6 notebooks. If the cost is proportional, what is the constant of proportionality between total cost and number of notebooks?",
+    "answer": "3"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-015",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "easy",
+    "question": "A cafe charges $13.50 for 3 smoothies. If the price is proportional, what is the constant of proportionality between cost and smoothies?",
+    "answer": "4.5"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-016",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "easy",
+    "question": "A gym sells 10 day passes for $75.00. If the cost is proportional, what is the constant of proportionality between cost and passes?",
+    "answer": "7.5"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-017",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "easy",
+    "question": "A theater sells 14 tickets for $168.00. If the cost is proportional, what is the constant of proportionality between cost and tickets?",
+    "answer": "12"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-018",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "easy",
+    "question": "A music app charges $9.99 per month. If the relationship between cost and months is proportional, what is the constant of proportionality?",
+    "answer": "9.99"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-019",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "easy",
+    "question": "A store sells 8 pounds of grapes for $23.20. If the cost is proportional, what is the constant of proportionality between cost and pounds?",
+    "answer": "2.9"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-020",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "easy",
+    "question": "A taxi charges $27.50 for 11 miles. If the cost is proportional, what is the constant of proportionality between cost and miles?",
+    "answer": "2.5"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-021",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "easy",
+    "question": "A printer charges $36.00 to print 120 pages. If the cost is proportional, what is the constant of proportionality between cost and pages?",
+    "answer": "0.3"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-022",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "easy",
+    "question": "A repair shop charges $52.50 for 3.5 hours of labor. If the cost is proportional, what is the constant of proportionality between cost and hours?",
+    "answer": "15"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-023",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "easy",
+    "question": "Sarah paid $3.60 in sales tax on an item that cost $60.00 before tax. At that rate, how much sales tax would she pay for an item that costs $80.00 before tax?",
+    "answer": "4.8"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-024",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "easy",
+    "question": "A city charges $2.40 tax on a $48.00 purchase. At that rate, how much tax would be charged on a $75.00 purchase?",
+    "answer": "3.75"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-025",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "easy",
+    "question": "A store charges $5.25 tax on a $105.00 purchase. At that rate, how much tax would be charged on a $160.00 purchase?",
+    "answer": "8"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-026",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "easy",
+    "question": "An online order has $6.80 tax on a $85.00 subtotal. At that rate, how much tax would be charged on a $125.00 subtotal?",
+    "answer": "10"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-027",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "easy",
+    "question": "A restaurant adds $4.50 tax to a $90.00 meal. At that rate, how much tax would be charged on a $132.00 meal?",
+    "answer": "6.6"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-028",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "easy",
+    "question": "A ticket fee is $1.92 on a $24.00 ticket purchase. At that rate, how much fee would be charged on a $37.50 purchase?",
+    "answer": "3"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-029",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "easy",
+    "question": "A service charge is $3.15 on a $70.00 bill. At that rate, how much service charge would be added to a $112.00 bill?",
+    "answer": "5.04"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-030",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "easy",
+    "question": "A shipping fee is $2.75 on a $55.00 order. At that rate, what would the shipping fee be on a $88.00 order?",
+    "answer": "4.4"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-031",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "easy",
+    "question": "A sales tax is $7.04 on a $88.00 item. At that rate, what is the sales tax on a $150.00 item?",
+    "answer": "12"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-032",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "easy",
+    "question": "A fee is $1.50 on a $25.00 purchase. At that rate, what is the fee on a $72.00 purchase?",
+    "answer": "4.32"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-033",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "easy",
+    "question": "A surcharge is $0.96 on a $32.00 charge. At that rate, what is the surcharge on a $120.00 charge?",
+    "answer": "3.6"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-034",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "medium",
+    "question": "The cost for 12 ounces of organic blueberries is $3.24. Write and solve an equation that can be used to determine y, the cost in dollars, for x ounces of organic blueberries.",
+    "answer": "y = 0.27x"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-035",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "medium",
+    "question": "The cost for 18 ounces of trail mix is $7.92. Write and solve an equation that can be used to determine y, the cost in dollars, for x ounces of trail mix.",
+    "answer": "y = 0.44x"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-036",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "medium",
+    "question": "The cost for 9 ounces of almonds is $5.85. Write and solve an equation that can be used to determine y, the cost in dollars, for x ounces of almonds.",
+    "answer": "y = 0.65x"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-037",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "medium",
+    "question": "The cost for 16 ounces of strawberries is $6.40. Write and solve an equation that can be used to determine y, the cost in dollars, for x ounces of strawberries.",
+    "answer": "y = 0.40x"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-038",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "medium",
+    "question": "A school ordered 20 pizzas for a party at a cost of $150. Each pizza cost the same amount. Which equation represents the proportional relationship between y, the total cost, and x, the number of pizzas?",
+    "answer": "y = 7.50x"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-039",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "medium",
+    "question": "A gym charges $84 for 6 months of membership. Each month costs the same amount. Which equation represents the proportional relationship between y, the total cost, and x, the number of months?",
+    "answer": "y = 14x"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-040",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "medium",
+    "question": "A club buys 14 T-shirts for $175. Each shirt costs the same amount. Which equation represents the proportional relationship between y, the total cost, and x, the number of shirts?",
+    "answer": "y = 12.50x"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-041",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "medium",
+    "question": "A bookstore sells 9 notebooks for $31.50. Each notebook costs the same amount. Which equation represents the proportional relationship between y, the total cost, and x, the number of notebooks?",
+    "answer": "y = 3.50x"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-042",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "medium",
+    "question": "Jack completes 6 math assignments every 4 days. He completes 5 science assignments every 6 days. What is the difference between the number of math and science assignments Jack completes in 30 days?",
+    "answer": "20"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-043",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "medium",
+    "question": "A student practices piano 8 times every 5 days. She practices soccer 6 times every 4 days. What is the difference between the number of piano practices and soccer practices in 30 days?",
+    "answer": "3"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-044",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "medium",
+    "question": "Nina writes 9 journal entries every 6 days. She reads 5 chapters every 3 days. What is the difference between the number of journal entries and chapters Nina completes in 30 days?",
+    "answer": "5"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-045",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "medium",
+    "question": "Leo does 7 chores every 5 days. He also does 9 chores every 8 days. What is the difference between the number of chores Leo completes from the first schedule and the second schedule in 40 days?",
+    "answer": "11"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-046",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "medium",
+    "question": "Joey travels 0.15 of a path in 0.6 second at a constant rate. At that rate, how many seconds will it take Joey to travel the entire path?",
+    "answer": "4"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-047",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "medium",
+    "question": "A toy car travels 0.24 of a track in 0.8 second at a constant rate. At that rate, how many seconds will it take to travel the entire track?",
+    "answer": "3.33"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-048",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "medium",
+    "question": "A robot travels 0.35 of a hallway in 1.4 seconds at a constant rate. At that rate, how many seconds will it take to travel the entire hallway?",
+    "answer": "4"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-049",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "medium",
+    "question": "A skater travels 0.18 of a course in 0.9 second at a constant rate. At that rate, how many seconds will it take to finish the whole course?",
+    "answer": "5"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-050",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "medium",
+    "question": "A factory uses 0.35 ton of material every hour. At approximately what rate does it use material, in tons per day? (1 day = 24 hours)",
+    "answer": "8.4"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-051",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "medium",
+    "question": "A water plant filters 1.8 million gallons of water every hour. At what rate does it filter water, in million gallons per day? (1 day = 24 hours)",
+    "answer": "43.2"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-052",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "medium",
+    "question": "A shipping dock loads 2.4 tons of cargo every minute. At what rate does it load cargo, in tons per day? (1 day = 24 hours)",
+    "answer": "3456"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-053",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "medium",
+    "question": "A data center uses 0.75 megawatt of power every hour. At what rate does it use energy, in megawatts per day? (1 day = 24 hours)",
+    "answer": "18"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-054",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "medium",
+    "question": "On a scale drawing, a rectangle is 6 inches long and 4 inches wide. The scale is 1 inch = 2.5 feet. What is the actual area of the rectangle, in square feet?",
+    "answer": "150"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-055",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "medium",
+    "question": "On a scale drawing, a rectangle is 3.2 inches long and 2.5 inches wide. The scale is 1 inch = 4 feet. What is the actual area of the rectangle, in square feet?",
+    "answer": "128"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-056",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "medium",
+    "question": "On a scale drawing, a rectangle is 7.5 inches long and 1.8 inches wide. The scale is 1 inch = 3 feet. What is the actual area of the rectangle, in square feet?",
+    "answer": "121.5"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-057",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "medium",
+    "question": "On a scale drawing, a rectangle is 4.5 inches long and 3 inches wide. The scale is 1 inch = 6 feet. What is the actual area of the rectangle, in square feet?",
+    "answer": "486"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-058",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "medium",
+    "question": "Jimmy reads 180 pages in 3 hours. Tyler reads 210 pages in 3.5 hours. Who reads faster, and by how many pages per hour?",
+    "answer": "Same, 0"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-059",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "medium",
+    "question": "Lena types 540 words in 6 minutes. Marco types 720 words in 9 minutes. Who types faster, and by how many words per minute?",
+    "answer": "Lena, 10"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-060",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "medium",
+    "question": "Ava runs 4.2 miles in 0.7 hours. Ben runs 5.6 miles in 1.0 hour. Who runs faster, and by how many miles per hour?",
+    "answer": "Ava, 0.4"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-061",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "medium",
+    "question": "A printer prints 350 pages in 5 minutes. Another printer prints 420 pages in 7 minutes. Which printer is faster, and by how many pages per minute?",
+    "answer": "First printer, 10"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-062",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "medium",
+    "question": "On a map, 1 inch = 1.5 miles. Two towns are 32 inches apart. A car drives 48 miles per hour. How many hours will it take to travel between the towns?",
+    "answer": "1"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-063",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "medium",
+    "question": "On a map, 1 inch = 2.5 miles. City A and City B are 18 inches apart. A train travels 60 miles per hour. How many minutes will the train take to travel from City A to City B?",
+    "answer": "45"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-064",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "medium",
+    "question": "On a map, 1 inch = 0.8 miles. Two parks are 50 inches apart. A cyclist rides 16 miles per hour. How many hours will the cyclist take to travel between the parks?",
+    "answer": "2.5"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-065",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "medium",
+    "question": "On a map, 1 inch = 3 miles. Two villages are 14 inches apart. A bus travels 42 miles per hour. How many minutes will it take to travel between the villages?",
+    "answer": "60"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-066",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "medium",
+    "question": "A smoothie shop sells 18 smoothies for $72. Each smoothie costs the same amount. Which equation represents the proportional relationship between y, the total cost, and x, the number of smoothies?",
+    "answer": "y = 4x"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-067",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "hard",
+    "question": "Wallpaper was applied to one rectangular wall of a large room. The dimensions of the wall are 38 feet by 22.5 feet. If the total cost of the wallpaper was $684.00, what was the cost, in dollars, of the wallpaper per square foot?",
+    "answer": "0.8"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-068",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "hard",
+    "question": "Wallpaper was applied to one rectangular wall of a large room. The dimensions of the wall are 46 feet by 18.75 feet. If the total cost of the wallpaper was $776.25, what was the cost, in dollars, of the wallpaper per square foot?",
+    "answer": "0.9"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-069",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "hard",
+    "question": "Wallpaper was applied to one rectangular wall of a large room. The dimensions of the wall are 31.5 feet by 27 feet. If the total cost of the wallpaper was $680.40, what was the cost, in dollars, of the wallpaper per square foot?",
+    "answer": "0.8"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-070",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "hard",
+    "question": "Wallpaper was applied to one rectangular wall of a large room. The dimensions of the wall are 54 feet by 16.5 feet. If the total cost of the wallpaper was $891.00, what was the cost, in dollars, of the wallpaper per square foot?",
+    "answer": "1"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-071",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "hard",
+    "question": "Wallpaper was applied to one rectangular wall of a large room. The dimensions of the wall are 29 feet by 24.5 feet. If the total cost of the wallpaper was $568.40, what was the cost, in dollars, of the wallpaper per square foot?",
+    "answer": "0.8"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-072",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "hard",
+    "question": "Wallpaper was applied to one rectangular wall of a large room. The dimensions of the wall are 40 feet by 19.2 feet. If the total cost of the wallpaper was $737.28, what was the cost, in dollars, of the wallpaper per square foot?",
+    "answer": "0.96"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-073",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "hard",
+    "question": "Wallpaper was applied to one rectangular wall of a large room. The dimensions of the wall are 47.5 feet by 21 feet. If the total cost of the wallpaper was $898.80, what was the cost, in dollars, of the wallpaper per square foot?",
+    "answer": "0.9"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-074",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "hard",
+    "question": "Wallpaper was applied to one rectangular wall of a large room. The dimensions of the wall are 36 feet by 28.25 feet. If the total cost of the wallpaper was $914.40, what was the cost, in dollars, of the wallpaper per square foot?",
+    "answer": "0.9"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-075",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "hard",
+    "question": "Wallpaper was applied to one rectangular wall of a large room. The dimensions of the wall are 52 feet by 14.5 feet. If the total cost of the wallpaper was $754.00, what was the cost, in dollars, of the wallpaper per square foot?",
+    "answer": "1"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-076",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "hard",
+    "question": "In the morning, a farm worker packed 4 pints of strawberries every 5 minutes. In the afternoon, she packed 3 pints of strawberries every 4 minutes. What was the difference between her morning and afternoon packing rates, in pints per hour?",
+    "answer": "3"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-077",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "hard",
+    "question": "In the morning, a farm worker packed 5 pints of strawberries every 6 minutes. In the afternoon, she packed 2 pints of strawberries every 3 minutes. What was the difference between her morning and afternoon packing rates, in pints per hour?",
+    "answer": "10"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-078",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "hard",
+    "question": "In the morning, a farm worker packed 7 pints of strawberries every 8 minutes. In the afternoon, she packed 5 pints of strawberries every 6 minutes. What was the difference between her morning and afternoon packing rates, in pints per hour?",
+    "answer": "2.5"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-079",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "hard",
+    "question": "In the morning, a farm worker packed 9 pints of strawberries every 10 minutes. In the afternoon, she packed 4 pints of strawberries every 5 minutes. What was the difference between her morning and afternoon packing rates, in pints per hour?",
+    "answer": "6"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-080",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "hard",
+    "question": "In the morning, a farm worker packed 6 pints of strawberries every 7 minutes. In the afternoon, she packed 3 pints of strawberries every 5 minutes. What was the difference between her morning and afternoon packing rates, in pints per hour?",
+    "answer": "15.43"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-081",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "hard",
+    "question": "In the morning, a farm worker packed 8 pints of strawberries every 9 minutes. In the afternoon, she packed 5 pints of strawberries every 8 minutes. What was the difference between her morning and afternoon packing rates, in pints per hour?",
+    "answer": "15.83"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-082",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "hard",
+    "question": "In the morning, a farm worker packed 10 pints of strawberries every 12 minutes. In the afternoon, she packed 7 pints of strawberries every 9 minutes. What was the difference between her morning and afternoon packing rates, in pints per hour?",
+    "answer": "3.33"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-083",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "hard",
+    "question": "In the morning, a farm worker packed 12 pints of strawberries every 15 minutes. In the afternoon, she packed 5 pints of strawberries every 6 minutes. What was the difference between her morning and afternoon packing rates, in pints per hour?",
+    "answer": "2"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-084",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "hard",
+    "question": "On a blueprint with a scle of 3 in = 8 m, a triangle has the base of 5 in and height of 6.5 in. What is its actual area?",
+    "answer": "115.56"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-085",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "hard",
+    "question": "On a blueprint with a scle of 1.5 in = 4 m, a triangle has the base of 7 in and height of 9 in. What is its actual area?",
+    "answer": "224"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-086",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "hard",
+    "question": "On a blueprint with a scle of 4 in = 10 m, a triangle has the base of 3.2 in and height of 8.5 in. What is its actual area?",
+    "answer": "85"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-087",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "hard",
+    "question": "On a blueprint with a scle of 2.5 in = 6 m, a triangle has the base of 6 in and height of 4.8 in. What is its actual area?",
+    "answer": "82.94"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-088",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "hard",
+    "question": "On a blueprint with a scle of 5 in = 12 m, a triangle has the base of 2.4 in and height of 7.6 in. What is its actual area?",
+    "answer": "52.53"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-089",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "hard",
+    "question": "On a blueprint with a scle of 2 in = 7.5 m, a triangle has the base of 4.5 in and height of 6 in. What is its actual area?",
+    "answer": "189.84"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-090",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "hard",
+    "question": "On a blueprint with a scle of 6 in = 15 m, a triangle has the base of 3 in and height of 5.5 in. What is its actual area?",
+    "answer": "51.56"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-091",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "hard",
+    "question": "On a blueprint with a scle of 2 in = 4.5 m, a triangle has the base of 8 in and height of 3.6 in. What is its actual area?",
+    "answer": "72.9"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-092",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "hard",
+    "question": "On a map, two cities are 3.6 inches apart. The map has a scale of 1 inch to 18 miles. How far apart, in inches, would the same two cities be on a map that has a scale of 1 inch to 30 miles?",
+    "answer": "2.16"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-093",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "hard",
+    "question": "On a map, two cities are 4.2 inches apart. The map has a scale of 1 inch to 12 miles. How far apart, in inches, would the same two cities be on a map that has a scale of 1 inch to 20 miles?",
+    "answer": "2.52"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-094",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "hard",
+    "question": "On a map, two cities are 5.5 inches apart. The map has a scale of 1 inch to 16 miles. How far apart, in inches, would the same two cities be on a map that has a scale of 1 inch to 40 miles?",
+    "answer": "2.2"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-095",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "hard",
+    "question": "On a map, two cities are 2.4 inches apart. The map has a scale of 1 inch to 35 miles. How far apart, in inches, would the same two cities be on a map that has a scale of 1 inch to 28 miles?",
+    "answer": "3"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-096",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "hard",
+    "question": "On a map, two cities are 6.8 inches apart. The map has a scale of 1 inch to 22 miles. How far apart, in inches, would the same two cities be on a map that has a scale of 1 inch to 55 miles?",
+    "answer": "2.72"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-097",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "hard",
+    "question": "On a map, two cities are 3.0 inches apart. The map has a scale of 1 inch to 45 miles. How far apart, in inches, would the same two cities be on a map that has a scale of 1 inch to 15 miles?",
+    "answer": "9"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-098",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "hard",
+    "question": "On a map, two cities are 7.2 inches apart. The map has a scale of 1 inch to 25 miles. How far apart, in inches, would the same two cities be on a map that has a scale of 1 inch to 60 miles?",
+    "answer": "3"
+  },
+  {
+    "id": "PROPORTIONAL_RELATIONSHIP-099",
+    "topic": "Proportional Relationship",
+    "difficultyBand": "hard",
+    "question": "On a map, two cities are 1.8 inches apart. The map has a scale of 1 inch to 50 miles. How far apart, in inches, would the same two cities be on a map that has a scale of 1 inch to 30 miles?",
+    "answer": "3"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-001",
+    "topic": "Rational Numbers",
+    "difficultyBand": "easy",
+    "question": "When Lily checked the thermometer in the morning, it was –6°C. By noon, the temperature increased by 9°C. What was the temperature at noon?",
+    "answer": "3"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-002",
+    "topic": "Rational Numbers",
+    "difficultyBand": "easy",
+    "question": "A submarine was 25 m below sea level. It rose 12 m and then sank 7 m. What is its final position relative to sea level?",
+    "answer": "-20"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-003",
+    "topic": "Rational Numbers",
+    "difficultyBand": "easy",
+    "question": "The temperature at midnight was 5°F. By morning, it dropped 11°F. What was the temperature in the morning?",
+    "answer": "-6"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-004",
+    "topic": "Rational Numbers",
+    "difficultyBand": "easy",
+    "question": "A hiker started at an elevation of 300 m above sea level. She climbed 120 m and then descended 450 m. What is her final elevation?",
+    "answer": "-30"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-005",
+    "topic": "Rational Numbers",
+    "difficultyBand": "easy",
+    "question": "An elevator is on the basement level (–2). It goes up 9 floors and then down 4 floors. What floor is the elevator on now?",
+    "answer": "3"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-006",
+    "topic": "Rational Numbers",
+    "difficultyBand": "easy",
+    "question": "The freezing point of a chemical solution is –10°C. After adding salt, the freezing point decreased by 6°C. What is the new freezing point?",
+    "answer": "-16"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-007",
+    "topic": "Rational Numbers",
+    "difficultyBand": "easy",
+    "question": "The temperature was –15°F overnight. During the day, it warmed up to –3°F. What was the change in temperature?",
+    "answer": "12"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-008",
+    "topic": "Rational Numbers",
+    "difficultyBand": "easy",
+    "question": "A diver is 18 m below sea level. The diver swims up 7 m. What is the diver’s new position?",
+    "answer": "-11"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-009",
+    "topic": "Rational Numbers",
+    "difficultyBand": "easy",
+    "question": "The temperature in a freezer was –20°C. It increased by 4°C and then decreased by 9°C. What is the final temperature?",
+    "answer": "-25"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-010",
+    "topic": "Rational Numbers",
+    "difficultyBand": "easy",
+    "question": "A building has parking levels below ground. A car is parked on level –4. It drives up 6 levels. What level is the car on now?",
+    "answer": "2"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-011",
+    "topic": "Rational Numbers",
+    "difficultyBand": "easy",
+    "question": "At dawn, the temperature was 2°C. By evening, it dropped 9°C. What was the evening temperature?",
+    "answer": "-7"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-012",
+    "topic": "Rational Numbers",
+    "difficultyBand": "easy",
+    "question": "A treasure chest is buried 5 m below sea level. Another chest is 14 m above sea level. What is the distance between the two chests?",
+    "answer": "19"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-013",
+    "topic": "Rational Numbers",
+    "difficultyBand": "easy",
+    "question": "A bank account balance is –$45. A deposit of $70 is made. What is the new balance?",
+    "answer": "25"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-014",
+    "topic": "Rational Numbers",
+    "difficultyBand": "easy",
+    "question": "The temperature was –8°C last night and 3°C this morning. How much did the temperature change?",
+    "answer": "11"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-015",
+    "topic": "Rational Numbers",
+    "difficultyBand": "easy",
+    "question": "A mountain trail starts at 600 m above sea level and ends at 150 m below sea level. What is the total change in elevation?",
+    "answer": "-750"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-016",
+    "topic": "Rational Numbers",
+    "difficultyBand": "easy",
+    "question": "A scuba diver descends 22 m from sea level and then rises 9 m. Where is the diver now relative to sea level?",
+    "answer": "-13"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-017",
+    "topic": "Rational Numbers",
+    "difficultyBand": "easy",
+    "question": "The temperature at sunrise was –1°F. It increased by 12°F during the day. What was the temperature in the afternoon?",
+    "answer": "11"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-018",
+    "topic": "Rational Numbers",
+    "difficultyBand": "easy",
+    "question": "A parking garage has floors labeled –3 to 10. An elevator starts at floor 7, goes down 11 floors, then goes up 2 floors. What floor is it on now?",
+    "answer": "-2"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-019",
+    "topic": "Rational Numbers",
+    "difficultyBand": "easy",
+    "question": "The temperature dropped from 4°C to –6°C. What was the change in temperature?",
+    "answer": "-10"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-020",
+    "topic": "Rational Numbers",
+    "difficultyBand": "easy",
+    "question": "A drone is flying 40 m above sea level. It descends 65 m. What is its final height?",
+    "answer": "-25"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-021",
+    "topic": "Rational Numbers",
+    "difficultyBand": "easy",
+    "question": "A climber is 120 m below sea level in a canyon. He climbs 85 m upward. What is his new elevation?",
+    "answer": "-35"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-022",
+    "topic": "Rational Numbers",
+    "difficultyBand": "easy",
+    "question": "The temperature was –12°F. It rose 5°F and then fell 10°F. What is the final temperature?",
+    "answer": "-17"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-023",
+    "topic": "Rational Numbers",
+    "difficultyBand": "easy",
+    "question": "Two research stations are located at –30 m and 45 m relative to sea level. What is the distance between them?",
+    "answer": "75"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-024",
+    "topic": "Rational Numbers",
+    "difficultyBand": "easy",
+    "question": "A football team loses 8 yards, then gains 15 yards, and then loses 6 yards. What is the team’s net yardage?",
+    "answer": "1"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-025",
+    "topic": "Rational Numbers",
+    "difficultyBand": "easy",
+    "question": "A thermometer showed –7°C. After an hour, it showed –2°C. How much did the temperature increase?",
+    "answer": "5"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-026",
+    "topic": "Rational Numbers",
+    "difficultyBand": "easy",
+    "question": "An elevator starts on the 15th floor. It goes down 18 floors. What floor is it on now?",
+    "answer": "-3"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-027",
+    "topic": "Rational Numbers",
+    "difficultyBand": "easy",
+    "question": "A penguin dives 12 m below sea level and then dives 8 m more. How far below sea level is the penguin now?",
+    "answer": "-20"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-028",
+    "topic": "Rational Numbers",
+    "difficultyBand": "easy",
+    "question": "The temperature inside a freezer changes from –18°C to –25°C. What is the change in temperature?",
+    "answer": "-7"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-029",
+    "topic": "Rational Numbers",
+    "difficultyBand": "easy",
+    "question": "A hiker begins at –50 m (below sea level) and climbs to 120 m above sea level. What is the total change in elevation?",
+    "answer": "170"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-030",
+    "topic": "Rational Numbers",
+    "difficultyBand": "easy",
+    "question": "A bank account has a balance of –$120. A withdrawal of $30 is made. What is the new balance?",
+    "answer": "-150"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-031",
+    "topic": "Rational Numbers",
+    "difficultyBand": "easy",
+    "question": "The temperature was 6°F in the afternoon and –4°F at night. What was the change in temperature?",
+    "answer": "-10"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-032",
+    "topic": "Rational Numbers",
+    "difficultyBand": "easy",
+    "question": "A diver is 35 m below sea level. Another diver is 10 m above sea level. What is the distance between the two divers?",
+    "answer": "45"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-033",
+    "topic": "Rational Numbers",
+    "difficultyBand": "easy",
+    "question": "An elevator starts on floor –6, goes up 14 floors, then goes down 5 floors. What floor is the elevator on now?",
+    "answer": "3"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-034",
+    "topic": "Rational Numbers",
+    "difficultyBand": "medium",
+    "question": "Andrew deposited $5500 and then withdrew $4800 two times consecutively. Find the amount in his account.",
+    "answer": "-4100"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-035",
+    "topic": "Rational Numbers",
+    "difficultyBand": "medium",
+    "question": "A submarine submerges from the surface of the sea at a rate of 10 m per minute. How long will it take to reach 300 m below sea level?",
+    "answer": "30"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-036",
+    "topic": "Rational Numbers",
+    "difficultyBand": "medium",
+    "question": "A hiker starts at sea level and climbs 150 m. He then descends 230 m. What is his final elevation relative to sea level?",
+    "answer": "-80"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-037",
+    "topic": "Rational Numbers",
+    "difficultyBand": "medium",
+    "question": "The temperature was –8°C in the morning. It increased by 5°C by noon and then dropped by 12°C at night. What was the temperature at night?",
+    "answer": "-15"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-038",
+    "topic": "Rational Numbers",
+    "difficultyBand": "medium",
+    "question": "In Mr. Ye’s math test, +2 marks are given for every correct answer and –1 mark is given for every incorrect answer. Emin answered 12 questions correctly out of 18 questions. What is his score?",
+    "answer": "18"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-039",
+    "topic": "Rational Numbers",
+    "difficultyBand": "medium",
+    "question": "An elevator starts on floor –4. It goes up 9 floors and then goes down 6 floors. What floor is the elevator on now?",
+    "answer": "-1"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-040",
+    "topic": "Rational Numbers",
+    "difficultyBand": "medium",
+    "question": "A bank account has a balance of –$350. A deposit of $1200 is made, followed by a withdrawal of $675. What is the new balance?",
+    "answer": "175"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-041",
+    "topic": "Rational Numbers",
+    "difficultyBand": "medium",
+    "question": "A diver descends 18 m below sea level and then ascends 7 m. Where is the diver now relative to sea level?",
+    "answer": "-11"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-042",
+    "topic": "Rational Numbers",
+    "difficultyBand": "medium",
+    "question": "A football team gains 25 yards, loses 40 yards, and then gains 18 yards. What is the team’s net yardage?",
+    "answer": "3"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-043",
+    "topic": "Rational Numbers",
+    "difficultyBand": "medium",
+    "question": "The temperature changed from 6°F to –9°F. What was the total change in temperature?",
+    "answer": "-15"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-044",
+    "topic": "Rational Numbers",
+    "difficultyBand": "medium",
+    "question": "A mountain peak is 320 m above sea level. A valley is 180 m below sea level. What is the vertical distance between the two?",
+    "answer": "500"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-045",
+    "topic": "Rational Numbers",
+    "difficultyBand": "medium",
+    "question": "A student earns +5 points for each correct answer and –3 points for each incorrect answer. She gets 14 correct and 6 incorrect answers. What is her total score?",
+    "answer": "52"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-046",
+    "topic": "Rational Numbers",
+    "difficultyBand": "medium",
+    "question": "A submarine is 90 m below sea level. It rises at a rate of 15 m per minute. How many minutes will it take to reach sea level?",
+    "answer": "6"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-047",
+    "topic": "Rational Numbers",
+    "difficultyBand": "medium",
+    "question": "A bank account shows –$780. Two deposits of $425 are made. What is the new balance?",
+    "answer": "70"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-048",
+    "topic": "Rational Numbers",
+    "difficultyBand": "medium",
+    "question": "A thermometer reads –12°C. It rises 7°C and then falls 15°C. What is the final temperature?",
+    "answer": "-20"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-049",
+    "topic": "Rational Numbers",
+    "difficultyBand": "medium",
+    "question": "An elevator starts on the 18th floor and goes down 27 floors. What floor does it reach?",
+    "answer": "-9"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-050",
+    "topic": "Rational Numbers",
+    "difficultyBand": "medium",
+    "question": "A hiker descends 45 m from sea level and then climbs 120 m. What is the hiker’s final elevation?",
+    "answer": "75"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-051",
+    "topic": "Rational Numbers",
+    "difficultyBand": "medium",
+    "question": "A quiz gives +3 points for a correct answer and –2 points for an incorrect answer. A student answers 9 questions correctly and 7 incorrectly. What is the student’s score?",
+    "answer": "13"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-052",
+    "topic": "Rational Numbers",
+    "difficultyBand": "medium",
+    "question": "The temperature was –4°F at dawn and 11°F in the afternoon. What was the change in temperature?",
+    "answer": "15"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-053",
+    "topic": "Rational Numbers",
+    "difficultyBand": "medium",
+    "question": "A drone is flying 60 m above sea level and then descends 95 m. Where is the drone now relative to sea level?",
+    "answer": "-35"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-054",
+    "topic": "Rational Numbers",
+    "difficultyBand": "medium",
+    "question": "A parking garage has levels –6 to 12. A car is parked on level 4, then goes down 9 levels. What level is the car on?",
+    "answer": "-5"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-055",
+    "topic": "Rational Numbers",
+    "difficultyBand": "medium",
+    "question": "A freezer temperature drops from –10°C to –28°C. What is the change in temperature?",
+    "answer": "-18"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-056",
+    "topic": "Rational Numbers",
+    "difficultyBand": "medium",
+    "question": "A bank account starts with $1200. A withdrawal of $850 is made, followed by another withdrawal of $600. What is the final balance?",
+    "answer": "-250"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-057",
+    "topic": "Rational Numbers",
+    "difficultyBand": "medium",
+    "question": "A game awards +10 points for a win and –6 points for a loss. A team wins 7 games and loses 9 games. What is the team’s final score?",
+    "answer": "16"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-058",
+    "topic": "Rational Numbers",
+    "difficultyBand": "medium",
+    "question": "A diver is 48 m below sea level and ascends at a rate of 6 m per minute. How long will it take to reach sea level?",
+    "answer": "8"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-059",
+    "topic": "Rational Numbers",
+    "difficultyBand": "medium",
+    "question": "An elevator starts on floor –3, goes up 11 floors, then goes down 8 floors. What floor is it on now?",
+    "answer": "0"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-060",
+    "topic": "Rational Numbers",
+    "difficultyBand": "medium",
+    "question": "A student scores +4 points for each correct answer and –1 point for each incorrect answer. He answers 15 questions correctly and 5 incorrectly. What is his score?",
+    "answer": "55"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-061",
+    "topic": "Rational Numbers",
+    "difficultyBand": "medium",
+    "question": "The temperature increases from –18°C to –3°C. What is the change in temperature?",
+    "answer": "15"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-062",
+    "topic": "Rational Numbers",
+    "difficultyBand": "medium",
+    "question": "The temperature was 14°C and later dropped to –6°C. What was the change in temperature?",
+    "answer": "-20"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-063",
+    "topic": "Rational Numbers",
+    "difficultyBand": "medium",
+    "question": "A mountain trail begins at –75 m and ends at 260 m. What is the total change in elevation?",
+    "answer": "335"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-064",
+    "topic": "Rational Numbers",
+    "difficultyBand": "medium",
+    "question": "A submarine dives 240 m below sea level at a rate of 20 m per minute. How many minutes does the dive take?",
+    "answer": "12"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-065",
+    "topic": "Rational Numbers",
+    "difficultyBand": "medium",
+    "question": "A hiker climbs 380 m from sea level and then descends 520 m. What is the hiker’s final elevation?",
+    "answer": "-140"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-066",
+    "topic": "Rational Numbers",
+    "difficultyBand": "medium",
+    "question": "A bank account has a balance of –$250. A withdrawal of $175 is made. What is the new balance?",
+    "answer": "-425"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-067",
+    "topic": "Rational Numbers",
+    "difficultyBand": "hard",
+    "question": "A deep-sea probe is being lifted toward the surface at a rate of 24 meters per minute. After 15 minutes, it is still 60 meters below sea level. How deep was the probe when it started rising?",
+    "answer": "420"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-068",
+    "topic": "Rational Numbers",
+    "difficultyBand": "hard",
+    "question": "Over five days, a stock changed by +36, −22, +41, −57, and +18 points. If the stock started at 1,845 points, what was its final value?",
+    "answer": "1861"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-069",
+    "topic": "Rational Numbers",
+    "difficultyBand": "hard",
+    "question": "A school club started with a debt of $1,240. It earned $685 from a fundraiser, received a $910 donation, and then spent $1,375 on supplies. What is the final balance?",
+    "answer": "-1020"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-070",
+    "topic": "Rational Numbers",
+    "difficultyBand": "hard",
+    "question": "Kevin’s bank account balance is −$275.60. He deposits $820.45, withdraws $390.80, and then withdraws another $125.35. What is his final balance?",
+    "answer": "28.7"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-071",
+    "topic": "Rational Numbers",
+    "difficultyBand": "hard",
+    "question": "A diver is ascending at a rate of 16 feet per minute. After 11 minutes, the diver is still 48 feet below sea level. How deep was the diver before ascending?",
+    "answer": "-224"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-072",
+    "topic": "Rational Numbers",
+    "difficultyBand": "hard",
+    "question": "A video game gives +12 points for a win and −8 points for a loss. A player wins 9 games, loses 14 games, and then wins 5 more games. What is the final score?",
+    "answer": "56"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-073",
+    "topic": "Rational Numbers",
+    "difficultyBand": "hard",
+    "question": "A mountain path begins at 420 meters above sea level. A hiker descends 685 meters and then climbs 210 meters. What is the hiker’s final elevation?",
+    "answer": "-55"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-074",
+    "topic": "Rational Numbers",
+    "difficultyBand": "hard",
+    "question": "During one week, temperatures changed by −9°, +14°, −27°, +18°, and −6°. If the temperature started at −4°, what was the final temperature?",
+    "answer": "-14"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-075",
+    "topic": "Rational Numbers",
+    "difficultyBand": "hard",
+    "question": "A parking garage elevator starts on level −9. It goes up 17 levels, down 13 levels, and then up 6 more levels. What level is it on now?",
+    "answer": "1"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-076",
+    "topic": "Rational Numbers",
+    "difficultyBand": "hard",
+    "question": "A charity account begins with $3,450. It spends $5,120, receives $2,875 in donations, and then spends another $690. What is the final balance?",
+    "answer": "515"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-077",
+    "topic": "Rational Numbers",
+    "difficultyBand": "hard",
+    "question": "A submarine rises at a rate of 28 meters per minute. After 2 minutes, it is 84 meters below sea level. How deep was it when the rising began?",
+    "answer": "-140"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-078",
+    "topic": "Rational Numbers",
+    "difficultyBand": "hard",
+    "question": "A student earns +7 points for each correct answer and −5 points for each incorrect answer. The student answers 16 questions correctly and 9 incorrectly. What is the total score?",
+    "answer": "67"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-079",
+    "topic": "Rational Numbers",
+    "difficultyBand": "hard",
+    "question": "The temperature at sunrise was −21°F. It increased by 19°F, then dropped 34°F overnight. What was the final temperature?",
+    "answer": "-36"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-080",
+    "topic": "Rational Numbers",
+    "difficultyBand": "hard",
+    "question": "A drone starts 110 meters above sea level. It descends 265 meters and then rises 78 meters. What is its final position relative to sea level?",
+    "answer": "-77"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-081",
+    "topic": "Rational Numbers",
+    "difficultyBand": "hard",
+    "question": "A business starts the month with a loss of $12,480. It earns $4,960, spends $7,325, and then earns another $6,740. What is the final balance?",
+    "answer": "-8105"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-082",
+    "topic": "Rational Numbers",
+    "difficultyBand": "hard",
+    "question": "A hiker starts at −95 meters below sea level. She climbs 380 meters, then descends 145 meters. What is her final elevation?",
+    "answer": "140"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-083",
+    "topic": "Rational Numbers",
+    "difficultyBand": "hard",
+    "question": "A quiz awards +5 points for a correct answer and −3 points for an incorrect answer. A student gets 18 correct and 11 incorrect answers. What is the final score?",
+    "answer": "57"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-084",
+    "topic": "Rational Numbers",
+    "difficultyBand": "hard",
+    "question": "Over six days, a stock changed by +52, −41, −18, +63, −29, and +14. If it started at 2,175 points, what was its final value?",
+    "answer": "2216"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-085",
+    "topic": "Rational Numbers",
+    "difficultyBand": "hard",
+    "question": "A deep freezer starts at −6°C and cools down 4°C per hour for 5 hours, then warms up 7°C. What is the final temperature?",
+    "answer": "-19"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-086",
+    "topic": "Rational Numbers",
+    "difficultyBand": "hard",
+    "question": "A diver ascends at 22 feet per minute. After 9 minutes, the diver is still 66 feet below sea level. How deep was the diver when the ascent began?",
+    "answer": "-264"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-087",
+    "topic": "Rational Numbers",
+    "difficultyBand": "hard",
+    "question": "A bank account balance is −$3,720. Two deposits of $1,845 are made, followed by a withdrawal of $2,160. What is the new balance?",
+    "answer": "-2190"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-088",
+    "topic": "Rational Numbers",
+    "difficultyBand": "hard",
+    "question": "A cable car starts at 510 meters above sea level. It descends 840 meters and then rises 295 meters. What is the final elevation?",
+    "answer": "-35"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-089",
+    "topic": "Rational Numbers",
+    "difficultyBand": "hard",
+    "question": "A football team gains 62 yards, loses 95 yards, gains 48 yards, and then loses 21 yards. What is the team’s net yardage?",
+    "answer": "-6"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-090",
+    "topic": "Rational Numbers",
+    "difficultyBand": "hard",
+    "question": "The temperature drops from 15°C to −24°C and then rises 11°C. What is the final temperature?",
+    "answer": "-13"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-091",
+    "topic": "Rational Numbers",
+    "difficultyBand": "hard",
+    "question": "A game tournament gives +20 points for a win and −15 points for a loss. A team wins 8 games, loses 11 games, and then wins 3 games. What is the final score?",
+    "answer": "55"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-092",
+    "topic": "Rational Numbers",
+    "difficultyBand": "hard",
+    "question": "A research balloon begins 180 meters below sea level. It rises 640 meters and then descends 295 meters. What is its final elevation?",
+    "answer": "165"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-093",
+    "topic": "Rational Numbers",
+    "difficultyBand": "hard",
+    "question": "A company starts the year with −$22,350. It earns $19,480, spends $7,920, and earns another $5,610. What is the final balance?",
+    "answer": "-5180"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-094",
+    "topic": "Rational Numbers",
+    "difficultyBand": "hard",
+    "question": "A diver is ascending at 18 feet per minute. After 14 minutes, the diver is 36 feet below sea level. How deep was the diver before ascending?",
+    "answer": "-288"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-095",
+    "topic": "Rational Numbers",
+    "difficultyBand": "hard",
+    "question": "A temperature sensor records the following changes: −16°, +11°, −23°, +19°, and −8°. If the starting temperature was −7°, what is the final temperature?",
+    "answer": "-24"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-096",
+    "topic": "Rational Numbers",
+    "difficultyBand": "hard",
+    "question": "An elevator starts on floor −14. It goes up 28 floors, down 19 floors, and then up 7 floors. What floor is it on now?",
+    "answer": "2"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-097",
+    "topic": "Rational Numbers",
+    "difficultyBand": "hard",
+    "question": "A hiker descends 760 meters from a peak at 485 meters above sea level, then climbs 315 meters. What is the hiker’s final elevation?",
+    "answer": "40"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-098",
+    "topic": "Rational Numbers",
+    "difficultyBand": "hard",
+    "question": "A bank account has a balance of −$5,640. A deposit of $2,375 is made, followed by two withdrawals of $1,480 each. What is the final balance?",
+    "answer": "-6225"
+  },
+  {
+    "id": "RATIONAL_NUMBERS-099",
+    "topic": "Rational Numbers",
+    "difficultyBand": "hard",
+    "question": "Over a week, a stock changes by −58, +94, −37, +21, and −46. If it started at 1,960 points, what was its value at the end of the week?",
+    "answer": "1934"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-001",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "A fair 6-sided die is rolled. What is the probability of rolling a 5?",
+    "answer": "2026-01-06 00:00:00"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-002",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "A fair 6-sided die is rolled. What is the probability of rolling an even number?",
+    "answer": "2026-01-02 00:00:00"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-003",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "A fair 6-sided die is rolled. What is the probability of rolling a number less than 3?",
+    "answer": "2026-01-03 00:00:00"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-004",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "A fair 10-sided spinner is labeled 1 through 10. What is the probability of landing on 10?",
+    "answer": "2026-01-10 00:00:00"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-005",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "A spinner has 5 equal sections: 2 red, 1 blue, 1 green, and 1 yellow. What is the probability of landing on red?",
+    "answer": "2026-02-05 00:00:00"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-006",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "A bag contains 3 red marbles, 5 blue marbles, and 2 green marbles. One marble is chosen at random. What is the probability of choosing a green marble?",
+    "answer": "2026-01-05 00:00:00"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-007",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "A jar contains 4 lemon candies and 6 strawberry candies. One candy is chosen at random. What is the probability of choosing a strawberry candy?",
+    "answer": "2026-03-05 00:00:00"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-008",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "Find the range of the data set: 3, 3, 4, 7, 8, 8, 10",
+    "answer": "7"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-009",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "Find the minimum of the data set: 2, 5, 7, 7, 9",
+    "answer": "2"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-010",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "Find the minimum of the data set: 0, 3, 4, 6, 6",
+    "answer": "0"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-011",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "Find the minimum of the data set: 1, 1, 2, 5, 8, 10",
+    "answer": "1"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-012",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "Find the minimum of the data set: 4, 4, 6, 7, 9, 10",
+    "answer": "4"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-013",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "Find the maximum of the data set: 1, 3, 6, 6, 8",
+    "answer": "8"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-014",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "Find the maximum of the data set: 0, 2, 2, 5, 7, 9",
+    "answer": "9"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-015",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "Find the maximum of the data set: 4, 5, 5, 8, 10",
+    "answer": "10"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-016",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "Find the maximum of the data set: 2, 3, 3, 6, 7, 7, 9",
+    "answer": "9"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-017",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "A fair 6-sided die is rolled once. What is the probability of rolling a 4?",
+    "answer": "2026-01-06 00:00:00"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-018",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "A spinner has 4 equal sections: red, yellow, blue, and green. What is the probability of landing on red?",
+    "answer": "2026-01-04 00:00:00"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-019",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "A bag has 3 red marbles and 7 blue marbles. One marble is drawn at random. What is the probability of drawing a red marble?",
+    "answer": "2026-03-10 00:00:00"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-020",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "A deck has 10 cards numbered 1 to 10. One card is chosen at random. What is the probability of choosing a number greater than 7?",
+    "answer": "2026-03-10 00:00:00"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-021",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "Find the mean of the data set: 4, 6, 8, 10",
+    "answer": "7"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-022",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "Find the mean of the data set: 2, 3, 5, 7, 9",
+    "answer": "5.2"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-023",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "Find the mean of the data set: 1, 1, 4, 6, 8",
+    "answer": "4"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-024",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "Find the mean of the data set: 0, 2, 2, 6, 10",
+    "answer": "4"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-025",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "Find the mean of the data set: 3, 5, 5, 7, 10",
+    "answer": "6"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-026",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "Find the mean of this data set: 7, 2, 9, 4, 6, 2, 8 (round to the nearest hundredth)",
+    "answer": "5.43"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-027",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "Find the mean of this data set: 10, 3, 5, 3, 7, 9 (round to the nearest hundredth)",
+    "answer": "6.17"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-028",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "Find the mode of this data set: 4, 8, 6, 4, 2, 9, 4, 7",
+    "answer": "4"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-029",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "Find the mode of this data set: 1, 5, 2, 5, 9, 3, 5, 6, 7",
+    "answer": "5"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-030",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "Find the range of this data set: 6, 1, 8, 3, 9, 2, 7",
+    "answer": "8"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-031",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "Find the range of this data set: 10, 4, 6, 2, 9, 5",
+    "answer": "8"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-032",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "Find the minimum value of this data set: 3, 7, 2, 8, 6, 4, 9",
+    "answer": "2"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-033",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "Find the maximum value of this data set: 5, 1, 9, 2, 8, 6, 3",
+    "answer": "9"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-034",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "Two fair 6-sided dice are rolled. How many total outcomes are possible?",
+    "answer": "36"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-035",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "Two fair 8-sided dice are rolled. How many total outcomes are possible?",
+    "answer": "64"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-036",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "A fair 12-sided die and a fair 6-sided die are rolled. How many total outcomes are possible?",
+    "answer": "72"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-037",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "A spinner with 8 equal sections is spun and a fair 6-sided die is rolled. How many total outcomes are possible?",
+    "answer": "48"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-038",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "A spinner with 10 equal sections is spun and a fair 6-sided die is rolled. How many total outcomes are possible?",
+    "answer": "60"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-039",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "Two spinners are used: one has 3 equal sections and the other has 6 equal sections. How many total outcomes are possible?",
+    "answer": "18"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-040",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "Two spinners are used: one has 5 equal sections and the other has 10 equal sections. How many total outcomes are possible?",
+    "answer": "50"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-041",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "Two spinners are used: one has 6 equal sections and the other has 12 equal sections. How many total outcomes are possible?",
+    "answer": "72"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-042",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "A spinner with 7 equal sections is spun twice (first spin and second spin). How many total outcomes are possible?",
+    "answer": "49"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-043",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "A spinner with 4 equal sections is spun, then a spinner with 6 equal sections is spun, then a fair 6-sided die is rolled. How many total outcomes are possible?",
+    "answer": "144"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-044",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "A spinner with 5 equal sections is spun, then a fair 8-sided die is rolled, then a coin is flipped. How many total outcomes are possible?",
+    "answer": "80"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-045",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "A bag has 3 different colored tokens (red, blue, green). One token is chosen and then a fair 6-sided die is rolled. How many total outcomes are possible?",
+    "answer": "18"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-046",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "A bag has 4 different colored tokens. One token is chosen and then a fair 8-sided die is rolled. How many total outcomes are possible?",
+    "answer": "32"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-047",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "Find the first quartile (Q1) of the data set: 8, 3, 12, 6, 4, 9, 7, 5, 10",
+    "answer": "4.5"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-048",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "Find the first quartile (Q1) of the data set: 11, 2, 6, 9, 4, 12, 7, 3, 8, 5",
+    "answer": "4"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-049",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "Find the first quartile (Q1) of the data set: 5, 9, 1, 6, 8, 12, 4, 7, 3",
+    "answer": "3.5"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-050",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "Find the first quartile (Q1) of the data set: 10, 6, 2, 12, 7, 3, 9, 4",
+    "answer": "3.5"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-051",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "Find the first quartile (Q1) of the data set: 4, 11, 7, 2, 9, 6, 12, 3, 8, 5, 10",
+    "answer": "4"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-052",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "Find the third quartile (Q3) of the data set: 8, 1, 6, 12, 5, 9, 3, 10, 4, 7",
+    "answer": "9"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-053",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "Find the third quartile (Q3) of the data set: 2, 11, 5, 8, 12, 6, 9, 3, 7, 4, 10",
+    "answer": "10"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-054",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "Find the third quartile (Q3) of the data set: 9, 4, 12, 2, 7, 6, 10, 3, 8, 5",
+    "answer": "9"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-055",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "Find the third quartile (Q3) of the data set: 6, 10, 3, 8, 12, 5, 9, 2, 7, 4, 11",
+    "answer": "10"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-056",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "Find the third quartile (Q3) of the data set: 7, 2, 9, 4, 12, 6, 10, 3, 8",
+    "answer": "9.5"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-057",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "Find the first quartile (Q1) of the data set: 12, 5, 8, 2, 11, 6, 9, 3, 10, 4, 7",
+    "answer": "4"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-058",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "Find the interquartile range (IQR) of the data set: 8, 3, 11, 6, 2, 12, 7, 9, 4, 10, 5",
+    "answer": "6"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-059",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "Find the interquartile range (IQR) of the data set: 4, 9, 1, 7, 12, 6, 10, 2, 8, 5, 11",
+    "answer": "6"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-060",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "Find the interquartile range (IQR) of the data set: 10, 2, 6, 9, 3, 12, 5, 8, 4, 7",
+    "answer": "5"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-061",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "Find the interquartile range (IQR) of the data set: 7, 11, 4, 9, 2, 12, 6, 10, 3, 8, 5",
+    "answer": "6"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-062",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "Find the interquartile range (IQR) of the data set: 6, 1, 8, 12, 4, 10, 3, 9, 2, 7, 5, 11",
+    "answer": "6"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-063",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "Find the interquartile range (IQR) of the data set: 9, 5, 12, 3, 8, 2, 10, 6, 11, 4, 7",
+    "answer": "6"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-064",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "Find the interquartile range (IQR) of the data set: 3, 10, 6, 12, 4, 8, 1, 9, 5, 11, 2, 7",
+    "answer": "6"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-065",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "Find the interquartile range (IQR) of the data set: 11, 2, 8, 4, 12, 6, 9, 3, 10, 5, 7",
+    "answer": "6"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-066",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "Find the interquartile range (IQR) of the data set: 5, 12, 7, 3, 9, 1, 11, 6, 10, 2, 8, 4",
+    "answer": "6"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-067",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "Find the difference between the median and the mean of this data set: 9, 3, 16, 7, 5",
+    "answer": "1"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-068",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "Find the difference between the median and the mean of this data set: 10, 2, 4, 10, 4",
+    "answer": "2"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-069",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "Find the difference between the median and the mean of this data set: 4, 2, 5, 1, 3",
+    "answer": "0"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-070",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "Find the difference between the median and the mean of this data set: 6, 18, 6, 6, 6",
+    "answer": "2.4"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-071",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "Find the difference between the median and the mean of this data set: 10, 0, 5, 5, 5",
+    "answer": "0"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-072",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "Find the difference between the median and the mean of this data set: 9, 15, 8, 9, 9",
+    "answer": "1"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-073",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "Find the difference between the median and the mean of this data set: 16, 4, 12, 6, 7",
+    "answer": "2"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-074",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "Find the difference between the median and the mean of this data set: 21, 2, 9, 3, 5",
+    "answer": "3"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-075",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "Find the difference between the median and the mean of this data set: 12, 10, 11, 10, 11",
+    "answer": "0.2"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-076",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "Find the difference between the median and the mean of this data set: 8, 12, 5, 8, 7",
+    "answer": "0"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-077",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "Find the difference between the median and the mean of this data set: 4, 17, 4, 1, 4",
+    "answer": "2"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-078",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "The mean of the numbers 4, 6, x, 8, 12 is 8. What is x?",
+    "answer": "10"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-079",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "The mean of the numbers 11, 3, 7, 9, x is 8. What is x?",
+    "answer": "10"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-080",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "The mean of the numbers 2, 10, 8, x, 5 is 7. What is x?",
+    "answer": "10"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-081",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "The mean of the numbers 12, 18, 14, x, 16 is 15. What is x?",
+    "answer": "15"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-082",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "The mean of the numbers 5, x, 5, 5, 5 is 6. What is x?",
+    "answer": "10"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-083",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "The mean of the numbers 13, 1, x, 7, 4 is 7. What is x?",
+    "answer": "10"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-084",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "The mean of the numbers 20, x, 26, 22 is 23. What is x?",
+    "answer": "24"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-085",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "The mean of the numbers 12, 8, 11, 10, x, 9 is 10. What is x?",
+    "answer": "10"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-086",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "The mean of the numbers 6, 6, x, 6, 6 is 7. What is x?",
+    "answer": "11"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-087",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "The mean of the numbers 0, 10, 2, x, 4 is 5. What is x?",
+    "answer": "9"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-088",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "The mean of the numbers 9, 15, 12, x is 12. What is x?",
+    "answer": "12"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-089",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "A café offers 5 meats (turkey, ham, roast beef, chicken, salami), 5 vegetables (lettuce, tomato, onion, cucumber, bell pepper), 3 cheeses (cheddar, Swiss, provolone), and 3 breads (white, wheat, rye); if you choose 1 from each category, how many different sandwiches are possible?",
+    "answer": "225"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-090",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "An ice cream shop offers 6 flavors (vanilla, chocolate, strawberry, mint, cookies-and-cream, coffee), 4 cones (waffle cone, sugar cone, cake cone, cup), and 5 toppings (sprinkles, hot fudge, caramel, crushed Oreos, peanuts); if you choose 1 flavor, 1 cone, and 1 topping, how many different ice creams are possible?",
+    "answer": "120"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-091",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "A pizza place offers 3 crusts (thin, hand-tossed, deep dish), 2 sauces (tomato, alfredo), 3 cheeses (mozzarella, cheddar, parmesan), and 6 toppings (pepperoni, sausage, mushrooms, onions, peppers, olives); if you choose 1 from each category, how many different pizzas are possible?",
+    "answer": "108"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-092",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "A bubble tea shop offers 3 sizes (small, medium, large), 4 tea bases (black tea, green tea, oolong, milk tea), 3 sugar levels (0%, 50%, 100%), 3 ice levels (no ice, less ice, regular ice), and 5 toppings (boba, pudding, aloe, lychee jelly, red bean); if you choose 1 from each category, how many different drinks are possible?",
+    "answer": "540"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-093",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "A smoothie bar offers 3 bases (yogurt, almond milk, orange juice), 5 fruits (banana, strawberry, mango, blueberry, pineapple), 2 protein options (protein powder, no protein), and 4 add-ins (chia seeds, spinach, peanut butter, oats); if you choose 1 from each category, how many different smoothies are possible?",
+    "answer": "120"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-094",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "A taco stand offers 3 shells (hard shell, soft tortilla, lettuce wrap), 4 proteins (chicken, beef, pork, beans), 3 salsas (mild, medium, hot), and 5 extras (cheese, sour cream, guacamole, lettuce, pico de gallo); if you choose 1 from each category, how many different tacos are possible?",
+    "answer": "180"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-095",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "A donut shop lets you build a donut using 4 donut types (glazed, chocolate, cake, cinnamon), 3 fillings (custard, jelly, cream), and 5 toppings (sprinkles, crushed nuts, coconut flakes, chocolate drizzle, powdered sugar); if you choose 1 from each category, how many different donuts are possible?",
+    "answer": "60"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-096",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "A popcorn stand offers 3 sizes (small, medium, large), 4 flavors (butter, caramel, cheddar, spicy), and 5 toppings (extra butter, chocolate chips, cinnamon sugar, chili powder, parmesan); if you choose 1 from each category, how many different popcorn orders are possible?",
+    "answer": "60"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-097",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "A salad bar offers 3 bases (romaine, spinach, kale), 4 proteins (chicken, tofu, tuna, eggs), 6 veggies (tomato, cucumber, onion, corn, carrots, olives), and 5 dressings (ranch, Caesar, balsamic, Italian, honey mustard); if you choose 1 base, 1 protein, 2 different veggies, and 1 dressing, how many different salads are possible?",
+    "answer": "900"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-098",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "A custom hoodie shop offers 4 hoodie colors (black, gray, navy, red), 3 text styles (block, script, bubble), 5 icon choices (star, heart, lightning, smiley, crown), and 3 sizes (small, medium, large); if you choose 1 from each category, how many different hoodies are possible?",
+    "answer": "180"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-099",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "A “build-your-own” snack mix station offers 5 cereals (cheerios, cornflakes, chex, granola, puffed rice), 4 sweet add-ins (M&Ms, chocolate chips, mini marshmallows, gummy bears), and 3 salty add-ins (pretzels, peanuts, popcorn); if you choose 1 cereal, 1 sweet add-in, and 1 salty add-in, how many different snack mixes are possible?",
+    "answer": "60"
+  }
+]
