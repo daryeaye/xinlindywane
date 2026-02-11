@@ -3,420 +3,490 @@
     "id": "ALGEBRAIC_EXPRESSIONS-001",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "Which expression is equivalent to (8x + 5) - (3x - 7)?",
+    "question": "Which expression is equivalent to 
+    (8x + 5) - (3x - 7)?",
     "answer": "5x + 12"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-002",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "Which expression is equivalent to (4m + 6) - (2m + 9)?",
+    "question": "Which expression is equivalent to 
+    (4m + 6) - (2m + 9)?",
     "answer": "2m - 3"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-003",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "Which expression is equivalent to 7x - 2.5x + 0.75x?",
+    "question": "Which expression is equivalent to 
+    7x - 2.5x + 0.75x?",
     "answer": "5.25x"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-004",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "Which expression is equivalent to (12y - 4) + (5y + 9)?",
+    "question": "Which expression is equivalent to 
+    (12y - 4) + (5y + 9)?",
     "answer": "17y + 5"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-005",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "Which expression is equivalent to (3a - 8) - (6a + 2)?",
+    "question": "Which expression is equivalent to 
+    (3a - 8) - (6a + 2)?",
     "answer": "-3a - 10"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-006",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "Which expression is equivalent to 0.6p + 1.4p - 0.25p?",
+    "question": "Which expression is equivalent to 
+    0.6p + 1.4p - 0.25p?",
     "answer": "1.75p"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-007",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "Which expression is equivalent to 5(2x - 3) + x?",
+    "question": "Which expression is equivalent to 
+    5(2x - 3) + x?",
     "answer": "11x - 15"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-008",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "Which expression is equivalent to 2(7y + 4) - 3y?",
+    "question": "Which expression is equivalent to 
+    2(7y + 4) - 3y?",
     "answer": "11y + 8"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-009",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "Which expression is equivalent to (9x - 1) - (4 - 2x)?",
+    "question": "Which expression is equivalent to 
+    (9x - 1) - (4 - 2x)?",
     "answer": "11x - 5"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-010",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "Which expression is equivalent to (5n + 2) + (n - 11)?",
+    "question": "Which expression is equivalent to 
+    (5n + 2) + (n - 11)?",
     "answer": "6n - 9"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-011",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "Which expression is equivalent to (6k - 3) - (2k - 10)?",
+    "question": "Which expression is equivalent to 
+    (6k - 3) - (2k - 10)?",
     "answer": "4k + 7"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-012",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "Which expression is equivalent to 3(4t - 5) - 2t?",
+    "question": "Which expression is equivalent to 
+    3(4t - 5) - 2t?",
     "answer": "10t - 15"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-013",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "Which expression is equivalent to (2x + 3y) - (5x - y)?",
+    "question": "Which expression is equivalent to 
+    (2x + 3y) - (5x - y)?",
     "answer": "-3x + 4y"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-014",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "Which expression is equivalent to (7 - 3x) + (2x - 11)?",
+    "question": "Which expression is equivalent to 
+    (7 - 3x) + (2x - 11)?",
     "answer": "-x - 4"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-015",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "Which expression is equivalent to 9.2m - 4.6m + 0.3m?",
+    "question": "Which expression is equivalent to 
+    9.2m - 4.6m + 0.3m?",
     "answer": "4.9m"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-016",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "Which expression is equivalent to 4(3a + 2) + 5a?",
+    "question": "Which expression is equivalent to 
+    4(3a + 2) + 5a?",
     "answer": "17a + 8"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-017",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "Which expression is equivalent to (10p - 6) - (p + 8)?",
+    "question": "Which expression is equivalent to 
+    (10p - 6) - (p + 8)?",
     "answer": "9p - 14"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-018",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "Which expression is equivalent to (x - 9) - (3x + 4)?",
+    "question": "Which expression is equivalent to 
+    (x - 9) - (3x + 4)?",
     "answer": "-2x - 13"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-019",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "Which expression is equivalent to (5r + 12) + (2 - 7r)?",
+    "question": "Which expression is equivalent to 
+    (5r + 12) + (2 - 7r)?",
     "answer": "-2r + 14"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-020",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "Which expression is equivalent to 6(2y - 1) - (3y - 5)?",
+    "question": "Which expression is equivalent to 
+    6(2y - 1) - (3y - 5)?",
     "answer": "9y - 1"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-021",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "Which expression is equivalent to 3x + 2x - (4x - 9)?",
+    "question": "Which expression is equivalent to 
+    3x + 2x - (4x - 9)?",
     "answer": "x + 9"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-022",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "Which expression is equivalent to (8b - 3) + (2b - 7)?",
+    "question": "Which expression is equivalent to 
+    (8b - 3) + (2b - 7)?",
     "answer": "10b - 10"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-023",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "Which expression is equivalent to 0.4x - (1.1x - 3.6)?",
+    "question": "Which expression is equivalent to 
+    0.4x - (1.1x - 3.6)?",
     "answer": "-0.7x + 3.6"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-024",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "Which expression is equivalent to (14t + 5) - 2(3t - 4)?",
+    "question": "Which expression is equivalent to 
+    (14t + 5) - 2(3t - 4)?",
     "answer": "8t + 13"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-025",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "Which expression is equivalent to 7 - 2(5x + 3)?",
+    "question": "Which expression is equivalent to 
+    7 - 2(5x + 3)?",
     "answer": "-10x + 1"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-026",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "Which expression is equivalent to (4y + 1) - (2y - 8)?",
+    "question": "Which expression is equivalent to 
+    (4y + 1) - (2y - 8)?",
     "answer": "2y + 9"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-027",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "Which expression is equivalent to 2(3p - 7) + 4(2 - p)?",
+    "question": "Which expression is equivalent to 
+    2(3p - 7) + 4(2 - p)?",
     "answer": "2p - 6"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-028",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "Which expression is equivalent to (6x + 3) - (2x - 5)?",
+    "question": "Which expression is equivalent to 
+    (6x + 3) - (2x - 5)?",
     "answer": "4x + 8"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-029",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "Which expression is equivalent to (9a - 2b) - (3a + 5b)?",
+    "question": "Which expression is equivalent to 
+    (9a - 2b) - (3a + 5b)?",
     "answer": "6a - 7b"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-030",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "Which expression is equivalent to 1.5n + 0.2n - (0.6n - 4)?",
+    "question": "Which expression is equivalent to 
+    1.5n + 0.2n - (0.6n - 4)?",
     "answer": "1.1n + 4"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-031",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "Which expression is equivalent to 2.8x - 1.3x + 0.6x?",
+    "question": "Which expression is equivalent to 
+    2.8x - 1.3x + 0.6x?",
     "answer": "2.1x"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-032",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "Which expression is equivalent to (11m - 7) - (4m + 13)?",
+    "question": "Which expression is equivalent to 
+    (11m - 7) - (4m + 13)?",
     "answer": "7m - 20"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-033",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "Which expression is equivalent to (2x - 9) + (7x + 4)?",
+    "question": "Which expression is equivalent to 
+    (2x - 9) + (7x + 4)?",
     "answer": "9x - 5"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-034",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Evaluate the following expression 5a - 3b + 4 when a = -2 and b = 7.",
+    "question": "Evaluate the following expression 
+    5a - 3b + 4 
+    when a = -2 and b = 7.",
     "answer": "-27"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-035",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Evaluate the following expression 4x + 3(2 - x) when x = -5.",
+    "question": "Evaluate the following expression 
+    4x + 3(2 - x) 
+    when x = -5.",
     "answer": "1"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-036",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Evaluate the following expression (9m - 6) - 2m + 15 when m = 4.",
+    "question": "Evaluate the following expression (
+    9m - 6) - 2m + 15 
+    when m = 4.",
     "answer": "37"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-037",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Evaluate the following expression 7(p - 3) + 2p - 5 when p = -2.",
+    "question": "Evaluate the following expression 
+    7(p - 3) + 2p - 5 
+    when p = -2.",
     "answer": "-44"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-038",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Evaluate the following expression (8y + 5z) - 3z + 6 when y = 3 and z = -4.",
+    "question": "Evaluate the following expression 
+    (8y + 5z) - 3z + 6 
+    when y = 3 and z = -4.",
     "answer": "22"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-039",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Evaluate the following expression 6(t + 2) - t - 11 when t = -6.",
+    "question": "Evaluate the following expression 
+    6(t + 2) - t - 11 
+    when t = -6.",
     "answer": "-29"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-040",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Evaluate the following expression (12 - 5n) + 2(n - 4) when n = 9.",
+    "question": "Evaluate the following expression 
+    (12 - 5n) + 2(n - 4) 
+    when n = 9.",
     "answer": "-23"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-041",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Evaluate the following expression 3a + 2(4 - a) + 5 when a = -3.",
+    "question": "Evaluate the following expression 
+    3a + 2(4 - a) + 5 
+    when a = -3.",
     "answer": "10"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-042",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Evaluate the following expression (10k - 7) - 3(k + 1) when k = 2.",
+    "question": "Evaluate the following expression 
+    (10k - 7) - 3(k + 1) 
+    when k = 2.",
     "answer": "4"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-043",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Evaluate the following expression 2r + 5(3 - r) - 4 when r = 8.",
+    "question": "Evaluate the following expression 
+    2r + 5(3 - r) - 4 
+    when r = 8.",
     "answer": "-13"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-044",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Which expression is equivalent to 5(4 - x) - (2x - 1)?",
+    "question": "Which expression is equivalent to 
+    5(4 - x) - (2x - 1)?",
     "answer": "21 - 7x"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-045",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Which expression is equivalent to 6(2x - 5) - (4x + 1)?",
+    "question": "Which expression is equivalent to 
+    6(2x - 5) - (4x + 1)?",
     "answer": "8x - 31"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-046",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Which expression is equivalent to 9(a - 4) + 2a + 7?",
+    "question": "Which expression is equivalent to 
+    9(a - 4) + 2a + 7?",
     "answer": "11a - 29"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-047",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Which expression is equivalent to 5(m + 6) - (2m - 9)?",
+    "question": "Which expression is equivalent to 
+    5(m + 6) - (2m - 9)?",
     "answer": "3m + 39"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-048",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Which expression is equivalent to 8(y - 3) + (5 - 2y)?",
+    "question": "Which expression is equivalent to 
+    8(y - 3) + (5 - 2y)?",
     "answer": "6y - 19"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-049",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Which expression is equivalent to 7(p + 2) - (3p - 4)?",
+    "question": "Which expression is equivalent to 
+    7(p + 2) - (3p - 4)?",
     "answer": "4p + 18"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-050",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Which expression is equivalent to (12x - 5) - (4x + 9)?",
+    "question": "Which expression is equivalent to 
+    (12x - 5) - (4x + 9)?",
     "answer": "8x - 14"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-051",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Which expression is equivalent to 4(t - 8) + (3t + 6)?",
+    "question": "Which expression is equivalent to 
+    4(t - 8) + (3t + 6)?",
     "answer": "7t - 26"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-052",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Which expression is equivalent to 6(a + 1) - (2a + 11)?",
+    "question": "Which expression is equivalent to 
+    6(a + 1) - (2a + 11)?",
     "answer": "4a - 5"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-053",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Which expression is equivalent to 3(2n - 7) + (n + 5)?",
+    "question": "Which expression is equivalent to 
+    3(2n - 7) + (n + 5)?",
     "answer": "7n - 16"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-054",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Factor this expression with GCF: 15y - 10.",
+    "question": "Factor this expression with GCF: 
+    15y - 10.",
     "answer": "5(3y - 2)"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-055",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Factor this expression with GCF: 48k + 32 - 16a.",
+    "question": "Factor this expression with GCF: 
+    48k + 32 - 16a.",
     "answer": "16(3k + 2 - a)"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-056",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Factor this expression with GCF: 18x - 24.",
+    "question": "Factor this expression with GCF: 
+    18x - 24.",
     "answer": "6(3x - 4)"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-057",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Factor this expression with GCF: 20a + 35b.",
+    "question": "Factor this expression with GCF: 
+    20a + 35b.",
     "answer": "5(4a + 7b)"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-058",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Factor this expression with GCF: 27m - 18n.",
+    "question": "Factor this expression with GCF: 
+    27m - 18n.",
     "answer": "9(3m - 2n)"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-059",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Factor this expression with GCF: 14x + 21.",
+    "question": "Factor this expression with GCF: 
+    14x + 21.",
     "answer": "7(2x + 3)"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-060",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Factor this expression with GCF: 36p + 24q - 12.",
+    "question": "Factor this expression with GCF: 
+    36p + 24q - 12.",
     "answer": "12(3p + 2q - 1)"
   },
   {
@@ -507,154 +577,176 @@
     "id": "ALGEBRAIC_EXPRESSIONS-073",
     "topic": "Algebraic Expressions",
     "difficultyBand": "hard",
-    "question": "Which expression is equivalent to 7(x - 5) - 3(2x + 4) + 9?",
+    "question": "Which expression is equivalent to 
+    7(x - 5) - 3(2x + 4) + 9?",
     "answer": "x - 38"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-074",
     "topic": "Algebraic Expressions",
     "difficultyBand": "hard",
-    "question": "Which expression is equivalent to 5(3m - 2) - 4(m - 7) - 6?",
+    "question": "Which expression is equivalent to 
+    5(3m - 2) - 4(m - 7) - 6?",
     "answer": "11m + 12"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-075",
     "topic": "Algebraic Expressions",
     "difficultyBand": "hard",
-    "question": "Which expression is equivalent to 8(a + 6) - 2(4a - 9) + 11?",
+    "question": "Which expression is equivalent to 
+    8(a + 6) - 2(4a - 9) + 11?",
     "answer": "77"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-076",
     "topic": "Algebraic Expressions",
     "difficultyBand": "hard",
-    "question": "Which expression is equivalent to 6(p - 3) + 5(2p + 1) - 4?",
+    "question": "Which expression is equivalent to 
+    6(p - 3) + 5(2p + 1) - 4?",
     "answer": "16p - 17"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-077",
     "topic": "Algebraic Expressions",
     "difficultyBand": "hard",
-    "question": "Which expression is equivalent to 9(y + 2) - 6(3y - 5) + 8?",
+    "question": "Which expression is equivalent to 
+    9(y + 2) - 6(3y - 5) + 8?",
     "answer": "-9y + 56"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-078",
     "topic": "Algebraic Expressions",
     "difficultyBand": "hard",
-    "question": "Which expression is equivalent to 4(t - 9) - 2(5t - 6) + 13?",
+    "question": "Which expression is equivalent to 
+    4(t - 9) - 2(5t - 6) + 13?",
     "answer": "-6t - 11"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-079",
     "topic": "Algebraic Expressions",
     "difficultyBand": "hard",
-    "question": "Which expression is equivalent to 10 - 3(y - 4) + 8y + 6?",
+    "question": "Which expression is equivalent to 
+    10 - 3(y - 4) + 8y + 6?",
     "answer": "5y + 28"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-080",
     "topic": "Algebraic Expressions",
     "difficultyBand": "hard",
-    "question": "Which expression is equivalent to 12 - 5(2x - 7) + 3x - 4?",
+    "question": "Which expression is equivalent to 
+    12 - 5(2x - 7) + 3x - 4?",
     "answer": "-7x + 43"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-081",
     "topic": "Algebraic Expressions",
     "difficultyBand": "hard",
-    "question": "Which expression is equivalent to 6(4m + 1) - 3(2m - 5) - 8?",
+    "question": "Which expression is equivalent to 
+    6(4m + 1) - 3(2m - 5) - 8?",
     "answer": "18m + 13"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-082",
     "topic": "Algebraic Expressions",
     "difficultyBand": "hard",
-    "question": "Which expression is equivalent to 7 - 2(3a - 9) + 4a + 5?",
+    "question": "Which expression is equivalent to 
+    7 - 2(3a - 9) + 4a + 5?",
     "answer": "-2a + 30"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-083",
     "topic": "Algebraic Expressions",
     "difficultyBand": "hard",
-    "question": "Simplify 14 - 2(x - 6) + 5x - 9.",
+    "question": "Simplify 
+    14 - 2(x - 6) + 5x - 9.",
     "answer": "3x + 17"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-084",
     "topic": "Algebraic Expressions",
     "difficultyBand": "hard",
-    "question": "Simplify 9 - 4(2y + 3) + 7y + 12.",
+    "question": "Simplify 
+    9 - 4(2y + 3) + 7y + 12.",
     "answer": "-y + 9"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-085",
     "topic": "Algebraic Expressions",
     "difficultyBand": "hard",
-    "question": "Simplify 25 - 6(m - 2) - 3m + 5.",
+    "question": "Simplify 
+    25 - 6(m - 2) - 3m + 5.",
     "answer": "-9m + 42"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-086",
     "topic": "Algebraic Expressions",
     "difficultyBand": "hard",
-    "question": "Simplify 18 - 5(a + 4) + 2a + 11.",
+    "question": "Simplify 
+    18 - 5(a + 4) + 2a + 11.",
     "answer": "-3a + 9"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-087",
     "topic": "Algebraic Expressions",
     "difficultyBand": "hard",
-    "question": "Simplify 6 - 3(4p - 1) + 9p - 8.",
+    "question": "Simplify 
+    6 - 3(4p - 1) + 9p - 8.",
     "answer": "-3p + 1"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-088",
     "topic": "Algebraic Expressions",
     "difficultyBand": "hard",
-    "question": "Simplify 30 - 2(5t - 7) + 3t + 4.",
+    "question": "Simplify 
+    30 - 2(5t - 7) + 3t + 4.",
     "answer": "-7t + 48"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-089",
     "topic": "Algebraic Expressions",
     "difficultyBand": "hard",
-    "question": "Factor the expression with GCF: 48x + 36y - 60z + 24.",
+    "question": "Factor the expression with GCF: 
+    48x + 36y - 60z + 24.",
     "answer": "12(4x + 3y - 5z + 2)"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-090",
     "topic": "Algebraic Expressions",
     "difficultyBand": "hard",
-    "question": "Factor the expression with GCF: 54a - 81b + 27c - 63.",
+    "question": "Factor the expression with GCF: 
+    54a - 81b + 27c - 63.",
     "answer": "9(6a - 9b + 3c - 7)"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-091",
     "topic": "Algebraic Expressions",
     "difficultyBand": "hard",
-    "question": "Factor the expression with GCF: 42m + 70n - 56p + 98.",
+    "question": "Factor the expression with GCF: 
+    42m + 70n - 56p + 98.",
     "answer": "14(3m + 5n - 4p + 7)"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-092",
     "topic": "Algebraic Expressions",
     "difficultyBand": "hard",
-    "question": "Factor the expression with GCF: 36x + 24y - 66z + 88.",
+    "question": "Factor the expression with GCF: 
+    36x + 24y - 66z + 88.",
     "answer": "2(18x + 12y - 33z + 44)"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-093",
     "topic": "Algebraic Expressions",
     "difficultyBand": "hard",
-    "question": "Factor the expression with GCF: 75p - 45q + 60r - 30.",
+    "question": "Factor the expression with GCF: 
+    75p - 45q + 60r - 30.",
     "answer": "15(5p - 3q + 4r - 2)"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-094",
     "topic": "Algebraic Expressions",
     "difficultyBand": "hard",
-    "question": "Factor the expression with GCF: 64a + 48b - 80c + 32.",
+    "question": "Factor the expression with GCF: 
+    64a + 48b - 80c + 32.",
     "answer": "16(4a + 3b - 5c + 2)"
   },
   {
