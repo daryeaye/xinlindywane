@@ -4420,63 +4420,63 @@
     "id": "STATISTICS_AND_PROBABILITIES-008",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "easy",
-    "question": "Find the range of the data set: 3, 3, 4, 7, 8, 8, 10",
+    "question": "Find the range of the data set: /n3, 3, 4, 7, 8, 8, 10",
     "answer": "7"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-009",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "easy",
-    "question": "Find the minimum of the data set: 2, 5, 7, 7, 9",
+    "question": "Find the minimum of the data set: /n2, 5, 7, 7, 9",
     "answer": "2"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-010",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "easy",
-    "question": "Find the minimum of the data set: 0, 3, 4, 6, 6",
+    "question": "Find the minimum of the data set: /n0, 3, 4, 6, 6",
     "answer": "0"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-011",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "easy",
-    "question": "Find the minimum of the data set: 1, 1, 2, 5, 8, 10",
+    "question": "Find the minimum of the data set: /n1, 1, 2, 5, 8, 10",
     "answer": "1"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-012",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "easy",
-    "question": "Find the minimum of the data set: 4, 4, 6, 7, 9, 10",
+    "question": "Find the minimum of the data set: /n4, 4, 6, 7, 9, 10",
     "answer": "4"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-013",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "easy",
-    "question": "Find the maximum of the data set: 1, 3, 6, 6, 8",
+    "question": "Find the maximum of the data set: /n1, 3, 6, 6, 8",
     "answer": "8"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-014",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "easy",
-    "question": "Find the maximum of the data set: 0, 2, 2, 5, 7, 9",
+    "question": "Find the maximum of the data set: /n0, 2, 2, 5, 7, 9",
     "answer": "9"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-015",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "easy",
-    "question": "Find the maximum of the data set: 4, 5, 5, 8, 10",
+    "question": "Find the maximum of the data set: /n4, 5, 5, 8, 10",
     "answer": "10"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-016",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "easy",
-    "question": "Find the maximum of the data set: 2, 3, 3, 6, 7, 7, 9",
+    "question": "Find the maximum of the data set: /n2, 3, 3, 6, 7, 7, 9",
     "answer": "9"
   },
   {
@@ -4511,91 +4511,91 @@
     "id": "STATISTICS_AND_PROBABILITIES-021",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "easy",
-    "question": "Find the mean of the data set: 4, 6, 8, 10",
+    "question": "Find the mean of the data set: /n4, 6, 8, 10",
     "answer": "7"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-022",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "easy",
-    "question": "Find the mean of the data set: 2, 3, 5, 7, 9",
+    "question": "Find the mean of the data set: /n2, 3, 5, 7, 9",
     "answer": "5.2"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-023",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "easy",
-    "question": "Find the mean of the data set: 1, 1, 4, 6, 8",
+    "question": "Find the mean of the data set: /n1, 1, 4, 6, 8",
     "answer": "4"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-024",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "easy",
-    "question": "Find the mean of the data set: 0, 2, 2, 6, 10",
+    "question": "Find the mean of the data set: /n0, 2, 2, 6, 10",
     "answer": "4"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-025",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "easy",
-    "question": "Find the mean of the data set: 3, 5, 5, 7, 10",
+    "question": "Find the mean of the data set: /n3, 5, 5, 7, 10",
     "answer": "6"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-026",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "easy",
-    "question": "Find the mean of this data set: 7, 2, 9, 4, 6, 2, 8 (round to the nearest hundredth)",
+    "question": "Find the mean of this data set: /n7, 2, 9, 4, 6, 2, 8 (round to the nearest hundredth)",
     "answer": "5.43"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-027",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "easy",
-    "question": "Find the mean of this data set: 10, 3, 5, 3, 7, 9 (round to the nearest hundredth)",
+    "question": "Find the mean of this data set: /n10, 3, 5, 3, 7, 9 (round to the nearest hundredth)",
     "answer": "6.17"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-028",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "easy",
-    "question": "Find the mode of this data set: 4, 8, 6, 4, 2, 9, 4, 7",
+    "question": "Find the mode of this data set: /n4, 8, 6, 4, 2, 9, 4, 7",
     "answer": "4"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-029",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "easy",
-    "question": "Find the mode of this data set: 1, 5, 2, 5, 9, 3, 5, 6, 7",
+    "question": "Find the mode of this data set: /n1, 5, 2, 5, 9, 3, 5, 6, 7",
     "answer": "5"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-030",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "easy",
-    "question": "Find the range of this data set: 6, 1, 8, 3, 9, 2, 7",
+    "question": "Find the range of this data set: /n6, 1, 8, 3, 9, 2, 7",
     "answer": "8"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-031",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "easy",
-    "question": "Find the range of this data set: 10, 4, 6, 2, 9, 5",
+    "question": "Find the range of this data set: /n10, 4, 6, 2, 9, 5",
     "answer": "8"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-032",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "easy",
-    "question": "Find the minimum value of this data set: 3, 7, 2, 8, 6, 4, 9",
+    "question": "Find the minimum value of this data set: /n3, 7, 2, 8, 6, 4, 9",
     "answer": "2"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-033",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "easy",
-    "question": "Find the maximum value of this data set: 5, 1, 9, 2, 8, 6, 3",
+    "question": "Find the maximum value of this data set: /n5, 1, 9, 2, 8, 6, 3",
     "answer": "9"
   },
   {
@@ -4693,217 +4693,217 @@
     "id": "STATISTICS_AND_PROBABILITIES-047",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "medium",
-    "question": "Find the first quartile (Q1) of the data set: 8, 3, 12, 6, 4, 9, 7, 5, 10",
+    "question": "Find the first quartile (Q1) of the data set: /n8, 3, 12, 6, 4, 9, 7, 5, 10",
     "answer": "4.5"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-048",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "medium",
-    "question": "Find the first quartile (Q1) of the data set: 11, 2, 6, 9, 4, 12, 7, 3, 8, 5",
+    "question": "Find the first quartile (Q1) of the data set: /n11, 2, 6, 9, 4, 12, 7, 3, 8, 5",
     "answer": "4"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-049",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "medium",
-    "question": "Find the first quartile (Q1) of the data set: 5, 9, 1, 6, 8, 12, 4, 7, 3",
+    "question": "Find the first quartile (Q1) of the data set: /n5, 9, 1, 6, 8, 12, 4, 7, 3",
     "answer": "3.5"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-050",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "medium",
-    "question": "Find the first quartile (Q1) of the data set: 10, 6, 2, 12, 7, 3, 9, 4",
+    "question": "Find the first quartile (Q1) of the data set: /n10, 6, 2, 12, 7, 3, 9, 4",
     "answer": "3.5"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-051",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "medium",
-    "question": "Find the first quartile (Q1) of the data set: 4, 11, 7, 2, 9, 6, 12, 3, 8, 5, 10",
+    "question": "Find the first quartile (Q1) of the data set: /n4, 11, 7, 2, 9, 6, 12, 3, 8, 5, 10",
     "answer": "4"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-052",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "medium",
-    "question": "Find the third quartile (Q3) of the data set: 8, 1, 6, 12, 5, 9, 3, 10, 4, 7",
+    "question": "Find the third quartile (Q3) of the data set: /n8, 1, 6, 12, 5, 9, 3, 10, 4, 7",
     "answer": "9"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-053",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "medium",
-    "question": "Find the third quartile (Q3) of the data set: 2, 11, 5, 8, 12, 6, 9, 3, 7, 4, 10",
+    "question": "Find the third quartile (Q3) of the data set: /n2, 11, 5, 8, 12, 6, 9, 3, 7, 4, 10",
     "answer": "10"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-054",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "medium",
-    "question": "Find the third quartile (Q3) of the data set: 9, 4, 12, 2, 7, 6, 10, 3, 8, 5",
+    "question": "Find the third quartile (Q3) of the data set: /n9, 4, 12, 2, 7, 6, 10, 3, 8, 5",
     "answer": "9"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-055",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "medium",
-    "question": "Find the third quartile (Q3) of the data set: 6, 10, 3, 8, 12, 5, 9, 2, 7, 4, 11",
+    "question": "Find the third quartile (Q3) of the data set: /n6, 10, 3, 8, 12, 5, 9, 2, 7, 4, 11",
     "answer": "10"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-056",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "medium",
-    "question": "Find the third quartile (Q3) of the data set: 7, 2, 9, 4, 12, 6, 10, 3, 8",
+    "question": "Find the third quartile (Q3) of the data set: /n7, 2, 9, 4, 12, 6, 10, 3, 8",
     "answer": "9.5"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-057",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "medium",
-    "question": "Find the first quartile (Q1) of the data set: 12, 5, 8, 2, 11, 6, 9, 3, 10, 4, 7",
+    "question": "Find the first quartile (Q1) of the data set: /n12, 5, 8, 2, 11, 6, 9, 3, 10, 4, 7",
     "answer": "4"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-058",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "medium",
-    "question": "Find the interquartile range (IQR) of the data set: 8, 3, 11, 6, 2, 12, 7, 9, 4, 10, 5",
+    "question": "Find the interquartile range (IQR) of the data set: /n8, 3, 11, 6, 2, 12, 7, 9, 4, 10, 5",
     "answer": "6"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-059",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "medium",
-    "question": "Find the interquartile range (IQR) of the data set: 4, 9, 1, 7, 12, 6, 10, 2, 8, 5, 11",
+    "question": "Find the interquartile range (IQR) of the data set: /n4, 9, 1, 7, 12, 6, 10, 2, 8, 5, 11",
     "answer": "6"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-060",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "medium",
-    "question": "Find the interquartile range (IQR) of the data set: 10, 2, 6, 9, 3, 12, 5, 8, 4, 7",
+    "question": "Find the interquartile range (IQR) of the data set: /n10, 2, 6, 9, 3, 12, 5, 8, 4, 7",
     "answer": "5"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-061",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "medium",
-    "question": "Find the interquartile range (IQR) of the data set: 7, 11, 4, 9, 2, 12, 6, 10, 3, 8, 5",
+    "question": "Find the interquartile range (IQR) of the data set: /n7, 11, 4, 9, 2, 12, 6, 10, 3, 8, 5",
     "answer": "6"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-062",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "medium",
-    "question": "Find the interquartile range (IQR) of the data set: 6, 1, 8, 12, 4, 10, 3, 9, 2, 7, 5, 11",
+    "question": "Find the interquartile range (IQR) of the data set: /n6, 1, 8, 12, 4, 10, 3, 9, 2, 7, 5, 11",
     "answer": "6"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-063",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "medium",
-    "question": "Find the interquartile range (IQR) of the data set: 9, 5, 12, 3, 8, 2, 10, 6, 11, 4, 7",
+    "question": "Find the interquartile range (IQR) of the data set: /n9, 5, 12, 3, 8, 2, 10, 6, 11, 4, 7",
     "answer": "6"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-064",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "medium",
-    "question": "Find the interquartile range (IQR) of the data set: 3, 10, 6, 12, 4, 8, 1, 9, 5, 11, 2, 7",
+    "question": "Find the interquartile range (IQR) of the data set: /n3, 10, 6, 12, 4, 8, 1, 9, 5, 11, 2, 7",
     "answer": "6"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-065",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "medium",
-    "question": "Find the interquartile range (IQR) of the data set: 11, 2, 8, 4, 12, 6, 9, 3, 10, 5, 7",
+    "question": "Find the interquartile range (IQR) of the data set: /n11, 2, 8, 4, 12, 6, 9, 3, 10, 5, 7",
     "answer": "6"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-066",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "medium",
-    "question": "Find the interquartile range (IQR) of the data set: 5, 12, 7, 3, 9, 1, 11, 6, 10, 2, 8, 4",
+    "question": "Find the interquartile range (IQR) of the data set: /n5, 12, 7, 3, 9, 1, 11, 6, 10, 2, 8, 4",
     "answer": "6"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-067",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "hard",
-    "question": "Find the difference between the median and the mean of this data set: 9, 3, 16, 7, 5",
+    "question": "Find the difference between the median and the mean of this data set: /n9, 3, 16, 7, 5",
     "answer": "1"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-068",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "hard",
-    "question": "Find the difference between the median and the mean of this data set: 10, 2, 4, 10, 4",
+    "question": "Find the difference between the median and the mean of this data set: /n10, 2, 4, 10, 4",
     "answer": "2"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-069",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "hard",
-    "question": "Find the difference between the median and the mean of this data set: 4, 2, 5, 1, 3",
+    "question": "Find the difference between the median and the mean of this data set: /n4, 2, 5, 1, 3",
     "answer": "0"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-070",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "hard",
-    "question": "Find the difference between the median and the mean of this data set: 6, 18, 6, 6, 6",
+    "question": "Find the difference between the median and the mean of this data set: /n6, 18, 6, 6, 6",
     "answer": "2.4"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-071",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "hard",
-    "question": "Find the difference between the median and the mean of this data set: 10, 0, 5, 5, 5",
+    "question": "Find the difference between the median and the mean of this data set: /n10, 0, 5, 5, 5",
     "answer": "0"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-072",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "hard",
-    "question": "Find the difference between the median and the mean of this data set: 9, 15, 8, 9, 9",
+    "question": "Find the difference between the median and the mean of this data set: /n9, 15, 8, 9, 9",
     "answer": "1"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-073",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "hard",
-    "question": "Find the difference between the median and the mean of this data set: 16, 4, 12, 6, 7",
+    "question": "Find the difference between the median and the mean of this data set: /n16, 4, 12, 6, 7",
     "answer": "2"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-074",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "hard",
-    "question": "Find the difference between the median and the mean of this data set: 21, 2, 9, 3, 5",
+    "question": "Find the difference between the median and the mean of this data set: /n21, 2, 9, 3, 5",
     "answer": "3"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-075",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "hard",
-    "question": "Find the difference between the median and the mean of this data set: 12, 10, 11, 10, 11",
+    "question": "Find the difference between the median and the mean of this data set: /n12, 10, 11, 10, 11",
     "answer": "0.2"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-076",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "hard",
-    "question": "Find the difference between the median and the mean of this data set: 8, 12, 5, 8, 7",
+    "question": "Find the difference between the median and the mean of this data set: /n8, 12, 5, 8, 7",
     "answer": "0"
   },
   {
     "id": "STATISTICS_AND_PROBABILITIES-077",
     "topic": "Statistics and Probabilities",
     "difficultyBand": "hard",
-    "question": "Find the difference between the median and the mean of this data set: 4, 17, 4, 1, 4",
+    "question": "Find the difference between the median and the mean of this data set: /n4, 17, 4, 1, 4",
     "answer": "2"
   },
   {
