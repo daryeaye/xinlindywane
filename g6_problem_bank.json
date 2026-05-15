@@ -1,0 +1,5063 @@
+[
+  {
+    "id": "FRACTIONS_AND_DECIMALS-001",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "easy",
+    "question": "Answer in simplest form and in improper fraction if needed: 7/9 × 6/14",
+    "answer": "1/3"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-002",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "easy",
+    "question": "Answer in simplest form and in improper fraction if needed: 1/2 × 3/4",
+    "answer": "3/8"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-003",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "easy",
+    "question": "Answer in simplest form and in improper fraction if needed: 2/3 × 5/6",
+    "answer": "5/9"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-004",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "easy",
+    "question": "Answer in simplest form and in improper fraction if needed: 3/5 × 4/7",
+    "answer": "12/35"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-005",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "easy",
+    "question": "Answer in simplest form and in improper fraction if needed: 5/8 × 2/3",
+    "answer": "5/12"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-006",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "easy",
+    "question": "Answer in simplest form and in improper fraction if needed: 7/10 × 5/9",
+    "answer": "7/18"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-007",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "easy",
+    "question": "Answer in simplest form and in improper fraction if needed: 4/11 × 3/8",
+    "answer": "3/22"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-008",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "easy",
+    "question": "Answer in simplest form and in improper fraction if needed: 6/7 × 2/5",
+    "answer": "12/35"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-009",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "easy",
+    "question": "Answer in simplest form and in improper fraction if needed: 9/10 × 1/3",
+    "answer": "3/10"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-010",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "easy",
+    "question": "Answer in simplest form and in improper fraction if needed: 5/12 × 8/15",
+    "answer": "2/9"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-011",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "easy",
+    "question": "Answer in simplest form and in improper fraction if needed: 8/15 ÷ 4/5",
+    "answer": "2/3"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-012",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "easy",
+    "question": "Answer in simplest form and in improper fraction if needed: 1/2 ÷ 3/4",
+    "answer": "2/3"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-013",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "easy",
+    "question": "Answer in simplest form and in improper fraction if needed: 2/3 ÷ 5/6",
+    "answer": "4/5"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-014",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "easy",
+    "question": "Answer in simplest form and in improper fraction if needed: 3/5 ÷ 2/7",
+    "answer": "21/10"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-015",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "easy",
+    "question": "Answer in simplest form and in improper fraction if needed: 4/9 ÷ 2/3",
+    "answer": "2/3"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-016",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "easy",
+    "question": "Answer in simplest form and in improper fraction if needed: 5/8 ÷ 1/4",
+    "answer": "5/2"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-017",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "easy",
+    "question": "Answer in simplest form and in improper fraction if needed: 7/10 ÷ 3/5",
+    "answer": "7/6"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-018",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "easy",
+    "question": "Answer in simplest form and in improper fraction if needed: 6/11 ÷ 2/3",
+    "answer": "9/11"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-019",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "easy",
+    "question": "Answer in simplest form and in improper fraction if needed: 9/14 ÷ 3/7",
+    "answer": "3/2"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-020",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "easy",
+    "question": "Answer in simplest form and in improper fraction if needed: 5/12 ÷ 10/9",
+    "answer": "3/8"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-021",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "easy",
+    "question": "Solve: 3.2 times 0.25",
+    "answer": "0.8"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-022",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "easy",
+    "question": "Solve: 3.75 plus 1.2",
+    "answer": "4.95"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-023",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "easy",
+    "question": "Solve: 6.08 plus 0.95",
+    "answer": "7.03"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-024",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "easy",
+    "question": "Solve: 12.4 minus 3.65",
+    "answer": "8.75"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-025",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "easy",
+    "question": "Solve: 9.005 minus 1.27",
+    "answer": "7.735"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-026",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "easy",
+    "question": "Solve: 2.6 times 3.4",
+    "answer": "8.84"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-027",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "easy",
+    "question": "Solve: 0.75 times 1.8",
+    "answer": "1.35"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-028",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "easy",
+    "question": "Solve: 5.25 times 0.4",
+    "answer": "2.1"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-029",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "easy",
+    "question": "Solve: 7.2 divide by 0.9",
+    "answer": "8"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-030",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "easy",
+    "question": "Solve: 8.4 divide by 1.2",
+    "answer": "7"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-031",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "easy",
+    "question": "Solve: 6.75 divide by 2.5",
+    "answer": "2.7"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-032",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "easy",
+    "question": "Solve: 14.28 plus 2.6",
+    "answer": "16.88"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-033",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "easy",
+    "question": "Solve: 10.5 minus 0.875",
+    "answer": "9.625"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-034",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "medium",
+    "question": "Answer in simplest form and in improper fraction if needed: 3 3/10 times 2 2/3",
+    "answer": "44/5"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-035",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "medium",
+    "question": "Answer in simplest form and in improper fraction if needed: 1 1/2 times 2 1/3",
+    "answer": "7/2"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-036",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "medium",
+    "question": "Answer in simplest form and in improper fraction if needed: 2 2/5 times 1 1/4",
+    "answer": "3"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-037",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "medium",
+    "question": "Answer in simplest form and in improper fraction if needed: 3 1/3 times 2 1/2",
+    "answer": "25/3"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-038",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "medium",
+    "question": "Answer in simplest form and in improper fraction if needed: 1 3/4 times 4 2/7",
+    "answer": "15/2"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-039",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "medium",
+    "question": "Answer in simplest form and in improper fraction if needed: 5 1/6 times 1 1/5",
+    "answer": "31/5"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-040",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "medium",
+    "question": "Answer in simplest form and in improper fraction if needed: 2 3/8 times 3 1/3",
+    "answer": "95/12"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-041",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "medium",
+    "question": "Answer in simplest form and in improper fraction if needed: 4 1/2 times 2 2/9",
+    "answer": "10"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-042",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "medium",
+    "question": "Answer in simplest form and in improper fraction if needed: 1 5/6 times 3 3/11",
+    "answer": "6"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-043",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "medium",
+    "question": "Answer in simplest form and in improper fraction if needed: 6 2/3 times 1 1/2",
+    "answer": "10"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-044",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "medium",
+    "question": "Answer in simplest form and in improper fraction if needed: 2 4/5 times 5 5/7",
+    "answer": "16"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-045",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "medium",
+    "question": "Answer in simplest form and in improper fraction if needed: 11 1/4 divide by 2 1/2",
+    "answer": "9/2"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-046",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "medium",
+    "question": "Answer in simplest form and in improper fraction if needed: 1 1/2 divide by 3/4",
+    "answer": "2"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-047",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "medium",
+    "question": "Answer in simplest form and in improper fraction if needed: 2 1/3 divide by 1/2",
+    "answer": "14/3"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-048",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "medium",
+    "question": "Answer in simplest form and in improper fraction if needed: 3 3/4 divide by 1 1/2",
+    "answer": "5/2"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-049",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "medium",
+    "question": "Answer in simplest form and in improper fraction if needed: 4 2/5 divide by 2/3",
+    "answer": "33/5"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-050",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "medium",
+    "question": "Answer in simplest form and in improper fraction if needed: 5 1/4 divide by 1 3/4",
+    "answer": "3"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-051",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "medium",
+    "question": "Answer in simplest form and in improper fraction if needed: 2 2/3 divide by 4/5",
+    "answer": "10/3"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-052",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "medium",
+    "question": "Answer in simplest form and in improper fraction if needed: 6 1/2 divide by 1 1/4",
+    "answer": "26/5"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-053",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "medium",
+    "question": "Answer in simplest form and in improper fraction if needed: 3 1/3 divide by 5/6",
+    "answer": "4"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-054",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "medium",
+    "question": "Answer in simplest form and in improper fraction if needed: 7 1/5 divide by 2 2/5",
+    "answer": "3"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-055",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "medium",
+    "question": "Answer in simplest form and in improper fraction if needed: 1 5/6 divide by 2/3",
+    "answer": "11/4"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-056",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "medium",
+    "question": "Answer in simplest form and in improper fraction if needed: 8 3/4 divide by 5/8",
+    "answer": "14"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-057",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "medium",
+    "question": "Answer in simplest form and in improper fraction if needed: 2 4/7 divide by 1 1/7",
+    "answer": "9/4"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-058",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "medium",
+    "question": "Answer in simplest form and in improper fraction if needed: 9 1/3 divide by 2 2/3",
+    "answer": "7/2"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-059",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "medium",
+    "question": "Answer in simplest form and in improper fraction if needed: 4 1/2 divide by 3/5",
+    "answer": "15/2"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-060",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "medium",
+    "question": "Answer in simplest form and in improper fraction if needed: 5 5/6 divide by 1 2/3",
+    "answer": "7/2"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-061",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "medium",
+    "question": "Answer in simplest form and in improper fraction if needed: 3 3/8 divide by 9/10",
+    "answer": "15/4"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-062",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "medium",
+    "question": "Answer in simplest form and in improper fraction if needed: 10 2/5 divide by 2 3/5",
+    "answer": "4"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-063",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "medium",
+    "question": "Answer in simplest form and in improper fraction if needed: 6 3/4 divide by 1 1/8",
+    "answer": "6"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-064",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "medium",
+    "question": "Answer in simplest form and in improper fraction if needed: 2 1/2 divide by 5/12",
+    "answer": "6"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-065",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "medium",
+    "question": "Answer in simplest form and in improper fraction if needed: 7 7/8 divide by 3 1/2",
+    "answer": "9/4"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-066",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "medium",
+    "question": "Answer in simplest form and in improper fraction if needed: 1 7/9 divide by 2/9",
+    "answer": "8"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-067",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "hard",
+    "question": "Emma has 5 2/5 meters of fabric. Each scarf uses 7/10 meter of fabric. What is the maximum number of scarves Emma can make?",
+    "answer": "7"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-068",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "hard",
+    "question": "Maya has 2 1/4 cups of flour to make pancakes. Each batch uses 2/3 cup of flour. What is the maximum number of batches that Maya can make with the flour?",
+    "answer": "3"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-069",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "hard",
+    "question": "Ben has 3 1/2 yards of ribbon. Each gift box uses 3/8 yard of ribbon. What is the maximum number of gift boxes that Ben can decorate?",
+    "answer": "9"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-070",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "hard",
+    "question": "Lily has 4 2/3 cups of juice to make popsicles. Each popsicle uses 1/2 cup of juice. What is the maximum number of popsicles that Lily can make?",
+    "answer": "9"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-071",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "hard",
+    "question": "Omar has 5 1/4 pounds of rice. Each container holds 3/4 pound of rice. What is the maximum number of full containers Omar can fill?",
+    "answer": "7"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-072",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "hard",
+    "question": "Nina has 2 5/6 cups of paint. Each poster uses 2/5 cup of paint. What is the maximum number of posters Nina can paint?",
+    "answer": "7"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-073",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "hard",
+    "question": "Jake has 6 1/3 feet of string. Each bracelet uses 5/6 foot of string. What is the maximum number of bracelets Jake can make?",
+    "answer": "7"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-074",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "hard",
+    "question": "Sofia has 3 3/4 cups of sugar. Each cake uses 2/3 cup of sugar. What is the maximum number of cakes Sofia can bake?",
+    "answer": "5"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-075",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "hard",
+    "question": "Ethan has 7 1/2 liters of water. Each bottle holds 4/5 liter of water. What is the maximum number of full bottles Ethan can fill?",
+    "answer": "9"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-076",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "hard",
+    "question": "Ava has 2 2/3 pounds of clay. Each sculpture uses 1/3 pound of clay. What is the maximum number of sculptures Ava can make?",
+    "answer": "8"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-077",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "hard",
+    "question": "Noah has 4 5/8 cups of trail mix. Each snack bag uses 3/4 cup of trail mix. What is the maximum number of snack bags Noah can make?",
+    "answer": "6"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-078",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "hard",
+    "question": "Answer in simplest form and in mixed number: 1 7/8 plus 6 5/16",
+    "answer": "8 3/16"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-079",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "hard",
+    "question": "Answer in simplest form and in mixed number: 1 1/2 plus 2 1/3",
+    "answer": "3 5/6"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-080",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "hard",
+    "question": "Answer in simplest form and in mixed number: 2 3/4 plus 1 5/6",
+    "answer": "4 7/12"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-081",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "hard",
+    "question": "Answer in simplest form and in mixed number: 3 2/5 plus 4 3/10",
+    "answer": "7 7/10"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-082",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "hard",
+    "question": "Answer in simplest form and in mixed number: 5 1/8 plus 2 3/4",
+    "answer": "7 7/8"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-083",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "hard",
+    "question": "Answer in simplest form and in mixed number: 6 5/12 plus 1 1/3",
+    "answer": "7 3/4"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-084",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "hard",
+    "question": "Answer in simplest form and in mixed number: 3 7/9 plus 2 5/6",
+    "answer": "6 11/18"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-085",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "hard",
+    "question": "Answer in simplest form and in mixed number: 4 4/5 plus 3 2/15",
+    "answer": "7 14/15"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-086",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "hard",
+    "question": "Answer in simplest form and in mixed number: 8 1/6 plus 1 5/12",
+    "answer": "9 7/12"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-087",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "hard",
+    "question": "Answer in simplest form and in mixed number: 2 11/12 plus 5 1/4",
+    "answer": "8 1/6"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-088",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "hard",
+    "question": "Answer in simplest form and in mixed number: 7 3/10 plus 2 2/5",
+    "answer": "9 7/10"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-089",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "hard",
+    "question": "Answer in simplest form and in mixed number: 8 7/8 minus 2 5/16",
+    "answer": "6 9/16"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-090",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "hard",
+    "question": "Answer in simplest form and in mixed number: 5 1/2 minus 2 1/3",
+    "answer": "3 1/6"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-091",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "hard",
+    "question": "Answer in simplest form and in mixed number: 6 3/4 minus 1 5/6",
+    "answer": "4 11/12"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-092",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "hard",
+    "question": "Answer in simplest form and in mixed number: 8 2/5 minus 3 7/10",
+    "answer": "4 7/10"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-093",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "hard",
+    "question": "Answer in simplest form and in mixed number: 7 1/8 minus 2 3/4",
+    "answer": "4 3/8"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-094",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "hard",
+    "question": "Answer in simplest form and in mixed number: 9 5/12 minus 4 1/3",
+    "answer": "5 1/12"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-095",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "hard",
+    "question": "Answer in simplest form and in mixed number: 6 7/9 minus 2 5/6",
+    "answer": "3 17/18"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-096",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "hard",
+    "question": "Answer in simplest form and in mixed number: 10 4/5 minus 3 2/15",
+    "answer": "7 2/3"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-097",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "hard",
+    "question": "Answer in simplest form and in mixed number: 12 1/6 minus 5 5/12",
+    "answer": "6 3/4"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-098",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "hard",
+    "question": "Answer in simplest form and in mixed number: 9 11/12 minus 4 1/4",
+    "answer": "5 2/3"
+  },
+  {
+    "id": "FRACTIONS_AND_DECIMALS-099",
+    "topic": "Fractions and Decimals",
+    "difficultyBand": "hard",
+    "question": "Answer in simplest form and in mixed number: 11 3/10 minus 6 2/5",
+    "answer": "4 9/10"
+  },
+  {
+    "id": "NUMBER_SENSE-001",
+    "topic": "Number Sense",
+    "difficultyBand": "easy",
+    "question": "Which number represents the opposite of 3 11/16?",
+    "answer": "-3 11/16"
+  },
+  {
+    "id": "NUMBER_SENSE-002",
+    "topic": "Number Sense",
+    "difficultyBand": "easy",
+    "question": "Which number represents the opposite of 2 1/2?",
+    "answer": "-2 1/2"
+  },
+  {
+    "id": "NUMBER_SENSE-003",
+    "topic": "Number Sense",
+    "difficultyBand": "easy",
+    "question": "Which number represents the opposite of -3 1/4?",
+    "answer": "3 1/4"
+  },
+  {
+    "id": "NUMBER_SENSE-004",
+    "topic": "Number Sense",
+    "difficultyBand": "easy",
+    "question": "Which number represents the opposite of 4 2/3?",
+    "answer": "-4 2/3"
+  },
+  {
+    "id": "NUMBER_SENSE-005",
+    "topic": "Number Sense",
+    "difficultyBand": "easy",
+    "question": "Which number represents the opposite of -1 5/6?",
+    "answer": "1 5/6"
+  },
+  {
+    "id": "NUMBER_SENSE-006",
+    "topic": "Number Sense",
+    "difficultyBand": "easy",
+    "question": "Which number represents the opposite of 6 3/8?",
+    "answer": "-6 3/8"
+  },
+  {
+    "id": "NUMBER_SENSE-007",
+    "topic": "Number Sense",
+    "difficultyBand": "easy",
+    "question": "Which number represents the opposite of -7 1/2?",
+    "answer": "7 1/2"
+  },
+  {
+    "id": "NUMBER_SENSE-008",
+    "topic": "Number Sense",
+    "difficultyBand": "easy",
+    "question": "Which number represents the opposite of 5 4/5?",
+    "answer": "-5 4/5"
+  },
+  {
+    "id": "NUMBER_SENSE-009",
+    "topic": "Number Sense",
+    "difficultyBand": "easy",
+    "question": "Which number represents the opposite of -2 7/10?",
+    "answer": "2 7/10"
+  },
+  {
+    "id": "NUMBER_SENSE-010",
+    "topic": "Number Sense",
+    "difficultyBand": "easy",
+    "question": "Which number represents the opposite of 8 1/3?",
+    "answer": "-8 1/3"
+  },
+  {
+    "id": "NUMBER_SENSE-011",
+    "topic": "Number Sense",
+    "difficultyBand": "easy",
+    "question": "Which number represents the opposite of -9 5/12?",
+    "answer": "9 5/12"
+  },
+  {
+    "id": "NUMBER_SENSE-012",
+    "topic": "Number Sense",
+    "difficultyBand": "easy",
+    "question": "What is the least common multiple of 12 and 30?",
+    "answer": "60"
+  },
+  {
+    "id": "NUMBER_SENSE-013",
+    "topic": "Number Sense",
+    "difficultyBand": "easy",
+    "question": "What is the least common multiple of 9 and 12?",
+    "answer": "36"
+  },
+  {
+    "id": "NUMBER_SENSE-014",
+    "topic": "Number Sense",
+    "difficultyBand": "easy",
+    "question": "What is the least common multiple of 6 and 8?",
+    "answer": "24"
+  },
+  {
+    "id": "NUMBER_SENSE-015",
+    "topic": "Number Sense",
+    "difficultyBand": "easy",
+    "question": "What is the least common multiple of 10 and 15?",
+    "answer": "30"
+  },
+  {
+    "id": "NUMBER_SENSE-016",
+    "topic": "Number Sense",
+    "difficultyBand": "easy",
+    "question": "What is the least common multiple of 4 and 14?",
+    "answer": "28"
+  },
+  {
+    "id": "NUMBER_SENSE-017",
+    "topic": "Number Sense",
+    "difficultyBand": "easy",
+    "question": "What is the least common multiple of 7 and 21?",
+    "answer": "21"
+  },
+  {
+    "id": "NUMBER_SENSE-018",
+    "topic": "Number Sense",
+    "difficultyBand": "easy",
+    "question": "What is the least common multiple of 5 and 12?",
+    "answer": "60"
+  },
+  {
+    "id": "NUMBER_SENSE-019",
+    "topic": "Number Sense",
+    "difficultyBand": "easy",
+    "question": "What is the least common multiple of 8 and 18?",
+    "answer": "72"
+  },
+  {
+    "id": "NUMBER_SENSE-020",
+    "topic": "Number Sense",
+    "difficultyBand": "easy",
+    "question": "What is the least common multiple of 11 and 22?",
+    "answer": "22"
+  },
+  {
+    "id": "NUMBER_SENSE-021",
+    "topic": "Number Sense",
+    "difficultyBand": "easy",
+    "question": "What is the least common multiple of 9 and 15?",
+    "answer": "45"
+  },
+  {
+    "id": "NUMBER_SENSE-022",
+    "topic": "Number Sense",
+    "difficultyBand": "easy",
+    "question": "What is the least common multiple of 16 and 20?",
+    "answer": "80"
+  },
+  {
+    "id": "NUMBER_SENSE-023",
+    "topic": "Number Sense",
+    "difficultyBand": "easy",
+    "question": "What is the greatest common factor of 9 and 12?",
+    "answer": "3"
+  },
+  {
+    "id": "NUMBER_SENSE-024",
+    "topic": "Number Sense",
+    "difficultyBand": "easy",
+    "question": "What is the greatest common factor of 15 and 25?",
+    "answer": "5"
+  },
+  {
+    "id": "NUMBER_SENSE-025",
+    "topic": "Number Sense",
+    "difficultyBand": "easy",
+    "question": "What is the greatest common factor of 18 and 24?",
+    "answer": "6"
+  },
+  {
+    "id": "NUMBER_SENSE-026",
+    "topic": "Number Sense",
+    "difficultyBand": "easy",
+    "question": "What is the greatest common factor of 20 and 30?",
+    "answer": "10"
+  },
+  {
+    "id": "NUMBER_SENSE-027",
+    "topic": "Number Sense",
+    "difficultyBand": "easy",
+    "question": "What is the greatest common factor of 16 and 28?",
+    "answer": "4"
+  },
+  {
+    "id": "NUMBER_SENSE-028",
+    "topic": "Number Sense",
+    "difficultyBand": "easy",
+    "question": "What is the greatest common factor of 21 and 35?",
+    "answer": "7"
+  },
+  {
+    "id": "NUMBER_SENSE-029",
+    "topic": "Number Sense",
+    "difficultyBand": "easy",
+    "question": "What is the greatest common factor of 27 and 36?",
+    "answer": "9"
+  },
+  {
+    "id": "NUMBER_SENSE-030",
+    "topic": "Number Sense",
+    "difficultyBand": "easy",
+    "question": "What is the greatest common factor of 14 and 49?",
+    "answer": "7"
+  },
+  {
+    "id": "NUMBER_SENSE-031",
+    "topic": "Number Sense",
+    "difficultyBand": "easy",
+    "question": "What is the greatest common factor of 32 and 40?",
+    "answer": "8"
+  },
+  {
+    "id": "NUMBER_SENSE-032",
+    "topic": "Number Sense",
+    "difficultyBand": "easy",
+    "question": "What is the greatest common factor of 45 and 60?",
+    "answer": "15"
+  },
+  {
+    "id": "NUMBER_SENSE-033",
+    "topic": "Number Sense",
+    "difficultyBand": "easy",
+    "question": "What is the greatest common factor of 48 and 72?",
+    "answer": "24"
+  },
+  {
+    "id": "NUMBER_SENSE-034",
+    "topic": "Number Sense",
+    "difficultyBand": "medium",
+    "question": "What ordered pair represents the location of a point that is the reflection of the point (-4, 6) over the x-axis?",
+    "answer": "(-4, -6)"
+  },
+  {
+    "id": "NUMBER_SENSE-035",
+    "topic": "Number Sense",
+    "difficultyBand": "medium",
+    "question": "What ordered pair represents the location of a point that is the reflection of the point (3, -7) over the y-axis?",
+    "answer": "(-3, -7)"
+  },
+  {
+    "id": "NUMBER_SENSE-036",
+    "topic": "Number Sense",
+    "difficultyBand": "medium",
+    "question": "What ordered pair represents the location of a point that is the reflection of the point (5, 2) over the x-axis?",
+    "answer": "(5, -2)"
+  },
+  {
+    "id": "NUMBER_SENSE-037",
+    "topic": "Number Sense",
+    "difficultyBand": "medium",
+    "question": "What ordered pair represents the location of a point that is the reflection of the point (-8, -3) over the y-axis?",
+    "answer": "(8, -3)"
+  },
+  {
+    "id": "NUMBER_SENSE-038",
+    "topic": "Number Sense",
+    "difficultyBand": "medium",
+    "question": "What ordered pair represents the location of a point that is the reflection of the point (6, -4) over the x-axis?",
+    "answer": "(6, 4)"
+  },
+  {
+    "id": "NUMBER_SENSE-039",
+    "topic": "Number Sense",
+    "difficultyBand": "medium",
+    "question": "What ordered pair represents the location of a point that is the reflection of the point (-2, 9) over the y-axis?",
+    "answer": "(2, 9)"
+  },
+  {
+    "id": "NUMBER_SENSE-040",
+    "topic": "Number Sense",
+    "difficultyBand": "medium",
+    "question": "What ordered pair represents the location of a point that is the reflection of the point (7, 5) over the x-axis?",
+    "answer": "(7, -5)"
+  },
+  {
+    "id": "NUMBER_SENSE-041",
+    "topic": "Number Sense",
+    "difficultyBand": "medium",
+    "question": "What ordered pair represents the location of a point that is the reflection of the point (-6, -1) over the y-axis?",
+    "answer": "(6, -1)"
+  },
+  {
+    "id": "NUMBER_SENSE-042",
+    "topic": "Number Sense",
+    "difficultyBand": "medium",
+    "question": "What ordered pair represents the location of a point that is the reflection of the point (1, -8) over the x-axis?",
+    "answer": "(1, 8)"
+  },
+  {
+    "id": "NUMBER_SENSE-043",
+    "topic": "Number Sense",
+    "difficultyBand": "medium",
+    "question": "What ordered pair represents the location of a point that is the reflection of the point (9, 4) over the y-axis?",
+    "answer": "(-9, 4)"
+  },
+  {
+    "id": "NUMBER_SENSE-044",
+    "topic": "Number Sense",
+    "difficultyBand": "medium",
+    "question": "What ordered pair represents the location of a point that is the reflection of the point (-5, 7) over the x-axis?",
+    "answer": "(-5, -7)"
+  },
+  {
+    "id": "NUMBER_SENSE-045",
+    "topic": "Number Sense",
+    "difficultyBand": "medium",
+    "question": "What are the GCF and LCM of 48 and 72?",
+    "answer": "GCF = 24, LCM = 144"
+  },
+  {
+    "id": "NUMBER_SENSE-046",
+    "topic": "Number Sense",
+    "difficultyBand": "medium",
+    "question": "What are the GCF and LCM of 18 and 24?",
+    "answer": "GCF = 6, LCM = 72"
+  },
+  {
+    "id": "NUMBER_SENSE-047",
+    "topic": "Number Sense",
+    "difficultyBand": "medium",
+    "question": "What are the GCF and LCM of 12 and 20?",
+    "answer": "GCF = 4, LCM = 60"
+  },
+  {
+    "id": "NUMBER_SENSE-048",
+    "topic": "Number Sense",
+    "difficultyBand": "medium",
+    "question": "What are the GCF and LCM of 15 and 25?",
+    "answer": "GCF = 5, LCM = 75"
+  },
+  {
+    "id": "NUMBER_SENSE-049",
+    "topic": "Number Sense",
+    "difficultyBand": "medium",
+    "question": "What are the GCF and LCM of 16 and 28?",
+    "answer": "GCF = 4, LCM = 112"
+  },
+  {
+    "id": "NUMBER_SENSE-050",
+    "topic": "Number Sense",
+    "difficultyBand": "medium",
+    "question": "What are the GCF and LCM of 21 and 35?",
+    "answer": "GCF = 7, LCM = 105"
+  },
+  {
+    "id": "NUMBER_SENSE-051",
+    "topic": "Number Sense",
+    "difficultyBand": "medium",
+    "question": "What are the GCF and LCM of 30 and 45?",
+    "answer": "GCF = 15, LCM = 90"
+  },
+  {
+    "id": "NUMBER_SENSE-052",
+    "topic": "Number Sense",
+    "difficultyBand": "medium",
+    "question": "What are the GCF and LCM of 14 and 22?",
+    "answer": "GCF = 2, LCM = 154"
+  },
+  {
+    "id": "NUMBER_SENSE-053",
+    "topic": "Number Sense",
+    "difficultyBand": "medium",
+    "question": "What are the GCF and LCM of 27 and 36?",
+    "answer": "GCF = 9, LCM = 108"
+  },
+  {
+    "id": "NUMBER_SENSE-054",
+    "topic": "Number Sense",
+    "difficultyBand": "medium",
+    "question": "What are the GCF and LCM of 32 and 40?",
+    "answer": "GCF = 8, LCM = 160"
+  },
+  {
+    "id": "NUMBER_SENSE-055",
+    "topic": "Number Sense",
+    "difficultyBand": "medium",
+    "question": "What are the GCF and LCM of 42 and 56?",
+    "answer": "GCF = 14, LCM = 168"
+  },
+  {
+    "id": "NUMBER_SENSE-056",
+    "topic": "Number Sense",
+    "difficultyBand": "medium",
+    "question": "What is the final value? |25| - |-9|",
+    "answer": "16"
+  },
+  {
+    "id": "NUMBER_SENSE-057",
+    "topic": "Number Sense",
+    "difficultyBand": "medium",
+    "question": "What is the final value? |-8| + |3|",
+    "answer": "11"
+  },
+  {
+    "id": "NUMBER_SENSE-058",
+    "topic": "Number Sense",
+    "difficultyBand": "medium",
+    "question": "What is the final value? |-5| + |-7|",
+    "answer": "12"
+  },
+  {
+    "id": "NUMBER_SENSE-059",
+    "topic": "Number Sense",
+    "difficultyBand": "medium",
+    "question": "What is the final value? |12| - |-4|",
+    "answer": "8"
+  },
+  {
+    "id": "NUMBER_SENSE-060",
+    "topic": "Number Sense",
+    "difficultyBand": "medium",
+    "question": "What is the final value? |-15| + |6|",
+    "answer": "21"
+  },
+  {
+    "id": "NUMBER_SENSE-061",
+    "topic": "Number Sense",
+    "difficultyBand": "medium",
+    "question": "What is the final value? |-9| - |2|",
+    "answer": "7"
+  },
+  {
+    "id": "NUMBER_SENSE-062",
+    "topic": "Number Sense",
+    "difficultyBand": "medium",
+    "question": "What is the final value? |10| + |-11|",
+    "answer": "21"
+  },
+  {
+    "id": "NUMBER_SENSE-063",
+    "topic": "Number Sense",
+    "difficultyBand": "medium",
+    "question": "What is the final value? |-18| - |-5|",
+    "answer": "13"
+  },
+  {
+    "id": "NUMBER_SENSE-064",
+    "topic": "Number Sense",
+    "difficultyBand": "medium",
+    "question": "What is the final value? |7| + |-13|",
+    "answer": "20"
+  },
+  {
+    "id": "NUMBER_SENSE-065",
+    "topic": "Number Sense",
+    "difficultyBand": "medium",
+    "question": "What is the final value? |-20| - |8|",
+    "answer": "12"
+  },
+  {
+    "id": "NUMBER_SENSE-066",
+    "topic": "Number Sense",
+    "difficultyBand": "medium",
+    "question": "What is the final value? |-4| + |-16|",
+    "answer": "20"
+  },
+  {
+    "id": "NUMBER_SENSE-067",
+    "topic": "Number Sense",
+    "difficultyBand": "hard",
+    "question": "At a bus station, buses begin their routes at 9:10 am. Bus A leaves every 36 minutes. Bus B leaves every 48 minutes. What is the next time Bus A and Bus B will leave the bus station at the same time?",
+    "answer": "11:34 am"
+  },
+  {
+    "id": "NUMBER_SENSE-068",
+    "topic": "Number Sense",
+    "difficultyBand": "hard",
+    "question": "At a bus station, buses begin their routes at 6:00 am. Bus A leaves every 75 minutes. Bus B leaves every 15 minutes. What is the next time Bus A and Bus B will leave the bus station at the same time?",
+    "answer": "7:15 am"
+  },
+  {
+    "id": "NUMBER_SENSE-069",
+    "topic": "Number Sense",
+    "difficultyBand": "hard",
+    "question": "At a bus station, buses begin their routes at 7:30 am. Bus A leaves every 40 minutes. Bus B leaves every 24 minutes. What is the next time Bus A and Bus B will leave the bus station at the same time?",
+    "answer": "9:30 am"
+  },
+  {
+    "id": "NUMBER_SENSE-070",
+    "topic": "Number Sense",
+    "difficultyBand": "hard",
+    "question": "At a bus station, buses begin their routes at 8:15 am. Bus A leaves every 45 minutes. Bus B leaves every 30 minutes. What is the next time Bus A and Bus B will leave the bus station at the same time?",
+    "answer": "9:45 am"
+  },
+  {
+    "id": "NUMBER_SENSE-071",
+    "topic": "Number Sense",
+    "difficultyBand": "hard",
+    "question": "At a bus station, buses begin their routes at 5:45 am. Bus A leaves every 50 minutes. Bus B leaves every 20 minutes. What is the next time Bus A and Bus B will leave the bus station at the same time?",
+    "answer": "7:25 am"
+  },
+  {
+    "id": "NUMBER_SENSE-072",
+    "topic": "Number Sense",
+    "difficultyBand": "hard",
+    "question": "Two whole numbers have a least common multiple of 18. Each number is less than or equal to 12. The greatest common factor of the two numbers is 3. What are the two numbers?",
+    "answer": "6 and 9"
+  },
+  {
+    "id": "NUMBER_SENSE-073",
+    "topic": "Number Sense",
+    "difficultyBand": "hard",
+    "question": "Two whole numbers have a least common multiple of 60. Each number is less than or equal to 12. The greatest common factor of the two numbers is 2. What are the two numbers?",
+    "answer": "10 and 12"
+  },
+  {
+    "id": "NUMBER_SENSE-074",
+    "topic": "Number Sense",
+    "difficultyBand": "hard",
+    "question": "Two whole numbers have a least common multiple of 36. Each number is less than or equal to 12. The greatest common factor of the two numbers is 3. What are the two numbers?",
+    "answer": "9 and 12"
+  },
+  {
+    "id": "NUMBER_SENSE-075",
+    "topic": "Number Sense",
+    "difficultyBand": "hard",
+    "question": "Two whole numbers have a least common multiple of 24. Each number is less than or equal to 12. The greatest common factor of the two numbers is 4. What are the two numbers?",
+    "answer": "8 and 12"
+  },
+  {
+    "id": "NUMBER_SENSE-076",
+    "topic": "Number Sense",
+    "difficultyBand": "hard",
+    "question": "Two whole numbers have a least common multiple of 20. Each number is less than or equal to 12. The greatest common factor of the two numbers is 2. What are the two numbers?",
+    "answer": "4 and 10"
+  },
+  {
+    "id": "NUMBER_SENSE-077",
+    "topic": "Number Sense",
+    "difficultyBand": "hard",
+    "question": "Order from least to greatest: -7/8, 1/10, 2/5",
+    "answer": "-7/8, 1/10, 2/5"
+  },
+  {
+    "id": "NUMBER_SENSE-078",
+    "topic": "Number Sense",
+    "difficultyBand": "hard",
+    "question": "Order from least to greatest: -7/9, -10/11, 1/2",
+    "answer": "-10/11, -7/9, 1/2"
+  },
+  {
+    "id": "NUMBER_SENSE-079",
+    "topic": "Number Sense",
+    "difficultyBand": "hard",
+    "question": "Order from least to greatest: -3/5, 2/3, 1/4",
+    "answer": "-3/5, 1/4, 2/3"
+  },
+  {
+    "id": "NUMBER_SENSE-080",
+    "topic": "Number Sense",
+    "difficultyBand": "hard",
+    "question": "Order from least to greatest: -5/6, -2/3, 3/4",
+    "answer": "-5/6, -2/3, 3/4"
+  },
+  {
+    "id": "NUMBER_SENSE-081",
+    "topic": "Number Sense",
+    "difficultyBand": "hard",
+    "question": "Order from least to greatest: 1/8, -4/7, 3/5",
+    "answer": "-4/7, 1/8, 3/5"
+  },
+  {
+    "id": "NUMBER_SENSE-082",
+    "topic": "Number Sense",
+    "difficultyBand": "hard",
+    "question": "Order from least to greatest: -9/10, -1/2, 2/9",
+    "answer": "-9/10, -1/2, 2/9"
+  },
+  {
+    "id": "NUMBER_SENSE-083",
+    "topic": "Number Sense",
+    "difficultyBand": "hard",
+    "question": "Order from least to greatest: 5/12, -3/4, 2/3",
+    "answer": "-3/4, 5/12, 2/3"
+  },
+  {
+    "id": "NUMBER_SENSE-084",
+    "topic": "Number Sense",
+    "difficultyBand": "hard",
+    "question": "Order from least to greatest: -1/6, 7/8, 3/4",
+    "answer": "-1/6, 3/4, 7/8"
+  },
+  {
+    "id": "NUMBER_SENSE-085",
+    "topic": "Number Sense",
+    "difficultyBand": "hard",
+    "question": "Order from least to greatest: -11/12, -5/8, 1/3",
+    "answer": "-11/12, -5/8, 1/3"
+  },
+  {
+    "id": "NUMBER_SENSE-086",
+    "topic": "Number Sense",
+    "difficultyBand": "hard",
+    "question": "Order from least to greatest: 4/9, -2/5, 5/6",
+    "answer": "-2/5, 4/9, 5/6"
+  },
+  {
+    "id": "NUMBER_SENSE-087",
+    "topic": "Number Sense",
+    "difficultyBand": "hard",
+    "question": "What is the perimeter of a rectangle with 4 vertices of (0, -2), (9, -2), (9, 4), and (0, 4)?",
+    "answer": "30 units"
+  },
+  {
+    "id": "NUMBER_SENSE-088",
+    "topic": "Number Sense",
+    "difficultyBand": "hard",
+    "question": "What is the perimeter of a rectangle with 4 vertices of (1, 2), (7, 2), (7, 5), and (1, 5)?",
+    "answer": "18 units"
+  },
+  {
+    "id": "NUMBER_SENSE-089",
+    "topic": "Number Sense",
+    "difficultyBand": "hard",
+    "question": "What is the perimeter of a rectangle with 4 vertices of (-3, 1), (2, 1), (2, 4), and (-3, 4)?",
+    "answer": "16 units"
+  },
+  {
+    "id": "NUMBER_SENSE-090",
+    "topic": "Number Sense",
+    "difficultyBand": "hard",
+    "question": "What is the perimeter of a rectangle with 4 vertices of (0, 0), (8, 0), (8, 6), and (0, 6)?",
+    "answer": "28 units"
+  },
+  {
+    "id": "NUMBER_SENSE-091",
+    "topic": "Number Sense",
+    "difficultyBand": "hard",
+    "question": "What is the perimeter of a rectangle with 4 vertices of (-5, -2), (1, -2), (1, 3), and (-5, 3)?",
+    "answer": "22 units"
+  },
+  {
+    "id": "NUMBER_SENSE-092",
+    "topic": "Number Sense",
+    "difficultyBand": "hard",
+    "question": "What is the perimeter of a rectangle with 4 vertices of (2, -4), (9, -4), (9, -1), and (2, -1)?",
+    "answer": "20 units"
+  },
+  {
+    "id": "NUMBER_SENSE-093",
+    "topic": "Number Sense",
+    "difficultyBand": "hard",
+    "question": "What is the perimeter of a rectangle with 4 vertices of (-6, 5), (-1, 5), (-1, 9), and (-6, 9)?",
+    "answer": "18 units"
+  },
+  {
+    "id": "NUMBER_SENSE-094",
+    "topic": "Number Sense",
+    "difficultyBand": "hard",
+    "question": "What is the perimeter of a rectangle with 4 vertices of (3, 3), (10, 3), (10, 8), and (3, 8)?",
+    "answer": "24 units"
+  },
+  {
+    "id": "NUMBER_SENSE-095",
+    "topic": "Number Sense",
+    "difficultyBand": "hard",
+    "question": "What is the perimeter of a rectangle with 4 vertices of (-2, -6), (4, -6), (4, -2), and (-2, -2)?",
+    "answer": "20 units"
+  },
+  {
+    "id": "NUMBER_SENSE-096",
+    "topic": "Number Sense",
+    "difficultyBand": "hard",
+    "question": "What is the perimeter of a rectangle with 4 vertices of (5, -3), (11, -3), (11, 2), and (5, 2)?",
+    "answer": "22 units"
+  },
+  {
+    "id": "NUMBER_SENSE-097",
+    "topic": "Number Sense",
+    "difficultyBand": "hard",
+    "question": "What is the perimeter of a rectangle with 4 vertices of (-8, -1), (-2, -1), (-2, 7), and (-8, 7)?",
+    "answer": "28 units"
+  },
+  {
+    "id": "NUMBER_SENSE-098",
+    "topic": "Number Sense",
+    "difficultyBand": "hard",
+    "question": "What is the perimeter of a rectangle with 4 vertices of (1, -5), (6, -5), (6, 1), and (1, 1)?",
+    "answer": "22 units"
+  },
+  {
+    "id": "NUMBER_SENSE-099",
+    "topic": "Number Sense",
+    "difficultyBand": "hard",
+    "question": "What is the perimeter of a rectangle with 4 vertices of (-4, 2), (4, 2), (4, 6), and (-4, 6)?",
+    "answer": "24 units"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-001",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "What is the value of the expression shown below when q = 5? q^2 - 3q",
+    "answer": "10"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-002",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "What is the value of the expression shown below when x = 3? x^2 + 5",
+    "answer": "14"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-003",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "What is the value of the expression shown below when m = 6? 4m - 7",
+    "answer": "17"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-004",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "What is the value of the expression shown below when a = 5? (a + 3) × 2",
+    "answer": "16"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-005",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "What is the value of the expression shown below when n = 4? n^3 - 10",
+    "answer": "54"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-006",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "What is the value of the expression shown below when p = 8? 48 ÷ p + 6",
+    "answer": "12"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-007",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "What is the value of the expression shown below when y = 2? (y + 6)^2",
+    "answer": "64"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-008",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "What is the value of the expression shown below when k = 10? k ÷ 2 + 9",
+    "answer": "14"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-009",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "What is the value of the expression shown below when b = 7? 3(b - 2)",
+    "answer": "15"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-010",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "What is the value of the expression shown below when r = 3? r^4 + 1",
+    "answer": "82"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-011",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "What is the value of the expression shown below when t = 12? (t - 4) ÷ 2",
+    "answer": "4"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-012",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "What is the coefficient in the expression x^2?",
+    "answer": "1"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-013",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "What is the coefficient in the expression 2x^3?",
+    "answer": "2"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-014",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "What is the constant term in the expression 2x + 7?",
+    "answer": "7"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-015",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "What is the coefficient in the expression 5y?",
+    "answer": "5"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-016",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "What is the constant term in the expression 4a - 9?",
+    "answer": "-9"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-017",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "What is the coefficient in the expression -3m^2?",
+    "answer": "-3"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-018",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "What is the constant term in the expression 8n + 12?",
+    "answer": "12"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-019",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "What is the coefficient in the expression 7p^4?",
+    "answer": "7"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-020",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "What is the constant term in the expression 6x - 15?",
+    "answer": "-15"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-021",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "What is the coefficient in the expression -10r?",
+    "answer": "-10"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-022",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "What is the constant term in the expression 3b^2 + 5b + 11?",
+    "answer": "11"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-023",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "What expression represents the product of a number q and 11?",
+    "answer": "11q"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-024",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "What expression represents 3 fewer than a number p?",
+    "answer": "p - 3"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-025",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "What expression represents 7 less than a number x?",
+    "answer": "x - 7"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-026",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "What expression represents 5 more than a number n?",
+    "answer": "n + 5"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-027",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "What expression represents 4 times a number y?",
+    "answer": "4y"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-028",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "What expression represents triple a number a?",
+    "answer": "3a"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-029",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "What expression represents double a number b?",
+    "answer": "2b"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-030",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "What expression represents half a number m?",
+    "answer": "m/2"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-031",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "What expression represents a number k divided by 6?",
+    "answer": "k/6"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-032",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "What expression represents the sum of a number r and 9?",
+    "answer": "r + 9"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-033",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "easy",
+    "question": "What expression represents the difference of a number t and 8?",
+    "answer": "t - 8"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-034",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "What is the value of the expression shown below when j = 5 and a = 10? 4j + a ÷ 2",
+    "answer": "25"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-035",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "What is the value of the expression shown below when x = 3 and y = 4? 2x + 5y",
+    "answer": "26"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-036",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "What is the value of the expression shown below when a = 6 and b = 2? 4a - 3b",
+    "answer": "18"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-037",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "What is the value of the expression shown below when m = 5 and n = 7? mn + 8",
+    "answer": "43"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-038",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "What is the value of the expression shown below when p = 12 and q = 3? p ÷ q + 9",
+    "answer": "13"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-039",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "What is the value of the expression shown below when r = 4 and s = 2? r^2 + 6s",
+    "answer": "28"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-040",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "What is the value of the expression shown below when c = 10 and d = 5? 3c - d^2",
+    "answer": "5"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-041",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "What is the value of the expression shown below when u = 8 and v = 2? (u + v) × 3",
+    "answer": "30"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-042",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "What is the value of the expression shown below when h = 9 and k = 4? 2h + k^2",
+    "answer": "34"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-043",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "What is the value of the expression shown below when e = 7 and f = 3? 5e - 2f",
+    "answer": "29"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-044",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "What is the value of the expression shown below when w = 6 and z = 2? w^2 ÷ z",
+    "answer": "18"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-045",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Which expression is equivalent to 3(7k - 4)?",
+    "answer": "21k - 12"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-046",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Which expression is equivalent to 5(4x + 3)?",
+    "answer": "20x + 15"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-047",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Which expression is equivalent to 3(2y + 7)?",
+    "answer": "6y + 21"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-048",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Which expression is equivalent to 4(5a - 2)?",
+    "answer": "20a - 8"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-049",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Which expression is equivalent to 6(3m + 4)?",
+    "answer": "18m + 24"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-050",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Which expression is equivalent to 2(8n - 5)?",
+    "answer": "16n - 10"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-051",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Which expression is equivalent to 7(x + 6)?",
+    "answer": "7x + 42"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-052",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Which expression is equivalent to 9(2p - 1)?",
+    "answer": "18p - 9"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-053",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Which expression is equivalent to 5(3q + 8)?",
+    "answer": "15q + 40"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-054",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Which expression is equivalent to 4(6r - 3)?",
+    "answer": "24r - 12"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-055",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Which expression is equivalent to 8(2b + 5)?",
+    "answer": "16b + 40"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-056",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Evaluate: 2^3",
+    "answer": "8"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-057",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Evaluate: 3^3",
+    "answer": "27"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-058",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Evaluate: 4^3",
+    "answer": "64"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-059",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Evaluate: 2^5",
+    "answer": "32"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-060",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Evaluate: 5^2",
+    "answer": "25"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-061",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Evaluate: 6^2",
+    "answer": "36"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-062",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Evaluate: 10^3",
+    "answer": "1000"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-063",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Evaluate: 3^4",
+    "answer": "81"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-064",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Evaluate: 4^2",
+    "answer": "16"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-065",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Evaluate: 2^6",
+    "answer": "64"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-066",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "medium",
+    "question": "Evaluate: 5^3",
+    "answer": "125"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-067",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "What expression represents 5 more than the square of a number k?",
+    "answer": "k^2 + 5"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-068",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "What expression represents 5 less than the product of a number q and 11?",
+    "answer": "11q - 5"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-069",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "What expression represents 10 more than the square of 3?",
+    "answer": "3^2 + 10"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-070",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "What expression represents 7 more than the product of a number x and 4?",
+    "answer": "4x + 7"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-071",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "What expression represents 6 less than the square of a number n?",
+    "answer": "n^2 - 6"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-072",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "What expression represents 8 more than double a number y?",
+    "answer": "2y + 8"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-073",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "What expression represents 9 fewer than triple a number m?",
+    "answer": "3m - 9"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-074",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "What expression represents 12 more than the quotient of a number p and 4?",
+    "answer": "p/4 + 12"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-075",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "What expression represents 3 less than the sum of a number x and y?",
+    "answer": "x + y - 3"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-076",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "What expression represents 2 more than half a number b?",
+    "answer": "b/2 + 2"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-077",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "What expression represents 4 fewer than the difference of a number r and p?",
+    "answer": "r - p - 4"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-078",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "Which expression is equivalent to 3(7k - 4) + 6k?",
+    "answer": "27k - 12"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-079",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "Which expression is equivalent to 5(4x + 3) + 3x?",
+    "answer": "23x + 15"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-080",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "Which expression is equivalent to 3(2y + 7) + 4y?",
+    "answer": "10y + 21"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-081",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "Which expression is equivalent to 4(5a - 2) + 6a?",
+    "answer": "26a - 8"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-082",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "Which expression is equivalent to 6(3m + 4) - 2m?",
+    "answer": "16m + 24"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-083",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "Which expression is equivalent to 2(8n - 5) + 9n?",
+    "answer": "25n - 10"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-084",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "Which expression is equivalent to 7(x + 6) + 5x?",
+    "answer": "12x + 42"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-085",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "Which expression is equivalent to 9(2p - 1) - 4p?",
+    "answer": "14p - 9"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-086",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "Which expression is equivalent to 5(3q + 8) + 2q?",
+    "answer": "17q + 40"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-087",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "Which expression is equivalent to 4(6r - 3) - 7r?",
+    "answer": "17r - 12"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-088",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "Which expression is equivalent to 8(2b + 5) + 10b?",
+    "answer": "26b + 40"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-089",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "The simple interest, I, can be determined using the formula I = prt. What is the simple interest when p = 500, r = 0.06, and t = 2?",
+    "answer": "60"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-090",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "The volume, V, of any cube with a side length, s, can be determined using the formula V = s^3. What is the volume, in cubic centimeters, of a cube with a side length of 2 centimeters?",
+    "answer": "8 cubic centimeters"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-091",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "The area, A, of a triangle can be determined using the formula A = 1/2bh. What is the area of a triangle with a base of 10 inches and a height of 6 inches?",
+    "answer": "30 square inches"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-092",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "The area, A, of a rectangle can be determined using the formula A = lw. What is the area of a rectangle with a length of 12 feet and a width of 5 feet?",
+    "answer": "60 square feet"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-093",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "The perimeter, P, of a rectangle can be determined using the formula P = 2(l + w). What is the perimeter of a rectangle with a length of 8 meters and a width of 3 meters?",
+    "answer": "22 meters"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-094",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "The temperature in Celsius, C, can be determined using the formula C = 5/9(F - 32). What is the temperature in Celsius when F = 68?",
+    "answer": "20°C"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-095",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "The distance, d, can be determined using the formula d = rt. What is the distance traveled when r=45 miles per hour and t=3 hours?",
+    "answer": "135 miles"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-096",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "The volume, V, of a rectangular prism can be determined using the formula V = lwh. What is the volume of a rectangular prism with a length of 4 cm, width of 3 cm, and height of 5 cm?",
+    "answer": "60 cubic centimeters"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-097",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "The area, A, of a square can be determined using the formula A = s^2. What is the area of a square with a side length of 9 inches?",
+    "answer": "81 square inches"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-098",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "The circumference, C, of a circle can be determined using the formula C = 2πr. Using π = 22/7, what is the circumference of a circle with a radius of 7 cm?",
+    "answer": "44 cm"
+  },
+  {
+    "id": "ALGEBRAIC_EXPRESSIONS-099",
+    "topic": "Algebraic Expressions",
+    "difficultyBand": "hard",
+    "question": "The area, A, of a trapezoid can be determined using the formula A = 1/2(b1 + b2)h. What is the area of a trapezoid with bases of 8 meters and 12 meters and a height of 5 meters?",
+    "answer": "50 square meters"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-001",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "easy",
+    "question": "Solve: s - 10 = 15",
+    "answer": "s = 25"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-002",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "easy",
+    "question": "Solve: x + 8 = 10",
+    "answer": "x = 2"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-003",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "easy",
+    "question": "Solve: y - 5 = 12",
+    "answer": "y = 17"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-004",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "easy",
+    "question": "Solve: 4a = 20",
+    "answer": "a = 5"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-005",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "easy",
+    "question": "Solve: m ÷ 3 = 6",
+    "answer": "m = 18"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-006",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "easy",
+    "question": "Solve: n + 7 = 15",
+    "answer": "n = 8"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-007",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "easy",
+    "question": "Solve: p - 9 = 4",
+    "answer": "p = 13"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-008",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "easy",
+    "question": "Solve: 6k = 42",
+    "answer": "k = 7"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-009",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "easy",
+    "question": "Solve: b ÷ 5 = 9",
+    "answer": "b = 45"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-010",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "easy",
+    "question": "Solve: r + 12 = 30",
+    "answer": "r = 18"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-011",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "easy",
+    "question": "Solve: t - 14 = 8",
+    "answer": "t = 22"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-012",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "easy",
+    "question": "Solve: 9q = 63",
+    "answer": "q = 7"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-013",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "easy",
+    "question": "Solve: c ÷ 4 = 11",
+    "answer": "c = 44"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-014",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "easy",
+    "question": "Solve: d + 3 = 19",
+    "answer": "d = 16"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-015",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "easy",
+    "question": "Solve: w - 6 = 25",
+    "answer": "w = 31"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-016",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "easy",
+    "question": "Solve: 8z = 56",
+    "answer": "z = 7"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-017",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "easy",
+    "question": "Solve: h ÷ 7 = 6",
+    "answer": "h = 42"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-018",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "easy",
+    "question": "What inequality symbol is for \"less than\"?",
+    "answer": "<"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-019",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "easy",
+    "question": "What inequality symbol is for \"at least\"?",
+    "answer": "≥"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-020",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "easy",
+    "question": "What inequality symbol is for \"below\"?",
+    "answer": "<"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-021",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "easy",
+    "question": "What inequality symbol is for \"above\"?",
+    "answer": ">"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-022",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "easy",
+    "question": "What inequality symbol is for \"fewer than\"?",
+    "answer": "<"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-023",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "easy",
+    "question": "What inequality symbol is for \"under\"?",
+    "answer": "<"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-024",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "easy",
+    "question": "What inequality symbol is for \"at most\"?",
+    "answer": "≤"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-025",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "easy",
+    "question": "What inequality symbol is for \"maximum\"?",
+    "answer": "≤"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-026",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "easy",
+    "question": "What inequality symbol is for \"no more than\"?",
+    "answer": "≤"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-027",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "easy",
+    "question": "What inequality symbol is for \"greatest\"?",
+    "answer": "≤"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-028",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "easy",
+    "question": "What inequality symbol is for \"no less than\"?",
+    "answer": "≥"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-029",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "easy",
+    "question": "What inequality symbol is for \"minimum\"?",
+    "answer": "≥"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-030",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "easy",
+    "question": "What inequality symbol is for \"up to\"?",
+    "answer": "≤"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-031",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "easy",
+    "question": "What inequality symbol is for \"on or above\"?",
+    "answer": "≥"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-032",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "easy",
+    "question": "What inequality symbol is for \"on or below\"?",
+    "answer": "≤"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-033",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "easy",
+    "question": "What inequality symbol is for \"more than\"?",
+    "answer": ">"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-034",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "medium",
+    "question": "Which value of q makes the inequality q + 3 < 11 true? Choose between 7, 8, or 10.",
+    "answer": "7"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-035",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "medium",
+    "question": "Which value of b makes the inequality 3b > 12 true? Choose between 2, 4, or 6.",
+    "answer": "6"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-036",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "medium",
+    "question": "Which value of x makes the inequality 5x < 30 true? Choose between 4, 6, or 8.",
+    "answer": "4"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-037",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "medium",
+    "question": "Which value of n makes the inequality n + 7 > 15 true? Choose between 5, 8, or 10.",
+    "answer": "10"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-038",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "medium",
+    "question": "Which value of y makes the inequality y - 4 < 6 true? Choose between 8, 10, or 12.",
+    "answer": "8"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-039",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "medium",
+    "question": "Which value of m makes the inequality 2m ≥ 18 true? Choose between 7, 8, or 9.",
+    "answer": "9"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-040",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "medium",
+    "question": "Which value of a makes the inequality a ÷ 3 ≤ 4 true? Choose between 9, 15, or 18.",
+    "answer": "9"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-041",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "medium",
+    "question": "Which value of p makes the inequality p + 5 ≥ 14 true? Choose between 6, 8, or 9.",
+    "answer": "9"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-042",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "medium",
+    "question": "Which value of k makes the inequality 4k > 20 true? Choose between 3, 5, or 7.",
+    "answer": "7"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-043",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "medium",
+    "question": "Which value of r makes the inequality r - 6 ≤ 10 true? Choose between 16, 18, or 20.",
+    "answer": "16"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-044",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "medium",
+    "question": "Which value of t makes the inequality t ÷ 2 > 6 true? Choose between 10, 12, or 14.",
+    "answer": "14"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-045",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "medium",
+    "question": "A skating rink charges $6.00 per hour to rent skates. How many hours of skate rental would cost $39.00?",
+    "answer": "6.5 hours"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-046",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "medium",
+    "question": "A tutoring company charges $25.00 per hour to tutor a student. How many hours of tutoring would cost $62.50?",
+    "answer": "2.5 hours"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-047",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "medium",
+    "question": "A music teacher charges $30.00 per hour for piano lessons. How many hours of lessons would cost $105.00?",
+    "answer": "3.5 hours"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-048",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "medium",
+    "question": "A babysitter charges $18.00 per hour. How many hours of babysitting would cost $81.00?",
+    "answer": "4.5 hours"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-049",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "medium",
+    "question": "A gym trainer charges $40.00 per hour. How many hours of training would cost $100.00?",
+    "answer": "2.5 hours"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-050",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "medium",
+    "question": "A parking garage charges $12.00 per hour. How many hours of parking would cost $66.00?",
+    "answer": "5.5 hours"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-051",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "medium",
+    "question": "A swimming coach charges $35.00 per hour. How many hours of coaching would cost $87.50?",
+    "answer": "2.5 hours"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-052",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "medium",
+    "question": "A bike rental shop charges $8.00 per hour. How many hours of bike rental would cost $36.00?",
+    "answer": "4.5 hours"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-053",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "medium",
+    "question": "A math tutor charges $22.00 per hour. How many hours of tutoring would cost $77.00?",
+    "answer": "3.5 hours"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-054",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "medium",
+    "question": "A dance instructor charges $45.00 per hour. How many hours of lessons would cost $112.50?",
+    "answer": "2.5 hours"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-055",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "medium",
+    "question": "A computer repair service charges $50.00 per hour. How many hours of repair would cost $175.00?",
+    "answer": "3.5 hours"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-056",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "medium",
+    "question": "Which expression is in the blank? 8t + 2t + ___ = 13t",
+    "answer": "3t"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-057",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "medium",
+    "question": "Which expression is in the blank? x + 2x + ___ = 5x",
+    "answer": "2x"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-058",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "medium",
+    "question": "Which expression is in the blank? 3y + ___ = 7y",
+    "answer": "4y"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-059",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "medium",
+    "question": "Which expression is in the blank? 4a + 2a + ___ = 9a",
+    "answer": "3a"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-060",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "medium",
+    "question": "Which expression is in the blank? 5m + ___ = 8m",
+    "answer": "3m"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-061",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "medium",
+    "question": "Which expression is in the blank? 2n + 6n + ___ = 10n",
+    "answer": "2n"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-062",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "medium",
+    "question": "Which expression is in the blank? 7p + ___ = 12p",
+    "answer": "5p"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-063",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "medium",
+    "question": "Which expression is in the blank? q + 4q + ___ = 11q",
+    "answer": "6q"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-064",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "medium",
+    "question": "Which expression is in the blank? 9r + ___ = 15r",
+    "answer": "6r"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-065",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "medium",
+    "question": "Which expression is in the blank? 3b + 5b + ___ = 14b",
+    "answer": "6b"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-066",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "medium",
+    "question": "Which expression is in the blank? 6k + ___ = 10k",
+    "answer": "4k"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-067",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "hard",
+    "question": "A printer prints 18 pages each minute. Which equation can be used to determine the number of pages, p, printed in any number of minutes, m? Start with p =",
+    "answer": "p = 18m"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-068",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "hard",
+    "question": "A bakery owner bakes 450 cookies each day. Which equation can be used to determine the number of cookies, c, the owner bakes for any number of days, d? Start with c =",
+    "answer": "c = 450d"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-069",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "hard",
+    "question": "A store gives 5 bonus points to a student’s score. Which equation can be used to determine the final score, f, from the original score, s? Start with f =",
+    "answer": "f = s + 5"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-070",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "hard",
+    "question": "A tank has 80 gallons of water. Some gallons, g, are used. Which equation can be used to determine the gallons left, l? Start with l =",
+    "answer": "l = 80 - g"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-071",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "hard",
+    "question": "A teacher has 120 pencils and divides them equally among students. Which equation can be used to determine the number of pencils, p, each student gets for any number of students, s? Start with p =",
+    "answer": "p = 120 ÷ s"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-072",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "hard",
+    "question": "A car travels 60 miles each hour. Which equation can be used to determine the number of miles, m, the car travels for any number of hours, h? Start with m =",
+    "answer": "m = 60h"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-073",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "hard",
+    "question": "A student earns 10 extra credit points. Which equation can be used to determine the new score, n, from the original score, s? Start with n =",
+    "answer": "n = s + 10"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-074",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "hard",
+    "question": "A class starts with 30 students. Some students, a, are absent. Which equation can be used to determine the number of students present, p? Start with p =",
+    "answer": "p = 30 - a"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-075",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "hard",
+    "question": "A baker has 240 cupcakes and packs them equally into boxes. Which equation can be used to determine the number of cupcakes, c, in each box for any number of boxes, b? Start with c =",
+    "answer": "c = 240 ÷ b"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-076",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "hard",
+    "question": "A movie theater sells tickets for $12 each. Which equation can be used to determine the total cost, c, for any number of tickets, t? Start with c =",
+    "answer": "c = 12t"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-077",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "hard",
+    "question": "A runner runs 3 extra laps after practice. Which equation can be used to determine the total laps, t, from the practice laps, p? Start with t =",
+    "answer": "t = p + 3"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-078",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "hard",
+    "question": "A rope is 50 meters long. A piece, x, is cut off. Which equation can be used to determine the length left, l? Start with l =",
+    "answer": "l = 50 - x"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-079",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "hard",
+    "question": "A school has 360 books to split equally among classrooms. Which equation can be used to determine the number of books, b, each classroom gets for any number of classrooms, c? Start with b =",
+    "answer": "b = 360 ÷ c"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-080",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "hard",
+    "question": "A worker earns $20 each hour. Which equation can be used to determine the total amount earned, e, for any number of hours, h? Start with e =",
+    "answer": "e = 20h"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-081",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "hard",
+    "question": "A game gives a player 7 bonus coins. Which equation can be used to determine the total coins, t, from the starting coins, s? Start with t =",
+    "answer": "t = s + 7"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-082",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "hard",
+    "question": "A candle is 18 inches tall. It burns x inches. Which equation can be used to determine the height left, h? Start with h =",
+    "answer": "h = 18 - x"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-083",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "hard",
+    "question": "A bag has 96 markers divided equally into groups. Which equation can be used to determine the number of markers, m, in each group for any number of groups, g? Start with m =",
+    "answer": "m = 96 ÷ g"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-084",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "hard",
+    "question": "Which value of w makes the inequality 15.5 - 1.5w ≥ 8.0 true? Choose between 5, 6, or 7.",
+    "answer": "5"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-085",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "hard",
+    "question": "Which value of q makes the inequality 0.5q + 4.3 < 8.3 true? Choose between 7, 8, or 10.",
+    "answer": "7"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-086",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "hard",
+    "question": "Which value of x makes the inequality 0.4x + 2.1 > 5.3 true? Choose between 6, 8, or 10.",
+    "answer": "10"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-087",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "hard",
+    "question": "Which value of n makes the inequality 1.2n - 3.5 ≤ 2.5 true? Choose between 5, 6, or 7.",
+    "answer": "5"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-088",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "hard",
+    "question": "Which value of m makes the inequality 0.75m + 1.5 ≥ 7.5 true? Choose between 6, 7, or 8.",
+    "answer": "8"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-089",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "hard",
+    "question": "Which value of a makes the inequality 2.5a - 1.2 < 11.3 true? Choose between 4, 5, or 6.",
+    "answer": "4"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-090",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "hard",
+    "question": "Which value of p makes the inequality p ÷ 2 + 3.6 > 9.6 true? Choose between 10, 12, or 14.",
+    "answer": "14"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-091",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "hard",
+    "question": "Which value of r makes the inequality 0.6r + 5.4 ≤ 9.0 true? Choose between 6, 7, or 8.",
+    "answer": "6"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-092",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "hard",
+    "question": "Which value of t makes the inequality 1.5t - 2.0 ≥ 10.0 true? Choose between 6, 7, or 8.",
+    "answer": "8"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-093",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "hard",
+    "question": "Which value of b makes the inequality 0.25b + 6.5 < 8.0 true? Choose between 5, 6, or 7.",
+    "answer": "5"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-094",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "hard",
+    "question": "Which value of y makes the inequality 3.2y - 4.4 > 8.4 true? Choose between 3, 4, or 5.",
+    "answer": "5"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-095",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "hard",
+    "question": "Which value of k makes the inequality 0.8k + 1.1 ≤ 5.9 true? Choose between 6, 7, or 8.",
+    "answer": "6"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-096",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "hard",
+    "question": "Which value of s makes the inequality 1.25s + 2.5 ≥ 7.5 true? Choose between 2, 3, or 4.",
+    "answer": "4"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-097",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "hard",
+    "question": "Which value of z makes the inequality 4.5 - 0.5z > 1.5 true? Choose between 5, 6, or 7.",
+    "answer": "5"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-098",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "hard",
+    "question": "Which value of d makes the inequality 12.6 - 0.9d ≤ 7.2 true? Choose between 4, 5, or 6.",
+    "answer": "6"
+  },
+  {
+    "id": "EQUATIONS_AND_INEQUALITIES-099",
+    "topic": "Equations and Inequalities",
+    "difficultyBand": "hard",
+    "question": "Which value of v makes the inequality v ÷ 4 + 2.2 < 4.7 true? Choose between 9, 10, or 11.",
+    "answer": "9"
+  },
+  {
+    "id": "RATIOS_AND_RATES-001",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "easy",
+    "question": "A recipe uses 8 cups of noodles and 10 cups of sauce. Write the ratio of cups of sauce to cups of noodles.",
+    "answer": "10:8"
+  },
+  {
+    "id": "RATIOS_AND_RATES-002",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "easy",
+    "question": "A recipe requires a ratio of 2 cups of sesame seeds to 5 cups of pretzels. Write the ratio of cups of pretzels to cups of sesame seeds.",
+    "answer": "5:2"
+  },
+  {
+    "id": "RATIOS_AND_RATES-003",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "easy",
+    "question": "A trail mix recipe uses 3 cups of almonds and 7 cups of raisins. Write the ratio of cups of almonds to total cups of mix.",
+    "answer": "3:10"
+  },
+  {
+    "id": "RATIOS_AND_RATES-004",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "easy",
+    "question": "A punch recipe uses 4 cups of orange juice and 9 cups of water. Write the ratio of cups of water to cups of orange juice.",
+    "answer": "9:4"
+  },
+  {
+    "id": "RATIOS_AND_RATES-005",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "easy",
+    "question": "A snack mix uses 5 cups of cereal and 8 cups of peanuts. Write the ratio of cups of peanuts to total cups of snack mix.",
+    "answer": "8:13"
+  },
+  {
+    "id": "RATIOS_AND_RATES-006",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "easy",
+    "question": "A smoothie recipe uses 6 cups of yogurt and 2 cups of berries. Write the ratio of cups of berries to cups of yogurt.",
+    "answer": "2:6"
+  },
+  {
+    "id": "RATIOS_AND_RATES-007",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "easy",
+    "question": "A soup recipe uses 3 cups of carrots and 5 cups of potatoes. Write the ratio of cups of carrots to total cups of vegetables.",
+    "answer": "3:8"
+  },
+  {
+    "id": "RATIOS_AND_RATES-008",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "easy",
+    "question": "A cookie recipe uses 7 cups of flour and 4 cups of sugar. Write the ratio of cups of sugar to cups of flour.",
+    "answer": "4:7"
+  },
+  {
+    "id": "RATIOS_AND_RATES-009",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "easy",
+    "question": "A salad recipe uses 6 cups of lettuce and 9 cups of tomatoes. Write the ratio of cups of tomatoes to total cups of salad.",
+    "answer": "9:15"
+  },
+  {
+    "id": "RATIOS_AND_RATES-010",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "easy",
+    "question": "A drink mix uses 2 cups of syrup and 11 cups of water. Write the ratio of cups of syrup to total cups of drink mix.",
+    "answer": "2:13"
+  },
+  {
+    "id": "RATIOS_AND_RATES-011",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "easy",
+    "question": "A granola recipe uses 8 cups of oats and 3 cups of honey. Write the ratio of cups of honey to cups of oats.",
+    "answer": "3:8"
+  },
+  {
+    "id": "RATIOS_AND_RATES-012",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "easy",
+    "question": "A fruit salad uses 5 cups of apples and 6 cups of grapes. Write the ratio of cups of grapes to total cups of fruit salad.",
+    "answer": "6:11"
+  },
+  {
+    "id": "RATIOS_AND_RATES-013",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "easy",
+    "question": "A recipe uses 10 cups of rice and 4 cups of beans. Write the ratio of cups of beans to cups of rice.",
+    "answer": "4:10"
+  },
+  {
+    "id": "RATIOS_AND_RATES-014",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "easy",
+    "question": "A lemonade recipe uses 3 cups of lemon juice and 12 cups of water. Write the ratio of cups of water to total cups of lemonade.",
+    "answer": "12:15"
+  },
+  {
+    "id": "RATIOS_AND_RATES-015",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "easy",
+    "question": "A salsa recipe uses 7 cups of tomatoes and 2 cups of onions. Write the ratio of cups of onions to total cups of salsa.",
+    "answer": "2:9"
+  },
+  {
+    "id": "RATIOS_AND_RATES-016",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "easy",
+    "question": "A cake recipe uses 9 cups of flour and 5 cups of milk. Write the ratio of cups of milk to cups of flour.",
+    "answer": "5:9"
+  },
+  {
+    "id": "RATIOS_AND_RATES-017",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "easy",
+    "question": "A cereal mix uses 4 cups of granola and 6 cups of dried fruit. Write the ratio of cups of granola to total cups of cereal mix.",
+    "answer": "4:10"
+  },
+  {
+    "id": "RATIOS_AND_RATES-018",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "easy",
+    "question": "A bike rider travels 12 miles in 3 hours. How many miles can the bike rider travel in 8 hours at the same ratio?",
+    "answer": "32 miles"
+  },
+  {
+    "id": "RATIOS_AND_RATES-019",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "easy",
+    "question": "A paint mix requires a ratio of 2 liters of blue paint to 5 liters of white paint. How many liters of blue paint do we need for 15 liters of white paint at the same ratio?",
+    "answer": "6 liters"
+  },
+  {
+    "id": "RATIOS_AND_RATES-020",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "easy",
+    "question": "A garden mix requires a ratio of 3 scoops of fertilizer to 8 gallons of water. How many scoops of fertilizer do we need for 24 gallons of water at the same ratio?",
+    "answer": "9 scoops"
+  },
+  {
+    "id": "RATIOS_AND_RATES-021",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "easy",
+    "question": "A map uses a ratio of 1 inch to 20 miles. How many inches on the map represent 100 miles at the same ratio?",
+    "answer": "5 inches"
+  },
+  {
+    "id": "RATIOS_AND_RATES-022",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "easy",
+    "question": "A car travels 70 miles for every 2 gallons of gas. How many miles can the car travel with 8 gallons of gas at the same ratio?",
+    "answer": "280 miles"
+  },
+  {
+    "id": "RATIOS_AND_RATES-023",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "easy",
+    "question": "A concrete mix requires a ratio of 5 bags of cement to 12 bags of sand. How many bags of cement do we need for 36 bags of sand at the same ratio?",
+    "answer": "15 bags"
+  },
+  {
+    "id": "RATIOS_AND_RATES-024",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "easy",
+    "question": "A necklace design uses a ratio of 7 red beads to 3 blue beads. How many red beads are needed for 12 blue beads at the same ratio?",
+    "answer": "28 red beads"
+  },
+  {
+    "id": "RATIOS_AND_RATES-025",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "easy",
+    "question": "A lemonade recipe requires a ratio of 4 lemons to 6 cups of water. How many lemons are needed for 18 cups of water at the same ratio?",
+    "answer": "12 lemons"
+  },
+  {
+    "id": "RATIOS_AND_RATES-026",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "easy",
+    "question": "A printer prints 8 pages every 2 minutes. How many pages can the printer print in 7 minutes at the same ratio?",
+    "answer": "28 pages"
+  },
+  {
+    "id": "RATIOS_AND_RATES-027",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "easy",
+    "question": "A salad dressing uses a ratio of 3 tablespoons of oil to 2 tablespoons of vinegar. How many tablespoons of oil are needed for 10 tablespoons of vinegar at the same ratio?",
+    "answer": "15 tablespoons"
+  },
+  {
+    "id": "RATIOS_AND_RATES-028",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "easy",
+    "question": "A classroom setup uses a ratio of 5 chairs to 2 tables. How many chairs are needed for 8 tables at the same ratio?",
+    "answer": "20 chairs"
+  },
+  {
+    "id": "RATIOS_AND_RATES-029",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "easy",
+    "question": "A garden has a ratio of 6 tomato plants to 4 pepper plants. How many tomato plants are needed for 12 pepper plants at the same ratio?",
+    "answer": "18 tomato plants"
+  },
+  {
+    "id": "RATIOS_AND_RATES-030",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "easy",
+    "question": "A school supply pack has a ratio of 9 stickers to 3 notebooks. How many stickers are needed for 15 notebooks at the same ratio?",
+    "answer": "45 stickers"
+  },
+  {
+    "id": "RATIOS_AND_RATES-031",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "easy",
+    "question": "A sewing project uses a ratio of 4 yards of fabric to 6 pillows. How many yards of fabric are needed for 18 pillows at the same ratio?",
+    "answer": "12 yards"
+  },
+  {
+    "id": "RATIOS_AND_RATES-032",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "easy",
+    "question": "A smoothie shop uses a ratio of 5 bananas to 3 cups of milk. How many bananas are needed for 12 cups of milk at the same ratio?",
+    "answer": "20 bananas"
+  },
+  {
+    "id": "RATIOS_AND_RATES-033",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "easy",
+    "question": "A swimming pool uses a ratio of 2 gallons of cleaner to 15 gallons of water. How many gallons of cleaner are needed for 45 gallons of water at the same ratio?",
+    "answer": "6 gallons"
+  },
+  {
+    "id": "RATIOS_AND_RATES-034",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "medium",
+    "question": "A pool cleaner mix requires a ratio of 2 gallons of cleaner to 15 gallons of water. How many gallons of cleaner are needed for 48 gallons of water at the same ratio?",
+    "answer": "6.4 gallons"
+  },
+  {
+    "id": "RATIOS_AND_RATES-035",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "medium",
+    "question": "A paint mix requires a ratio of 2 liters of blue paint to 5 liters of white paint. How many liters of blue paint do we need for 12.5 liters of white paint at the same ratio?",
+    "answer": "5 liters"
+  },
+  {
+    "id": "RATIOS_AND_RATES-036",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "medium",
+    "question": "A garden mix requires a ratio of 3 scoops of fertilizer to 8 gallons of water. How many scoops of fertilizer do we need for 12 gallons of water at the same ratio?",
+    "answer": "4.5 scoops"
+  },
+  {
+    "id": "RATIOS_AND_RATES-037",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "medium",
+    "question": "A map uses a ratio of 1 inch to 20 miles. How many inches on the map represent 50 miles at the same ratio?",
+    "answer": "2.5 inches"
+  },
+  {
+    "id": "RATIOS_AND_RATES-038",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "medium",
+    "question": "A car travels 70 miles for every 2 gallons of gas. How many miles can the car travel with 5 gallons of gas at the same ratio?",
+    "answer": "175 miles"
+  },
+  {
+    "id": "RATIOS_AND_RATES-039",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "medium",
+    "question": "A concrete mix requires a ratio of 5 bags of cement to 12 bags of sand. How many bags of cement do we need for 14.4 bags of sand at the same ratio?",
+    "answer": "6 bags"
+  },
+  {
+    "id": "RATIOS_AND_RATES-040",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "medium",
+    "question": "A drink mix requires a ratio of 4 cups of syrup to 6 cups of water. How many cups of syrup do we need for 15 cups of water at the same ratio?",
+    "answer": "10 cups"
+  },
+  {
+    "id": "RATIOS_AND_RATES-041",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "medium",
+    "question": "A printer prints 8 pages every 2 minutes. How many pages can the printer print in 6.4 minutes at the same ratio?",
+    "answer": "25.6 pages"
+  },
+  {
+    "id": "RATIOS_AND_RATES-042",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "medium",
+    "question": "A salad dressing uses a ratio of 3 tablespoons of oil to 2 tablespoons of vinegar. How many tablespoons of oil are needed for 5 tablespoons of vinegar at the same ratio?",
+    "answer": "7.5 tablespoons"
+  },
+  {
+    "id": "RATIOS_AND_RATES-043",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "medium",
+    "question": "A sewing project uses a ratio of 4 yards of fabric to 6 pillows. How many yards of fabric are needed for 9 pillows at the same ratio?",
+    "answer": "6 yards"
+  },
+  {
+    "id": "RATIOS_AND_RATES-044",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "medium",
+    "question": "A smoothie recipe uses a ratio of 5 bananas to 3 cups of milk. How many bananas are needed for 6.6 cups of milk at the same ratio?",
+    "answer": "11 bananas"
+  },
+  {
+    "id": "RATIOS_AND_RATES-045",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "medium",
+    "question": "A box of 70 colored pencils costs $22.40. What is the unit price of a colored pencil?",
+    "answer": "$0.32 per colored pencil"
+  },
+  {
+    "id": "RATIOS_AND_RATES-046",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "medium",
+    "question": "Ms. Wilson is buying packages of pencils. Each package costs $11.52 and contains 96 pencils. What is the unit price of a pencil?",
+    "answer": "$0.12 per pencil"
+  },
+  {
+    "id": "RATIOS_AND_RATES-047",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "medium",
+    "question": "Mr. Lee is buying packages of erasers. Each package costs $14.40 and contains 120 erasers. What is the unit price of an eraser?",
+    "answer": "$0.12 per eraser"
+  },
+  {
+    "id": "RATIOS_AND_RATES-048",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "medium",
+    "question": "A teacher buys a box of markers for $18.75. The box contains 75 markers. What is the unit price of a marker?",
+    "answer": "$0.25 per marker"
+  },
+  {
+    "id": "RATIOS_AND_RATES-049",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "medium",
+    "question": "A store sells 60 folders for $13.20. What is the unit price of a folder?",
+    "answer": "$0.22 per folder"
+  },
+  {
+    "id": "RATIOS_AND_RATES-050",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "medium",
+    "question": "A pack of 30 notebooks costs $16.50. What is the unit price of a notebook?",
+    "answer": "$0.55 per notebook"
+  },
+  {
+    "id": "RATIOS_AND_RATES-051",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "medium",
+    "question": "A box of 64 crayons costs $7.68. What is the unit price of a crayon?",
+    "answer": "$0.12 per crayon"
+  },
+  {
+    "id": "RATIOS_AND_RATES-052",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "medium",
+    "question": "A package of 84 pens costs $21.84. What is the unit price of a pen?",
+    "answer": "$0.26 per pen"
+  },
+  {
+    "id": "RATIOS_AND_RATES-053",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "medium",
+    "question": "A bag of 42 glue sticks costs $10.50. What is the unit price of a glue stick?",
+    "answer": "$0.25 per glue stick"
+  },
+  {
+    "id": "RATIOS_AND_RATES-054",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "medium",
+    "question": "A classroom pack has 48 rulers and costs $15.36. What is the unit price of a ruler?",
+    "answer": "$0.32 per ruler"
+  },
+  {
+    "id": "RATIOS_AND_RATES-055",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "medium",
+    "question": "A pack of 27 highlighters costs $6.75. What is the unit price of a highlighter?",
+    "answer": "$0.25 per highlighter"
+  },
+  {
+    "id": "RATIOS_AND_RATES-056",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "medium",
+    "question": "How many gallons are in 16 quarts?",
+    "answer": "4 gallons"
+  },
+  {
+    "id": "RATIOS_AND_RATES-057",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "medium",
+    "question": "How many pints are in 4 quarts?",
+    "answer": "8 pints"
+  },
+  {
+    "id": "RATIOS_AND_RATES-058",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "medium",
+    "question": "How many feet are in 6 yards?",
+    "answer": "18 feet"
+  },
+  {
+    "id": "RATIOS_AND_RATES-059",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "medium",
+    "question": "How many inches are in 5 feet?",
+    "answer": "60 inches"
+  },
+  {
+    "id": "RATIOS_AND_RATES-060",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "medium",
+    "question": "How many ounces are in 3 pounds?",
+    "answer": "48 ounces"
+  },
+  {
+    "id": "RATIOS_AND_RATES-061",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "medium",
+    "question": "How many quarts are in 2 gallons?",
+    "answer": "8 quarts"
+  },
+  {
+    "id": "RATIOS_AND_RATES-062",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "medium",
+    "question": "How many fluid ounces are in 7 cups?",
+    "answer": "56 fluid ounces"
+  },
+  {
+    "id": "RATIOS_AND_RATES-063",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "medium",
+    "question": "How many yards are in 15 feet?",
+    "answer": "5 yards"
+  },
+  {
+    "id": "RATIOS_AND_RATES-064",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "medium",
+    "question": "How many feet are in 48 inches?",
+    "answer": "4 feet"
+  },
+  {
+    "id": "RATIOS_AND_RATES-065",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "medium",
+    "question": "How many pounds are in 80 ounces?",
+    "answer": "5 pounds"
+  },
+  {
+    "id": "RATIOS_AND_RATES-066",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "medium",
+    "question": "How many cups are in 3 pints?",
+    "answer": "6 cups"
+  },
+  {
+    "id": "RATIOS_AND_RATES-067",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "hard",
+    "question": "How many quarts are in 160 fluid ounces?",
+    "answer": "5 quarts"
+  },
+  {
+    "id": "RATIOS_AND_RATES-068",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "hard",
+    "question": "How many inches are in 3 yards?",
+    "answer": "108 inches"
+  },
+  {
+    "id": "RATIOS_AND_RATES-069",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "hard",
+    "question": "How many yards are in 180 inches?",
+    "answer": "5 yards"
+  },
+  {
+    "id": "RATIOS_AND_RATES-070",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "hard",
+    "question": "How many pints are in 4 gallons?",
+    "answer": "32 pints"
+  },
+  {
+    "id": "RATIOS_AND_RATES-071",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "hard",
+    "question": "How many gallons are in 40 pints?",
+    "answer": "5 gallons"
+  },
+  {
+    "id": "RATIOS_AND_RATES-072",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "hard",
+    "question": "How many cups are in 6 quarts?",
+    "answer": "24 cups"
+  },
+  {
+    "id": "RATIOS_AND_RATES-073",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "hard",
+    "question": "How many quarts are in 32 cups?",
+    "answer": "8 quarts"
+  },
+  {
+    "id": "RATIOS_AND_RATES-074",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "hard",
+    "question": "How many fluid ounces are in 5 pints?",
+    "answer": "80 fluid ounces"
+  },
+  {
+    "id": "RATIOS_AND_RATES-075",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "hard",
+    "question": "How many pints are in 96 fluid ounces?",
+    "answer": "6 pints"
+  },
+  {
+    "id": "RATIOS_AND_RATES-076",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "hard",
+    "question": "How many cups are in 3 gallons?",
+    "answer": "48 cups"
+  },
+  {
+    "id": "RATIOS_AND_RATES-077",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "hard",
+    "question": "How many fluid ounces are in 7 quarts?",
+    "answer": "224 fluid ounces"
+  },
+  {
+    "id": "RATIOS_AND_RATES-078",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "hard",
+    "question": "Ben drives to two games. He drives for 6 minutes at an average speed of 70 miles per hour to reach the first game. He then drives for 24 minutes at an average speed of 55 miles per hour to reach the second game. During the 30 minutes of driving time, how many total miles does Ben drive?",
+    "answer": "29 miles"
+  },
+  {
+    "id": "RATIOS_AND_RATES-079",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "hard",
+    "question": "Ryan delivers flowers to two customers. He drives for 12 minutes at an average speed of 40 miles per hour to reach his first customer. He then drives for 15 minutes at an average speed of 50 miles per hour to reach his second customer. During the 27 minutes of driving time, how many total miles does Ryan drive?",
+    "answer": "20.5 miles"
+  },
+  {
+    "id": "RATIOS_AND_RATES-080",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "hard",
+    "question": "Mia drives to two stores. She drives for 10 minutes at an average speed of 30 miles per hour to reach the first store. She then drives for 20 minutes at an average speed of 45 miles per hour to reach the second store. During the 30 minutes of driving time, how many total miles does Mia drive?",
+    "answer": "20 miles"
+  },
+  {
+    "id": "RATIOS_AND_RATES-081",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "hard",
+    "question": "Carlos delivers food to two houses. He drives for 18 minutes at an average speed of 50 miles per hour to reach the first house. He then drives for 12 minutes at an average speed of 40 miles per hour to reach the second house. During the 30 minutes of driving time, how many total miles does Carlos drive?",
+    "answer": "23 miles"
+  },
+  {
+    "id": "RATIOS_AND_RATES-082",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "hard",
+    "question": "Emma visits two friends. She drives for 15 minutes at an average speed of 60 miles per hour to reach the first friend. She then drives for 10 minutes at an average speed of 48 miles per hour to reach the second friend. During the 25 minutes of driving time, how many total miles does Emma drive?",
+    "answer": "23 miles"
+  },
+  {
+    "id": "RATIOS_AND_RATES-083",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "hard",
+    "question": "Noah delivers packages to two offices. He drives for 20 minutes at an average speed of 36 miles per hour to reach the first office. He then drives for 25 minutes at an average speed of 48 miles per hour to reach the second office. During the 45 minutes of driving time, how many total miles does Noah drive?",
+    "answer": "32 miles"
+  },
+  {
+    "id": "RATIOS_AND_RATES-084",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "hard",
+    "question": "Lily drives to two parks. She drives for 9 minutes at an average speed of 40 miles per hour to reach the first park. She then drives for 18 minutes at an average speed of 30 miles per hour to reach the second park. During the 27 minutes of driving time, how many total miles does Lily drive?",
+    "answer": "15 miles"
+  },
+  {
+    "id": "RATIOS_AND_RATES-085",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "hard",
+    "question": "Jacob makes two deliveries. He drives for 24 minutes at an average speed of 45 miles per hour to reach the first delivery. He then drives for 16 minutes at an average speed of 60 miles per hour to reach the second delivery. During the 40 minutes of driving time, how many total miles does Jacob drive?",
+    "answer": "34 miles"
+  },
+  {
+    "id": "RATIOS_AND_RATES-086",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "hard",
+    "question": "Sophia drives to two appointments. She drives for 30 minutes at an average speed of 50 miles per hour to reach the first appointment. She then drives for 12 minutes at an average speed of 35 miles per hour to reach the second appointment. During the 42 minutes of driving time, how many total miles does Sophia drive?",
+    "answer": "32 miles"
+  },
+  {
+    "id": "RATIOS_AND_RATES-087",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "hard",
+    "question": "Ethan drives to two schools. He drives for 14 minutes at an average speed of 60 miles per hour to reach the first school. He then drives for 21 minutes at an average speed of 40 miles per hour to reach the second school. During the 35 minutes of driving time, how many total miles does Ethan drive?",
+    "answer": "28 miles"
+  },
+  {
+    "id": "RATIOS_AND_RATES-088",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "hard",
+    "question": "Ava delivers supplies to two classrooms. She drives for 25 minutes at an average speed of 24 miles per hour to reach the first classroom building. She then drives for 15 minutes at an average speed of 32 miles per hour to reach the second classroom building. During the 40 minutes of driving time, how many total miles does Ava drive?",
+    "answer": "18 miles"
+  },
+  {
+    "id": "RATIOS_AND_RATES-089",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "hard",
+    "question": "There are red balloons and blue balloons at a party. The ratio of red balloons to blue balloons is 4 : 6. There are 14 more blue balloons than red balloons. How many red balloons are at the party?",
+    "answer": "28 red balloons"
+  },
+  {
+    "id": "RATIOS_AND_RATES-090",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "hard",
+    "question": "There are red tiles and blue tiles in a box. The ratio of red tiles to blue tiles is 3 : 5. There are 12 more blue tiles than red tiles in the box. How many red tiles are in the box?",
+    "answer": "18 red tiles"
+  },
+  {
+    "id": "RATIOS_AND_RATES-091",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "hard",
+    "question": "There are boys and girls in a club. The ratio of boys to girls is 4 : 7. There are 15 more girls than boys in the club. How many boys are in the club?",
+    "answer": "20 boys"
+  },
+  {
+    "id": "RATIOS_AND_RATES-092",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "hard",
+    "question": "There are cats and dogs at an animal shelter. The ratio of cats to dogs is 2 : 9. There are 35 more dogs than cats. How many cats are at the shelter?",
+    "answer": "10 cats"
+  },
+  {
+    "id": "RATIOS_AND_RATES-093",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "hard",
+    "question": "There are green marbles and yellow marbles in a bag. The ratio of green marbles to yellow marbles is 5 : 8. There are 21 more yellow marbles than green marbles. How many green marbles are in the bag?",
+    "answer": "35 green marbles"
+  },
+  {
+    "id": "RATIOS_AND_RATES-094",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "hard",
+    "question": "There are small boxes and large boxes in a storage room. The ratio of small boxes to large boxes is 7 : 11. There are 24 more large boxes than small boxes. How many small boxes are in the storage room?",
+    "answer": "42 small boxes"
+  },
+  {
+    "id": "RATIOS_AND_RATES-095",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "hard",
+    "question": "There are pencils and pens in a drawer. The ratio of pencils to pens is 6 : 10. There are 16 more pens than pencils. How many pencils are in the drawer?",
+    "answer": "24 pencils"
+  },
+  {
+    "id": "RATIOS_AND_RATES-096",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "hard",
+    "question": "There are roses and tulips in a garden. The ratio of roses to tulips is 3 : 4. There are 9 more tulips than roses. How many roses are in the garden?",
+    "answer": "27 roses"
+  },
+  {
+    "id": "RATIOS_AND_RATES-097",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "hard",
+    "question": "There are apples and oranges in a basket. The ratio of apples to oranges is 5 : 9. There are 28 more oranges than apples. How many apples are in the basket?",
+    "answer": "35 apples"
+  },
+  {
+    "id": "RATIOS_AND_RATES-098",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "hard",
+    "question": "There are trucks and cars in a parking lot. The ratio of trucks to cars is 2 : 5. There are 18 more cars than trucks. How many trucks are in the parking lot?",
+    "answer": "12 trucks"
+  },
+  {
+    "id": "RATIOS_AND_RATES-099",
+    "topic": "Ratios and Rates",
+    "difficultyBand": "hard",
+    "question": "There are black beads and white beads in a box. The ratio of black beads to white beads is 8 : 13. There are 30 more white beads than black beads. How many black beads are in the box?",
+    "answer": "48 black beads"
+  },
+  {
+    "id": "PERCENT-001",
+    "topic": "Percent",
+    "difficultyBand": "easy",
+    "question": "What is 40% of 35?",
+    "answer": "14"
+  },
+  {
+    "id": "PERCENT-002",
+    "topic": "Percent",
+    "difficultyBand": "easy",
+    "question": "What is 30% of 9?",
+    "answer": "2.7"
+  },
+  {
+    "id": "PERCENT-003",
+    "topic": "Percent",
+    "difficultyBand": "easy",
+    "question": "What percent of 10 is 4?",
+    "answer": "40%"
+  },
+  {
+    "id": "PERCENT-004",
+    "topic": "Percent",
+    "difficultyBand": "easy",
+    "question": "What is 25% of 80?",
+    "answer": "20"
+  },
+  {
+    "id": "PERCENT-005",
+    "topic": "Percent",
+    "difficultyBand": "easy",
+    "question": "What percent of 50 is 15?",
+    "answer": "30%"
+  },
+  {
+    "id": "PERCENT-006",
+    "topic": "Percent",
+    "difficultyBand": "easy",
+    "question": "What is 10% of 36?",
+    "answer": "3.6"
+  },
+  {
+    "id": "PERCENT-007",
+    "topic": "Percent",
+    "difficultyBand": "easy",
+    "question": "What percent of 20 is 5?",
+    "answer": "25%"
+  },
+  {
+    "id": "PERCENT-008",
+    "topic": "Percent",
+    "difficultyBand": "easy",
+    "question": "What is 50% of 14?",
+    "answer": "7"
+  },
+  {
+    "id": "PERCENT-009",
+    "topic": "Percent",
+    "difficultyBand": "easy",
+    "question": "What percent of 40 is 8?",
+    "answer": "20%"
+  },
+  {
+    "id": "PERCENT-010",
+    "topic": "Percent",
+    "difficultyBand": "easy",
+    "question": "What is 75% of 12?",
+    "answer": "9"
+  },
+  {
+    "id": "PERCENT-011",
+    "topic": "Percent",
+    "difficultyBand": "easy",
+    "question": "What percent of 30 is 6?",
+    "answer": "20%"
+  },
+  {
+    "id": "PERCENT-012",
+    "topic": "Percent",
+    "difficultyBand": "easy",
+    "question": "What is 20% of 45?",
+    "answer": "9"
+  },
+  {
+    "id": "PERCENT-013",
+    "topic": "Percent",
+    "difficultyBand": "easy",
+    "question": "What percent of 25 is 10?",
+    "answer": "40%"
+  },
+  {
+    "id": "PERCENT-014",
+    "topic": "Percent",
+    "difficultyBand": "easy",
+    "question": "What is 60% of 15?",
+    "answer": "9"
+  },
+  {
+    "id": "PERCENT-015",
+    "topic": "Percent",
+    "difficultyBand": "easy",
+    "question": "What percent of 80 is 20?",
+    "answer": "25%"
+  },
+  {
+    "id": "PERCENT-016",
+    "topic": "Percent",
+    "difficultyBand": "easy",
+    "question": "What is 15% of 60?",
+    "answer": "9"
+  },
+  {
+    "id": "PERCENT-017",
+    "topic": "Percent",
+    "difficultyBand": "easy",
+    "question": "What percent of 12 is 3?",
+    "answer": "25%"
+  },
+  {
+    "id": "PERCENT-018",
+    "topic": "Percent",
+    "difficultyBand": "easy",
+    "question": "Convert 25% to a decimal.",
+    "answer": "0.25"
+  },
+  {
+    "id": "PERCENT-019",
+    "topic": "Percent",
+    "difficultyBand": "easy",
+    "question": "Convert 3/4 to a percent.",
+    "answer": "75%"
+  },
+  {
+    "id": "PERCENT-020",
+    "topic": "Percent",
+    "difficultyBand": "easy",
+    "question": "Convert 1/5 to a percent.",
+    "answer": "20%"
+  },
+  {
+    "id": "PERCENT-021",
+    "topic": "Percent",
+    "difficultyBand": "easy",
+    "question": "Convert 7/10 to a percent.",
+    "answer": "70%"
+  },
+  {
+    "id": "PERCENT-022",
+    "topic": "Percent",
+    "difficultyBand": "easy",
+    "question": "Convert 9/20 to a percent.",
+    "answer": "45%"
+  },
+  {
+    "id": "PERCENT-023",
+    "topic": "Percent",
+    "difficultyBand": "easy",
+    "question": "Convert 60% to a fraction in simplest form.",
+    "answer": "3/5"
+  },
+  {
+    "id": "PERCENT-024",
+    "topic": "Percent",
+    "difficultyBand": "easy",
+    "question": "Convert 25% to a fraction in simplest form.",
+    "answer": "1/4"
+  },
+  {
+    "id": "PERCENT-025",
+    "topic": "Percent",
+    "difficultyBand": "easy",
+    "question": "Convert 80% to a fraction in simplest form.",
+    "answer": "4/5"
+  },
+  {
+    "id": "PERCENT-026",
+    "topic": "Percent",
+    "difficultyBand": "easy",
+    "question": "Convert 12.5% to a fraction in simplest form.",
+    "answer": "1/8"
+  },
+  {
+    "id": "PERCENT-027",
+    "topic": "Percent",
+    "difficultyBand": "easy",
+    "question": "Convert 0.45 to a percent.",
+    "answer": "45%"
+  },
+  {
+    "id": "PERCENT-028",
+    "topic": "Percent",
+    "difficultyBand": "easy",
+    "question": "Convert 0.08 to a percent.",
+    "answer": "8%"
+  },
+  {
+    "id": "PERCENT-029",
+    "topic": "Percent",
+    "difficultyBand": "easy",
+    "question": "Convert 1.25 to a percent.",
+    "answer": "125%"
+  },
+  {
+    "id": "PERCENT-030",
+    "topic": "Percent",
+    "difficultyBand": "easy",
+    "question": "Convert 0.6 to a percent.",
+    "answer": "60%"
+  },
+  {
+    "id": "PERCENT-031",
+    "topic": "Percent",
+    "difficultyBand": "easy",
+    "question": "Convert 35% to a decimal.",
+    "answer": "0.35"
+  },
+  {
+    "id": "PERCENT-032",
+    "topic": "Percent",
+    "difficultyBand": "easy",
+    "question": "Convert 7% to a decimal.",
+    "answer": "0.07"
+  },
+  {
+    "id": "PERCENT-033",
+    "topic": "Percent",
+    "difficultyBand": "easy",
+    "question": "Convert 150% to a decimal.",
+    "answer": "1.5"
+  },
+  {
+    "id": "PERCENT-034",
+    "topic": "Percent",
+    "difficultyBand": "medium",
+    "question": "The number 240 is 60% of what number?",
+    "answer": "400"
+  },
+  {
+    "id": "PERCENT-035",
+    "topic": "Percent",
+    "difficultyBand": "medium",
+    "question": "The number 4 is 16% of what number?",
+    "answer": "25"
+  },
+  {
+    "id": "PERCENT-036",
+    "topic": "Percent",
+    "difficultyBand": "medium",
+    "question": "The number 6 is 20% of what number?",
+    "answer": "30"
+  },
+  {
+    "id": "PERCENT-037",
+    "topic": "Percent",
+    "difficultyBand": "medium",
+    "question": "The number 9 is 30% of what number?",
+    "answer": "30"
+  },
+  {
+    "id": "PERCENT-038",
+    "topic": "Percent",
+    "difficultyBand": "medium",
+    "question": "The number 12 is 25% of what number?",
+    "answer": "48"
+  },
+  {
+    "id": "PERCENT-039",
+    "topic": "Percent",
+    "difficultyBand": "medium",
+    "question": "The number 15 is 50% of what number?",
+    "answer": "30"
+  },
+  {
+    "id": "PERCENT-040",
+    "topic": "Percent",
+    "difficultyBand": "medium",
+    "question": "The number 18 is 60% of what number?",
+    "answer": "30"
+  },
+  {
+    "id": "PERCENT-041",
+    "topic": "Percent",
+    "difficultyBand": "medium",
+    "question": "The number 20 is 40% of what number?",
+    "answer": "50"
+  },
+  {
+    "id": "PERCENT-042",
+    "topic": "Percent",
+    "difficultyBand": "medium",
+    "question": "The number 21 is 70% of what number?",
+    "answer": "30"
+  },
+  {
+    "id": "PERCENT-043",
+    "topic": "Percent",
+    "difficultyBand": "medium",
+    "question": "The number 24 is 80% of what number?",
+    "answer": "30"
+  },
+  {
+    "id": "PERCENT-044",
+    "topic": "Percent",
+    "difficultyBand": "medium",
+    "question": "The number 25 is 10% of what number?",
+    "answer": "250"
+  },
+  {
+    "id": "PERCENT-045",
+    "topic": "Percent",
+    "difficultyBand": "medium",
+    "question": "The number 30 is 75% of what number?",
+    "answer": "40"
+  },
+  {
+    "id": "PERCENT-046",
+    "topic": "Percent",
+    "difficultyBand": "medium",
+    "question": "The number 32 is 64% of what number?",
+    "answer": "50"
+  },
+  {
+    "id": "PERCENT-047",
+    "topic": "Percent",
+    "difficultyBand": "medium",
+    "question": "A painter painted 28 square feet of a wall. That area represents 40% of the total wall area. What is the total area of the wall?",
+    "answer": "70 square feet"
+  },
+  {
+    "id": "PERCENT-048",
+    "topic": "Percent",
+    "difficultyBand": "medium",
+    "question": "A group of 10 Science Club students is on a field trip. That number of students represents 20% of the total number of students in the Science Club. What is the total number of students in the Science Club?",
+    "answer": "50 students"
+  },
+  {
+    "id": "PERCENT-049",
+    "topic": "Percent",
+    "difficultyBand": "medium",
+    "question": "A bookstore sold 18 mystery books in one day. That number of books represents 30% of the total books sold that day. What is the total number of books sold?",
+    "answer": "60 books"
+  },
+  {
+    "id": "PERCENT-050",
+    "topic": "Percent",
+    "difficultyBand": "medium",
+    "question": "A runner completed 24 miles this week. That number of miles represents 40% of the total miles in her training goal. What is the total number of miles in her goal?",
+    "answer": "60 miles"
+  },
+  {
+    "id": "PERCENT-051",
+    "topic": "Percent",
+    "difficultyBand": "medium",
+    "question": "A class collected 15 cans for a food drive. That number of cans represents 25% of the total cans collected by the grade. What is the total number of cans collected?",
+    "answer": "60 cans"
+  },
+  {
+    "id": "PERCENT-052",
+    "topic": "Percent",
+    "difficultyBand": "medium",
+    "question": "A farmer picked 36 apples in the morning. That number of apples represents 60% of the total apples picked that day. What is the total number of apples picked?",
+    "answer": "60 apples"
+  },
+  {
+    "id": "PERCENT-053",
+    "topic": "Percent",
+    "difficultyBand": "medium",
+    "question": "A student answered 8 questions correctly. That number of questions represents 16% of the total questions on the test. What is the total number of questions on the test?",
+    "answer": "50 questions"
+  },
+  {
+    "id": "PERCENT-054",
+    "topic": "Percent",
+    "difficultyBand": "medium",
+    "question": "A bakery sold 27 cupcakes before noon. That number of cupcakes represents 45% of the total cupcakes sold that day. What is the total number of cupcakes sold?",
+    "answer": "60 cupcakes"
+  },
+  {
+    "id": "PERCENT-055",
+    "topic": "Percent",
+    "difficultyBand": "medium",
+    "question": "A water tank has 12 gallons of water in it. That amount represents 15% of the tank’s total capacity. What is the total capacity of the tank?",
+    "answer": "80 gallons"
+  },
+  {
+    "id": "PERCENT-056",
+    "topic": "Percent",
+    "difficultyBand": "medium",
+    "question": "A soccer player made 35 passes during a game. That number of passes represents 70% of the team’s total passes. What is the total number of passes?",
+    "answer": "50 passes"
+  },
+  {
+    "id": "PERCENT-057",
+    "topic": "Percent",
+    "difficultyBand": "medium",
+    "question": "A library checked out 42 fiction books. That number of books represents 75% of all books checked out. What is the total number of books checked out?",
+    "answer": "56 books"
+  },
+  {
+    "id": "PERCENT-058",
+    "topic": "Percent",
+    "difficultyBand": "medium",
+    "question": "A student spent 16 minutes reading. That amount of time represents 20% of the total time she studied. What is the total study time?",
+    "answer": "80 minutes"
+  },
+  {
+    "id": "PERCENT-059",
+    "topic": "Percent",
+    "difficultyBand": "medium",
+    "question": "A store sold 54 shirts on Saturday. That number of shirts represents 90% of the shirts sold over the weekend. What is the total number of shirts sold over the weekend?",
+    "answer": "60 shirts"
+  },
+  {
+    "id": "PERCENT-060",
+    "topic": "Percent",
+    "difficultyBand": "medium",
+    "question": "A recipe uses 14 ounces of flour. That amount represents 35% of the total weight of the ingredients. What is the total weight of the ingredients?",
+    "answer": "40 ounces"
+  },
+  {
+    "id": "PERCENT-061",
+    "topic": "Percent",
+    "difficultyBand": "medium",
+    "question": "A theater sold 22 student tickets. That number of tickets represents 55% of all tickets sold. What is the total number of tickets sold?",
+    "answer": "40 tickets"
+  },
+  {
+    "id": "PERCENT-062",
+    "topic": "Percent",
+    "difficultyBand": "medium",
+    "question": "A bike rider traveled 48 kilometers. That distance represents 80% of the full route. What is the total length of the route?",
+    "answer": "60 kilometers"
+  },
+  {
+    "id": "PERCENT-063",
+    "topic": "Percent",
+    "difficultyBand": "medium",
+    "question": "A jar contains 6 red marbles. That number of marbles represents 12% of all marbles in the jar. What is the total number of marbles in the jar?",
+    "answer": "50 marbles"
+  },
+  {
+    "id": "PERCENT-064",
+    "topic": "Percent",
+    "difficultyBand": "medium",
+    "question": "A worker packed 30 boxes in the morning. That number of boxes represents 50% of the boxes packed that day. What is the total number of boxes packed?",
+    "answer": "60 boxes"
+  },
+  {
+    "id": "PERCENT-065",
+    "topic": "Percent",
+    "difficultyBand": "medium",
+    "question": "A school printed 72 flyers. That number of flyers represents 60% of the total flyers needed. What is the total number of flyers needed?",
+    "answer": "120 flyers"
+  },
+  {
+    "id": "PERCENT-066",
+    "topic": "Percent",
+    "difficultyBand": "medium",
+    "question": "A team scored 45 points in the first half. That number of points represents 75% of the total points scored in the game. What is the total number of points scored?",
+    "answer": "60 points"
+  },
+  {
+    "id": "PERCENT-067",
+    "topic": "Percent",
+    "difficultyBand": "hard",
+    "question": "All the students at a park either played soccer or basketball. 75% of the students played soccer. 60 students played basketball. How many students were at the park?",
+    "answer": "240 students"
+  },
+  {
+    "id": "PERCENT-068",
+    "topic": "Percent",
+    "difficultyBand": "hard",
+    "question": "All the students in the sixth grade either purchased their lunch or brought their lunch from home on Monday. 24% of the students purchased their lunch. 190 students brought their lunch from home. How many students are in the sixth grade?",
+    "answer": "250 students"
+  },
+  {
+    "id": "PERCENT-069",
+    "topic": "Percent",
+    "difficultyBand": "hard",
+    "question": "All the students in a school either ride the bus or walk to school. 35% of the students ride the bus. 156 students walk to school. How many students are in the school?",
+    "answer": "240 students"
+  },
+  {
+    "id": "PERCENT-070",
+    "topic": "Percent",
+    "difficultyBand": "hard",
+    "question": "All the animals at a shelter are either cats or dogs. 40% of the animals are cats. 90 animals are dogs. How many animals are at the shelter?",
+    "answer": "150 animals"
+  },
+  {
+    "id": "PERCENT-071",
+    "topic": "Percent",
+    "difficultyBand": "hard",
+    "question": "All the shirts in a store are either red or blue. 28% of the shirts are red. 144 shirts are blue. How many shirts are in the store?",
+    "answer": "200 shirts"
+  },
+  {
+    "id": "PERCENT-072",
+    "topic": "Percent",
+    "difficultyBand": "hard",
+    "question": "All the students going on a field trip either paid online or paid in cash. 15% of the students paid online. 204 students paid in cash. How many students are going on the field trip?",
+    "answer": "240 students"
+  },
+  {
+    "id": "PERCENT-073",
+    "topic": "Percent",
+    "difficultyBand": "hard",
+    "question": "All the books checked out from a library are either fiction or nonfiction. 62% of the books are fiction. 76 books are nonfiction. How many books were checked out?",
+    "answer": "200 books"
+  },
+  {
+    "id": "PERCENT-074",
+    "topic": "Percent",
+    "difficultyBand": "hard",
+    "question": "All the plants in a garden are either tomato plants or pepper plants. 45% of the plants are tomato plants. 55 plants are pepper plants. How many plants are in the garden?",
+    "answer": "100 plants"
+  },
+  {
+    "id": "PERCENT-075",
+    "topic": "Percent",
+    "difficultyBand": "hard",
+    "question": "All the people at a concert are either adults or children. 30% of the people are adults. 210 people are children. How many people are at the concert?",
+    "answer": "300 people"
+  },
+  {
+    "id": "PERCENT-076",
+    "topic": "Percent",
+    "difficultyBand": "hard",
+    "question": "All the students who answered a survey either chose yes or no. 68% of the students chose yes. 80 students chose no. How many students answered the survey?",
+    "answer": "250 students"
+  },
+  {
+    "id": "PERCENT-077",
+    "topic": "Percent",
+    "difficultyBand": "hard",
+    "question": "All the students in a club are either girls or boys. 55% of the students are girls. 90 students are boys. How many students are in the club?",
+    "answer": "200 students"
+  },
+  {
+    "id": "PERCENT-078",
+    "topic": "Percent",
+    "difficultyBand": "hard",
+    "question": "All the people at a gym either used treadmills or used exercise bikes. 12% of the people used treadmills. 176 people used exercise bikes. How many people were at the gym?",
+    "answer": "200 people"
+  },
+  {
+    "id": "PERCENT-079",
+    "topic": "Percent",
+    "difficultyBand": "hard",
+    "question": "All the orders at a restaurant were either dine-in or takeout. 72% of the orders were dine-in. 84 orders were takeout. How many total orders were there?",
+    "answer": "300 orders"
+  },
+  {
+    "id": "PERCENT-080",
+    "topic": "Percent",
+    "difficultyBand": "hard",
+    "question": "All the players in a tournament were either on Team A or Team B. 20% of the players were on Team A. 128 players were on Team B. How many players were in the tournament?",
+    "answer": "160 players"
+  },
+  {
+    "id": "PERCENT-081",
+    "topic": "Percent",
+    "difficultyBand": "hard",
+    "question": "All the donations for a fundraiser were either made online or in person. 36% of the donations were made online. 160 donations were made in person. How many total donations were made?",
+    "answer": "250 donations"
+  },
+  {
+    "id": "PERCENT-082",
+    "topic": "Percent",
+    "difficultyBand": "hard",
+    "question": "All the fruit in a basket is either apples or oranges. 25% of the fruit are apples. 225 pieces of fruit are oranges. How many pieces of fruit are in the basket?",
+    "answer": "300 pieces of fruit"
+  },
+  {
+    "id": "PERCENT-083",
+    "topic": "Percent",
+    "difficultyBand": "hard",
+    "question": "All the students in a music program are either in band or choir. 48% of the students are in band. 130 students are in choir. How many students are in the music program?",
+    "answer": "250 students"
+  },
+  {
+    "id": "PERCENT-084",
+    "topic": "Percent",
+    "difficultyBand": "hard",
+    "question": "At a school carnival, 5% of the prizes are large prizes, and 95% are small prizes. There are 300 prizes. How many prizes are large prizes?",
+    "answer": "15 large prizes"
+  },
+  {
+    "id": "PERCENT-085",
+    "topic": "Percent",
+    "difficultyBand": "hard",
+    "question": "In a school music concert, 20% of the audience are 7th graders, and 80% of the audience are 6th graders. There are 640 people in the audience. How many of them are 7th graders?",
+    "answer": "128 7th graders"
+  },
+  {
+    "id": "PERCENT-086",
+    "topic": "Percent",
+    "difficultyBand": "hard",
+    "question": "At a school play, 35% of the audience are parents, and 65% are students. There are 400 people in the audience. How many of them are parents?",
+    "answer": "140 parents"
+  },
+  {
+    "id": "PERCENT-087",
+    "topic": "Percent",
+    "difficultyBand": "hard",
+    "question": "In a basketball game, 25% of the fans are from School A, and 75% are from School B. There are 280 fans at the game. How many fans are from School A?",
+    "answer": "70 fans"
+  },
+  {
+    "id": "PERCENT-088",
+    "topic": "Percent",
+    "difficultyBand": "hard",
+    "question": "At a science fair, 40% of the visitors are teachers, and 60% are students. There are 350 visitors. How many visitors are teachers?",
+    "answer": "140 teachers"
+  },
+  {
+    "id": "PERCENT-089",
+    "topic": "Percent",
+    "difficultyBand": "hard",
+    "question": "In a school assembly, 15% of the students are 8th graders, and 85% are 7th graders. There are 600 students in the assembly. How many students are 8th graders?",
+    "answer": "90 students"
+  },
+  {
+    "id": "PERCENT-090",
+    "topic": "Percent",
+    "difficultyBand": "hard",
+    "question": "At a movie theater, 30% of the tickets sold are child tickets, and 70% are adult tickets. There are 250 tickets sold. How many child tickets were sold?",
+    "answer": "75 child tickets"
+  },
+  {
+    "id": "PERCENT-091",
+    "topic": "Percent",
+    "difficultyBand": "hard",
+    "question": "In a school club, 45% of the members are boys, and 55% are girls. There are 120 members in the club. How many members are boys?",
+    "answer": "54 boys"
+  },
+  {
+    "id": "PERCENT-092",
+    "topic": "Percent",
+    "difficultyBand": "hard",
+    "question": "At a food festival, 10% of the booths sell desserts, and 90% sell meals. There are 80 booths. How many booths sell desserts?",
+    "answer": "8 booths"
+  },
+  {
+    "id": "PERCENT-093",
+    "topic": "Percent",
+    "difficultyBand": "hard",
+    "question": "In a library, 60% of the books on a shelf are fiction, and 40% are nonfiction. There are 150 books on the shelf. How many books are fiction?",
+    "answer": "90 books"
+  },
+  {
+    "id": "PERCENT-094",
+    "topic": "Percent",
+    "difficultyBand": "hard",
+    "question": "At a field trip, 75% of the students ride buses, and 25% ride vans. There are 160 students on the field trip. How many students ride buses?",
+    "answer": "120 students"
+  },
+  {
+    "id": "PERCENT-095",
+    "topic": "Percent",
+    "difficultyBand": "hard",
+    "question": "In a soccer tournament, 50% of the players are in Group A, and 50% are in Group B. There are 96 players. How many players are in Group A?",
+    "answer": "48 players"
+  },
+  {
+    "id": "PERCENT-096",
+    "topic": "Percent",
+    "difficultyBand": "hard",
+    "question": "At a charity event, 65% of the volunteers are adults, and 35% are teenagers. There are 200 volunteers. How many volunteers are adults?",
+    "answer": "130 adults"
+  },
+  {
+    "id": "PERCENT-097",
+    "topic": "Percent",
+    "difficultyBand": "hard",
+    "question": "In a school survey, 20% of students chose math, and 80% chose science. There are 450 students in the survey. How many students chose math?",
+    "answer": "90 students"
+  },
+  {
+    "id": "PERCENT-098",
+    "topic": "Percent",
+    "difficultyBand": "hard",
+    "question": "At a pet shelter, 55% of the animals are dogs, and 45% are cats. There are 180 animals. How many animals are dogs?",
+    "answer": "99 dogs"
+  },
+  {
+    "id": "PERCENT-099",
+    "topic": "Percent",
+    "difficultyBand": "hard",
+    "question": "In an art contest, 70% of the entries are drawings, and 30% are paintings. There are 110 entries. How many entries are drawings?",
+    "answer": "77 drawings"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-001",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "What is the mean of the data set 18, 22, 25, 30? Round to the nearest tenth if it is a decimal.",
+    "answer": "23.8"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-002",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "What is the median of the data set 7, 9, 4, 5?",
+    "answer": "6"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-003",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "What is the mean of the data set 8, 10, 12? Round to the nearest tenth if it is a decimal.",
+    "answer": "10"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-004",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "What is the range of the data set 4, 9, 12?",
+    "answer": "8"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-005",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "What is the median of the data set 12, 3, 8?",
+    "answer": "8"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-006",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "What is the mean of the data set 4, 7, 9? Round to the nearest tenth if it is a decimal.",
+    "answer": "6.7"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-007",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "What is the range of the data set 7, 2, 10, 5?",
+    "answer": "8"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-008",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "What is the median of the data set 6, 10, 2, 4?",
+    "answer": "5"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-009",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "What is the mean of the data set 15, 20, 25, 30? Round to the nearest tenth if it is a decimal.",
+    "answer": "22.5"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-010",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "What is the range of the data set 20, 15, 30?",
+    "answer": "15"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-011",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "What is the median of the data set 15, 11, 20?",
+    "answer": "15"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-012",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "What is the mean of the data set 3, 8, 10? Round to the nearest tenth if it is a decimal.",
+    "answer": "7"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-013",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "What is the range of the data set 6, 6, 9, 14?",
+    "answer": "8"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-014",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "What is the median of the data set 9, 1, 7, 3?",
+    "answer": "5"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-015",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "What is the mean of the data set 6, 11, 13? Round to the nearest tenth if it is a decimal.",
+    "answer": "10"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-016",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "What is the range of the data set 11, 3, 8?",
+    "answer": "8"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-017",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "What is the median of the data set 14, 18, 16?",
+    "answer": "16"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-018",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "What is the mean of the data set 5, 9, 12, 14? Round to the nearest tenth if it is a decimal.",
+    "answer": "10"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-019",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "What is the range of the data set 25, 40, 35, 30?",
+    "answer": "15"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-020",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "What is the median of the data set 5, 5, 8, 10?",
+    "answer": "6.5"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-021",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "What is the mean of the data set 2, 5, 6? Round to the nearest tenth if it is a decimal.",
+    "answer": "4.3"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-022",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "What is the range of the data set 13, 19, 21?",
+    "answer": "8"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-023",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "A deck has 5 red cards, 3 blue cards, and 2 green cards. What is the probability of choosing a green card?",
+    "answer": "1/5"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-024",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "What is the probability of rolling a 4 on a 6-sided number cube?",
+    "answer": "1/6"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-025",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "A spinner has 4 equal sections: red, yellow, blue, and black. What is the probability of landing on blue?",
+    "answer": "1/4"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-026",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "A spinner has 8 equal sections numbered 1 to 8. What is the probability of landing on 7?",
+    "answer": "1/8"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-027",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "A bag has 3 red marbles, 2 blue marbles, and 5 green marbles. What is the probability of picking a blue marble?",
+    "answer": "1/5"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-028",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "A coin is flipped one time. What is the probability of landing on heads?",
+    "answer": "1/2"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-029",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "A spinner has 6 equal sections: 2 red, 1 yellow, 2 blue, and 1 black. What is the probability of landing on red?",
+    "answer": "1/3"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-030",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "A number cube has sides numbered 1 to 6. What is the probability of rolling a 5?",
+    "answer": "1/6"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-031",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "A box has 4 pencils, 6 pens, and 10 markers. What is the probability of choosing a pen?",
+    "answer": "3/10"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-032",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "A spinner has 10 equal sections numbered 1 to 10. What is the probability of landing on 6?",
+    "answer": "1/10"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-033",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "easy",
+    "question": "A bag has 5 yellow tiles and 15 blue tiles. What is the probability of picking a yellow tile?",
+    "answer": "1/4"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-034",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "A number cube has sides numbered 1 to 6. What is the probability of rolling a number less than 3?",
+    "answer": "1/3"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-035",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "A spinner has 10 equal sections numbered 1 to 10. What is the probability of landing on a number greater than 6?",
+    "answer": "2/5"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-036",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "A number cube has sides numbered 1 to 6. What is the probability of rolling an even number?",
+    "answer": "1/2"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-037",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "A spinner has 8 equal sections numbered 1 to 8. What is the probability of landing on a number less than 4?",
+    "answer": "3/8"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-038",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "A number cube has sides numbered 1 to 6. What is the probability of rolling a number greater than 2?",
+    "answer": "2/3"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-039",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "A spinner has 12 equal sections numbered 1 to 12. What is the probability of landing on an odd number?",
+    "answer": "1/2"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-040",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "A number cube has sides numbered 1 to 6. What is the probability of rolling a number less than 5?",
+    "answer": "2/3"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-041",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "A spinner has 9 equal sections numbered 1 to 9. What is the probability of landing on a number greater than 6?",
+    "answer": "1/3"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-042",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "A number cube has sides numbered 1 to 6. What is the probability of rolling a number divisible by 3?",
+    "answer": "1/3"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-043",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "A spinner has 10 equal sections numbered 1 to 10. What is the probability of landing on an even number?",
+    "answer": "1/2"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-044",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "A spinner has 8 equal sections numbered 1 to 8. What is the probability of landing on a number greater than 5?",
+    "answer": "3/8"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-045",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "What is the mean of the data set 13, 13, 13, 20, 20, 25, 7, 9, 11, 15? Round to the nearest tenth if needed.",
+    "answer": "14.6"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-046",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "What is the median of the data set 7, 9, 5, 5, 9, 6, 8?",
+    "answer": "7"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-047",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "What is the mean of the data set 12, 15, 18, 20, 10, 25, 16? Round to the nearest tenth if needed.",
+    "answer": "16.6"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-048",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "What is the median of the data set 14, 6, 22, 18, 10, 10, 24, 8?",
+    "answer": "12"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-049",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "What is the mean of the data set 5, 9, 13, 17, 21, 25, 11, 15? Round to the nearest tenth if needed.",
+    "answer": "14.5"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-050",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "What is the median of the data set 25, 20, 15, 10, 5, 12, 18, 22, 9?",
+    "answer": "15"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-051",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "What is the mean of the data set 8, 8, 12, 14, 16, 18, 20, 24? Round to the nearest tenth if needed.",
+    "answer": "15"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-052",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "What is the median of the data set 6, 7, 8, 15, 25, 23, 22, 21, 20, 19?",
+    "answer": "19.5"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-053",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "What is the mean of the data set 7, 11, 15, 19, 23, 25, 9, 13, 17? Round to the nearest tenth if needed.",
+    "answer": "15.4"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-054",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "What is the median of the data set 11, 13, 15, 17, 19, 21, 23?",
+    "answer": "17"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-055",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "What is the mean of the data set 6, 10, 14, 18, 22, 8, 12, 16, 20, 24? Round to the nearest tenth if needed.",
+    "answer": "15"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-056",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "What is the median of the data set 5, 25, 10, 20, 15, 15, 12, 18?",
+    "answer": "15"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-057",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "What is the mean of the data set 9, 14, 19, 24, 5, 10, 15? Round to the nearest tenth if needed.",
+    "answer": "13.7"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-058",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "What is the median of the data set 16, 6, 8, 10, 12, 14, 18, 20, 22?",
+    "answer": "14"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-059",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "What is the mean of the data set 25, 25, 20, 15, 10, 5, 5, 12? Round to the nearest tenth if needed.",
+    "answer": "14.6"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-060",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "What is the median of the data set 7, 9, 11, 13, 15, 17, 19, 21, 23, 25?",
+    "answer": "16"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-061",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "What is the mean of the data set 11, 13, 17, 19, 23, 7, 9, 25, 15? Round to the nearest tenth if needed.",
+    "answer": "15.4"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-062",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "What is the median of the data set 24, 22, 20, 18, 16, 14, 12, 10?",
+    "answer": "17"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-063",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "What is the mean of the data set 5, 6, 7, 8, 9, 10, 11? Round to the nearest tenth if needed.",
+    "answer": "8"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-064",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "What is the median of the data set 9, 9, 12, 12, 15, 18, 21, 24, 25?",
+    "answer": "15"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-065",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "What is the mean of the data set 18, 20, 22, 24, 6, 8, 10, 12, 14, 16? Round to the nearest tenth if needed.",
+    "answer": "15"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-066",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "medium",
+    "question": "What is the median of the data set 5, 8, 8, 11, 14, 17, 20, 23?",
+    "answer": "12.5"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-067",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "What is the interquartile range of the data set 8, 10, 12, 14, 18, 20, 22, 25, 6?",
+    "answer": "12"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-068",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "What is the interquartile range of the data set 7, 12, 5, 18, 20, 9, 15?",
+    "answer": "11"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-069",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "What is the interquartile range of the data set 10, 22, 14, 6, 18, 25, 12, 8?",
+    "answer": "11"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-070",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "What is the interquartile range of the data set 9, 11, 17, 23, 5, 13, 19, 21, 15?",
+    "answer": "10"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-071",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "What is the interquartile range of the data set 6, 8, 10, 12, 14, 16, 18, 20, 22, 24?",
+    "answer": "10"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-072",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "What is the interquartile range of the data set 25, 7, 9, 13, 15, 17, 19?",
+    "answer": "10"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-073",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "What is the interquartile range of the data set 5, 6, 12, 12, 18, 20, 24, 25?",
+    "answer": "13"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-074",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "What is the interquartile range of the data set 11, 14, 7, 22, 16, 9, 20, 25, 13, 18?",
+    "answer": "9"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-075",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "What is the interquartile range of the data set 8, 8, 10, 15, 21, 23, 25?",
+    "answer": "15"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-076",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "What is the interquartile range of the data set 19, 5, 7, 13, 14, 16, 22, 24?",
+    "answer": "10.5"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-077",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "What is the interquartile range of the data set 6, 9, 12, 15, 18, 21, 24, 25, 10?",
+    "answer": "13"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-078",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "What is the interquartile range of the data set 5, 10, 10, 14, 18, 22, 22, 25?",
+    "answer": "12"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-079",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "What is the interquartile range of the data set 7, 11, 15, 19, 23, 25, 9?",
+    "answer": "14"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-080",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "What is the interquartile range of the data set 12, 16, 20, 24, 8, 10, 14, 18, 22, 6?",
+    "answer": "10"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-081",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "What is the interquartile range of the data set 5, 7, 15, 15, 18, 21, 25?",
+    "answer": "14"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-082",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "What is the interquartile range of the data set 9, 13, 17, 21, 25, 5, 11, 19?",
+    "answer": "10"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-083",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "What is the interquartile range of the data set 6, 12, 18, 24, 8, 14, 20, 10, 16?",
+    "answer": "10"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-084",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "What is the interquartile range of the data set 25, 20, 15, 10, 5, 12, 18, 22, 8, 24?",
+    "answer": "12"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-085",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "What is the interquartile range of the data set 7, 7, 9, 13, 17, 21, 25?",
+    "answer": "14"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-086",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "What is the interquartile range of the data set 5, 9, 14, 18, 23, 25, 11, 16?",
+    "answer": "10.5"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-087",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "What is the interquartile range of the data set 6, 8, 11, 13, 17, 19, 22, 24, 25?",
+    "answer": "13.5"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-088",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "What is the interquartile range of the data set 10, 12, 14, 16, 18, 20, 22, 24?",
+    "answer": "8"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-089",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "What is the interquartile range of the data set 5, 6, 9, 15, 20, 21, 25, 25?",
+    "answer": "15.5"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-090",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "What is the interquartile range of the data set 8, 12, 16, 20, 24, 6, 10, 14, 18, 22?",
+    "answer": "10"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-091",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "What is the interquartile range of the data set 7, 10, 13, 16, 19, 22, 25?",
+    "answer": "12"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-092",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "What is the interquartile range of the data set 5, 8, 12, 17, 21, 24, 25, 9?",
+    "answer": "14"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-093",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "What is the interquartile range of the data set 6, 11, 13, 18, 20, 23, 25, 7, 15?",
+    "answer": "12.5"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-094",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "What is the interquartile range of the data set 9, 14, 19, 24, 5, 10, 15, 20, 25, 6?",
+    "answer": "11"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-095",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "What is the interquartile range of the data set 12, 12, 14, 16, 18, 20, 22?",
+    "answer": "8"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-096",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "What is the interquartile range of the data set 5, 7, 9, 11, 17, 19, 21, 23?",
+    "answer": "12"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-097",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "What is the interquartile range of the data set 6, 10, 13, 15, 18, 21, 24, 25, 8?",
+    "answer": "13.5"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-098",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "What is the interquartile range of the data set 7, 11, 11, 16, 16, 20, 24, 24?",
+    "answer": "11"
+  },
+  {
+    "id": "STATISTICS_AND_PROBABILITIES-099",
+    "topic": "Statistics and Probabilities",
+    "difficultyBand": "hard",
+    "question": "What is the interquartile range of the data set 5, 9, 13, 17, 21, 25, 7, 11, 15, 19?",
+    "answer": "10"
+  },
+  {
+    "id": "EXTRA_CREDIT-001",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "15−3(___−2)+6=9",
+    "answer": "6"
+  },
+  {
+    "id": "EXTRA_CREDIT-002",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "8+4(___−1)−5=15",
+    "answer": "4"
+  },
+  {
+    "id": "EXTRA_CREDIT-003",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "25−5(___−4)+10=20",
+    "answer": "7"
+  },
+  {
+    "id": "EXTRA_CREDIT-004",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "18+2(___−6)−4=10",
+    "answer": "4"
+  },
+  {
+    "id": "EXTRA_CREDIT-005",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "30−6(___−2)+12=18",
+    "answer": "6"
+  },
+  {
+    "id": "EXTRA_CREDIT-006",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "7+3(___−4)−2=23",
+    "answer": "10"
+  },
+  {
+    "id": "EXTRA_CREDIT-007",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "16−2(___−5)+8=12",
+    "answer": "11"
+  },
+  {
+    "id": "EXTRA_CREDIT-008",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "9−3(___−2)+5=8",
+    "answer": "4"
+  },
+  {
+    "id": "EXTRA_CREDIT-009",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "14+2(___−3)−6=10",
+    "answer": "4"
+  },
+  {
+    "id": "EXTRA_CREDIT-010",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "20−4(___−5)+12=16",
+    "answer": "9"
+  },
+  {
+    "id": "EXTRA_CREDIT-011",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "6+3(___−1)−4=11",
+    "answer": "4"
+  },
+  {
+    "id": "EXTRA_CREDIT-012",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "18−2(___−4)+6=14",
+    "answer": "9"
+  },
+  {
+    "id": "EXTRA_CREDIT-013",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "10+5(___−2)−8=17",
+    "answer": "5"
+  },
+  {
+    "id": "EXTRA_CREDIT-014",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "25−5(___−3)+10=20",
+    "answer": "6"
+  },
+  {
+    "id": "EXTRA_CREDIT-015",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "12+4(___−2)−6=18",
+    "answer": "5"
+  },
+  {
+    "id": "EXTRA_CREDIT-016",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "16−3(___−4)+8=15",
+    "answer": "7"
+  },
+  {
+    "id": "EXTRA_CREDIT-017",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "7+2(___−3)−5=6",
+    "answer": "5"
+  },
+  {
+    "id": "EXTRA_CREDIT-018",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "30−6(___−2)+12=24",
+    "answer": "5"
+  },
+  {
+    "id": "EXTRA_CREDIT-019",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "29-6(___-1)+2=13",
+    "answer": "4"
+  },
+  {
+    "id": "EXTRA_CREDIT-020",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "7(___+1)-2(5-3)=10",
+    "answer": "1"
+  },
+  {
+    "id": "EXTRA_CREDIT-021",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "15−3(___−2)+4=22",
+    "answer": "1"
+  },
+  {
+    "id": "EXTRA_CREDIT-022",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "12+4(___−3)−5=19",
+    "answer": "6"
+  },
+  {
+    "id": "EXTRA_CREDIT-023",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "20−5(___+2)+6=11",
+    "answer": "1"
+  },
+  {
+    "id": "EXTRA_CREDIT-024",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "18−4(___−2)+3=15",
+    "answer": "3.5"
+  },
+  {
+    "id": "EXTRA_CREDIT-025",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "25−5(___+3)+7=12",
+    "answer": "1"
+  },
+  {
+    "id": "EXTRA_CREDIT-026",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "14+3(___−4)−6=20",
+    "answer": "8"
+  },
+  {
+    "id": "EXTRA_CREDIT-027",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "30−6(___+2)+4=10",
+    "answer": "2"
+  },
+  {
+    "id": "EXTRA_CREDIT-028",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "22−3(___−5)+7=38",
+    "answer": "2"
+  },
+  {
+    "id": "EXTRA_CREDIT-029",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "16+2(___−3)−5=19",
+    "answer": "7"
+  },
+  {
+    "id": "EXTRA_CREDIT-030",
+    "topic": "Extra Credit",
+    "difficultyBand": "EC",
+    "question": "24−4(___+2)+6=14",
+    "answer": "2"
+  }
+]
