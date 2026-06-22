@@ -1389,77 +1389,77 @@
     "id": "ALGEBRAIC_EXPRESSIONS-001",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "What is the value of the expression shown below when q = 5? q^2 - 3q",
+    "question": "What is the value of the expression shown below when q = 5?             q^2 - 3q",
     "answer": "10"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-002",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "What is the value of the expression shown below when x = 3? x^2 + 5",
+    "question": "What is the value of the expression shown below when x = 3?             x^2 + 5",
     "answer": "14"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-003",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "What is the value of the expression shown below when m = 6? 4m - 7",
+    "question": "What is the value of the expression shown below when m = 6?            4m - 7",
     "answer": "17"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-004",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "What is the value of the expression shown below when a = 5? (a + 3) × 2",
+    "question": "What is the value of the expression shown below when a = 5?            (a + 3) × 2",
     "answer": "16"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-005",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "What is the value of the expression shown below when n = 4? n^3 - 10",
+    "question": "What is the value of the expression shown below when n = 4?             n^3 - 10",
     "answer": "54"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-006",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "What is the value of the expression shown below when p = 8? 48 ÷ p + 6",
+    "question": "What is the value of the expression shown below when p = 8?             48 ÷ p + 6",
     "answer": "12"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-007",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "What is the value of the expression shown below when y = 2? (y + 6)^2",
+    "question": "What is the value of the expression shown below when y = 2?             (y + 6)^2",
     "answer": "64"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-008",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "What is the value of the expression shown below when k = 10? k ÷ 2 + 9",
+    "question": "What is the value of the expression shown below when k = 10?            k ÷ 2 + 9",
     "answer": "14"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-009",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "What is the value of the expression shown below when b = 7? 3(b - 2)",
+    "question": "What is the value of the expression shown below when b = 7?             3(b - 2)",
     "answer": "15"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-010",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "What is the value of the expression shown below when r = 3? r^4 + 1",
+    "question": "What is the value of the expression shown below when r = 3?             r^4 + 1",
     "answer": "82"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-011",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "What is the value of the expression shown below when t = 12? (t - 4) ÷ 2",
+    "question": "What is the value of the expression shown below when t = 12?            (t - 4) ÷ 2",
     "answer": "4"
   },
   {
@@ -1620,77 +1620,77 @@
     "id": "ALGEBRAIC_EXPRESSIONS-034",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "What is the value of the expression shown below when j = 5 and a = 10? 4j + a ÷ 2",
+    "question": "What is the value of the expression shown below when j = 5 and a = 10?             4j + a ÷ 2",
     "answer": "25"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-035",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "What is the value of the expression shown below when x = 3 and y = 4? 2x + 5y",
+    "question": "What is the value of the expression shown below when x = 3 and y = 4?             2x + 5y",
     "answer": "26"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-036",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "What is the value of the expression shown below when a = 6 and b = 2? 4a - 3b",
+    "question": "What is the value of the expression shown below when a = 6 and b = 2?             4a - 3b",
     "answer": "18"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-037",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "What is the value of the expression shown below when m = 5 and n = 7? mn + 8",
+    "question": "What is the value of the expression shown below when m = 5 and n = 7?             mn + 8",
     "answer": "43"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-038",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "What is the value of the expression shown below when p = 12 and q = 3? p ÷ q + 9",
+    "question": "What is the value of the expression shown below when p = 12 and q = 3?             p ÷ q + 9",
     "answer": "13"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-039",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "What is the value of the expression shown below when r = 4 and s = 2? r^2 + 6s",
+    "question": "What is the value of the expression shown below when r = 4 and s = 2?             r^2 + 6s",
     "answer": "28"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-040",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "What is the value of the expression shown below when c = 10 and d = 5? 3c - d^2",
+    "question": "What is the value of the expression shown below when c = 10 and d = 5?             3c - d^2",
     "answer": "5"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-041",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "What is the value of the expression shown below when u = 8 and v = 2? (u + v) × 3",
+    "question": "What is the value of the expression shown below when u = 8 and v = 2?             (u + v) × 3",
     "answer": "30"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-042",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "What is the value of the expression shown below when h = 9 and k = 4? 2h + k^2",
+    "question": "What is the value of the expression shown below when h = 9 and k = 4?             2h + k^2",
     "answer": "34"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-043",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "What is the value of the expression shown below when e = 7 and f = 3? 5e - 2f",
+    "question": "What is the value of the expression shown below when e = 7 and f = 3?             5e - 2f",
     "answer": "29"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-044",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "What is the value of the expression shown below when w = 6 and z = 2? w^2 ÷ z",
+    "question": "What is the value of the expression shown below when w = 6 and z = 2?             w^2 ÷ z",
     "answer": "18"
   },
   {
