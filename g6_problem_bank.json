@@ -1389,14 +1389,14 @@
     "id": "ALGEBRAIC_EXPRESSIONS-001",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "If q=5, evaluate the expression:             q^2 - 3q",
+    "question": "If q=5, evaluate the expression:             q² - 3q",
     "answer": "10"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-002",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "If x=3, evaluate the expression:             x^2 + 5",
+    "question": "If x=3, evaluate the expression:             x² + 5",
     "answer": "14"
   },
   {
@@ -1417,7 +1417,7 @@
     "id": "ALGEBRAIC_EXPRESSIONS-005",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "If n=4, evaluate the expression:             n^3 - 10",
+    "question": "If n=4, evaluate the expression:             n³ - 10",
     "answer": "54"
   },
   {
@@ -1431,7 +1431,7 @@
     "id": "ALGEBRAIC_EXPRESSIONS-007",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "If y = 2, evaluate the expression:            (y + 6)^2",
+    "question": "If y = 2, evaluate the expression:            (y + 6)²",
     "answer": "64"
   },
   {
@@ -1452,7 +1452,7 @@
     "id": "ALGEBRAIC_EXPRESSIONS-010",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "If r=3, evaluate the expression:             r^4 + 1",
+    "question": "If r=3, evaluate the expression:             r⁴ + 1",
     "answer": "82"
   },
   {
@@ -1466,14 +1466,14 @@
     "id": "ALGEBRAIC_EXPRESSIONS-012",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "What is the coefficient in the expression x^2?",
+    "question": "What is the coefficient in the expression x²?",
     "answer": "1"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-013",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "What is the coefficient in the expression 2x^3?",
+    "question": "What is the coefficient in the expression 2x³?",
     "answer": "2"
   },
   {
@@ -1501,7 +1501,7 @@
     "id": "ALGEBRAIC_EXPRESSIONS-017",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "What is the coefficient in the expression -3m^2?",
+    "question": "What is the coefficient in the expression -3m²?",
     "answer": "-3"
   },
   {
@@ -1515,7 +1515,7 @@
     "id": "ALGEBRAIC_EXPRESSIONS-019",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "What is the coefficient in the expression 7p^4?",
+    "question": "What is the coefficient in the expression 7p⁴?",
     "answer": "7"
   },
   {
@@ -1536,7 +1536,7 @@
     "id": "ALGEBRAIC_EXPRESSIONS-022",
     "topic": "Algebraic Expressions",
     "difficultyBand": "easy",
-    "question": "What is the constant term in the expression 3b^2 + 5b + 11?",
+    "question": "What is the constant term in the expression 3b² + 5b + 11?",
     "answer": "11"
   },
   {
@@ -1655,14 +1655,14 @@
     "id": "ALGEBRAIC_EXPRESSIONS-039",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "If r = 4 and s = 2, evaluate the expression:             r^2 + 6s",
+    "question": "If r = 4 and s = 2, evaluate the expression:             r² + 6s",
     "answer": "28"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-040",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "If c = 10 and d = 5, evaluate the expression:             3c - d^2",
+    "question": "If c = 10 and d = 5, evaluate the expression:             3c - d²",
     "answer": "5"
   },
   {
@@ -1676,7 +1676,7 @@
     "id": "ALGEBRAIC_EXPRESSIONS-042",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "If h = 9 and k = 4, evaluate the expression:             2h + k^2",
+    "question": "If h = 9 and k = 4, evaluate the expression:             2h + k²",
     "answer": "34"
   },
   {
@@ -1690,7 +1690,7 @@
     "id": "ALGEBRAIC_EXPRESSIONS-044",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "If w = 6 and z = 2, evaluate the expression:             w^2 ÷ z",
+    "question": "If w = 6 and z = 2, evaluate the expression:             w² ÷ z",
     "answer": "18"
   },
   {
@@ -1774,77 +1774,77 @@
     "id": "ALGEBRAIC_EXPRESSIONS-056",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Evaluate: 2^3",
+    "question": "Evaluate: 2³",
     "answer": "8"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-057",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Evaluate: 3^3",
+    "question": "Evaluate: 3³",
     "answer": "27"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-058",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Evaluate: 4^3",
+    "question": "Evaluate: 4³",
     "answer": "64"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-059",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Evaluate: 2^5",
+    "question": "Evaluate: 2⁵",
     "answer": "32"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-060",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Evaluate: 5^2",
+    "question": "Evaluate: 5²",
     "answer": "25"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-061",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Evaluate: 6^2",
+    "question": "Evaluate: 6²",
     "answer": "36"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-062",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Evaluate: 10^3",
+    "question": "Evaluate: 10³",
     "answer": "1000"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-063",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Evaluate: 3^4",
+    "question": "Evaluate: 3⁴",
     "answer": "81"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-064",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Evaluate: 4^2",
+    "question": "Evaluate: 4²",
     "answer": "16"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-065",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Evaluate: 2^6",
+    "question": "Evaluate: 2⁶",
     "answer": "64"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-066",
     "topic": "Algebraic Expressions",
     "difficultyBand": "medium",
-    "question": "Evaluate: 5^3",
+    "question": "Evaluate: 5³",
     "answer": "125"
   },
   {
@@ -1852,7 +1852,7 @@
     "topic": "Algebraic Expressions",
     "difficultyBand": "hard",
     "question": "What expression represents 5 more than the square of a number k?",
-    "answer": "k^2 + 5"
+    "answer": "k² + 5"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-068",
@@ -1866,7 +1866,7 @@
     "topic": "Algebraic Expressions",
     "difficultyBand": "hard",
     "question": "What expression represents 10 more than the square of 3?",
-    "answer": "3^2 + 10"
+    "answer": "3² + 10"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-070",
@@ -1880,7 +1880,7 @@
     "topic": "Algebraic Expressions",
     "difficultyBand": "hard",
     "question": "What expression represents 6 less than the square of a number n?",
-    "answer": "n^2 - 6"
+    "answer": "n² - 6"
   },
   {
     "id": "ALGEBRAIC_EXPRESSIONS-072",
@@ -2012,7 +2012,7 @@
     "id": "ALGEBRAIC_EXPRESSIONS-090",
     "topic": "Algebraic Expressions",
     "difficultyBand": "hard",
-    "question": "The volume, V, of any cube with a side length, s, can be determined using the formula V = s^3. What is the volume, in cubic centimeters, of a cube with a side length of 2 centimeters?",
+    "question": "The volume, V, of any cube with a side length, s, can be determined using the formula V = s³. What is the volume, in cubic centimeters, of a cube with a side length of 2 centimeters?",
     "answer": "8 cubic centimeters"
   },
   {
@@ -2061,7 +2061,7 @@
     "id": "ALGEBRAIC_EXPRESSIONS-097",
     "topic": "Algebraic Expressions",
     "difficultyBand": "hard",
-    "question": "The area, A, of a square can be determined using the formula A = s^2. What is the area of a square with a side length of 9 inches?",
+    "question": "The area, A, of a square can be determined using the formula A = s². What is the area of a square with a side length of 9 inches?",
     "answer": "81 square inches"
   },
   {
